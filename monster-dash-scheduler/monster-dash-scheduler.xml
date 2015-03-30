@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocMonsterDashSchedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DocScheduleList>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>0</ScheduleId>
+      <ScheduleLayerId>2</ScheduleLayerId>
+      <ScheduleName>ノーマルガチャ</ScheduleName>
+      <ScheduleKindCode>GACHA</ScheduleKindCode>
+      <DataId>0</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2014-12-01T00:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>1</ScheduleId>
+      <ScheduleLayerId>3</ScheduleLayerId>
+      <ScheduleName>プレミアガチャ</ScheduleName>
+      <ScheduleKindCode>GACHA</ScheduleKindCode>
+      <DataId>1</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2014-12-01T00:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>2</ScheduleId>
+      <ScheduleLayerId>100000</ScheduleLayerId>
+      <ScheduleName>サンプルイベントステージ</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2014-11-02T00:00:00</StartDateTime>
+        <EndDateTime>2014-12-02T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleId>3</ScheduleId>
+      <ScheduleLayerId>0</ScheduleLayerId>
+      <ScheduleName />
+      <ScheduleKindCode>GAME_BALANCE</ScheduleKindCode>
+      <DataId>0</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2014-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleId>4</ScheduleId>
+      <ScheduleLayerId>1</ScheduleLayerId>
+      <ScheduleName>ダミーキャンペーンスケジュール</ScheduleName>
+      <ScheduleKindCode>CAMPAIGN</ScheduleKindCode>
+      <DataId>0</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2014-12-01T00:00:00</StartDateTime>
+        <EndDateTime>2015-03-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>5</ScheduleId>
+      <ScheduleLayerId>300000</ScheduleLayerId>
+      <ScheduleName />
+      <ScheduleKindCode>MAIL</ScheduleKindCode>
+      <DataId>0</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2014-12-11T00:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>DAILY</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>6</ScheduleId>
+      <ScheduleLayerId>300001</ScheduleLayerId>
+      <ScheduleName />
+      <ScheduleKindCode>MAIL</ScheduleKindCode>
+      <DataId>1</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2014-12-12T00:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>ONCE</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>7</ScheduleId>
+      <ScheduleLayerId>4</ScheduleLayerId>
+      <ScheduleName>イベントガチャ</ScheduleName>
+      <ScheduleKindCode>GACHA</ScheduleKindCode>
+      <DataId>2</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2014-12-01T00:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>8</ScheduleId>
+      <ScheduleLayerId>6</ScheduleLayerId>
+      <ScheduleName />
+      <ScheduleKindCode>LOGIN_BONUS</ScheduleKindCode>
+      <DataId>0</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2014-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>9</ScheduleId>
+      <ScheduleLayerId>7</ScheduleLayerId>
+      <ScheduleName />
+      <ScheduleKindCode>INVITE_FRIEND</ScheduleKindCode>
+      <DataId>0</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-02-02T00:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+  </DocScheduleList>
+  <DocScheduleLayerList>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>0</ScheduleLayerId>
+      <ScheduleLayerName>ゲームバランス</ScheduleLayerName>
+      <ScheduleKindCode>GAME_BALANCE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>PaleTurquoise</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>1</ScheduleLayerId>
+      <ScheduleLayerName>キャンペーン</ScheduleLayerName>
+      <ScheduleKindCode>CAMPAIGN</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Salmon</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>2</ScheduleLayerId>
+      <ScheduleLayerName>ガチャ : ノーマル</ScheduleLayerName>
+      <ScheduleKindCode>GACHA</ScheduleKindCode>
+      <GachaTypeCode>NORMAL</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>PaleGreen</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>3</ScheduleLayerId>
+      <ScheduleLayerName>ガチャ : プレミア</ScheduleLayerName>
+      <ScheduleKindCode>GACHA</ScheduleKindCode>
+      <GachaTypeCode>PREMIER</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>CornflowerBlue</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>4</ScheduleLayerId>
+      <ScheduleLayerName>ガチャ : イベント</ScheduleLayerName>
+      <ScheduleKindCode>GACHA</ScheduleKindCode>
+      <GachaTypeCode>EVENT</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Violet</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>5</ScheduleLayerId>
+      <ScheduleLayerName>アイテムショップ</ScheduleLayerName>
+      <ScheduleKindCode>ITEM_SHOP</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Gold</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>6</ScheduleLayerId>
+      <ScheduleLayerName>ログインボーナス</ScheduleLayerName>
+      <ScheduleKindCode>LOGIN_BONUS</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Silver</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>7</ScheduleLayerId>
+      <ScheduleLayerName>友達招待</ScheduleLayerName>
+      <ScheduleKindCode>INVITE_FRIEND</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Chocolate</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100</ScheduleLayerId>
+      <ScheduleLayerName>バナー : ホームTOP</ScheduleLayerName>
+      <ScheduleKindCode>BANNER</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>HOME</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>PaleGreen</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>101</ScheduleLayerId>
+      <ScheduleLayerName>バナー : レース画面TOP</ScheduleLayerName>
+      <ScheduleKindCode>BANNER</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>RACE</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>PaleGreen</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>102</ScheduleLayerId>
+      <ScheduleLayerName>バナー : モンスター画面TOP</ScheduleLayerName>
+      <ScheduleKindCode>BANNER</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>MONSTER</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>PaleGreen</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>103</ScheduleLayerId>
+      <ScheduleLayerName>バナー : ショップ画面TOP</ScheduleLayerName>
+      <ScheduleKindCode>BANNER</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>SHOP</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>PaleGreen</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>104</ScheduleLayerId>
+      <ScheduleLayerName>バナー : ガチャ画面TOP</ScheduleLayerName>
+      <ScheduleKindCode>BANNER</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>GACHA</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>PaleGreen</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>105</ScheduleLayerId>
+      <ScheduleLayerName>バナー : フレンド画面TOP</ScheduleLayerName>
+      <ScheduleKindCode>BANNER</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>FRIEND</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>PaleGreen</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>106</ScheduleLayerId>
+      <ScheduleLayerName>バナー : その他画面TOP</ScheduleLayerName>
+      <ScheduleKindCode>BANNER</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>OTHERS</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>PaleGreen</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>200</ScheduleLayerId>
+      <ScheduleLayerName>マーキー : ホームTOP</ScheduleLayerName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>HOME</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Crimson</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>201</ScheduleLayerId>
+      <ScheduleLayerName>マーキー : レース画面TOP</ScheduleLayerName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>RACE</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Crimson</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>202</ScheduleLayerId>
+      <ScheduleLayerName>マーキー : モンスター画面TOP</ScheduleLayerName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>MONSTER</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Crimson</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>203</ScheduleLayerId>
+      <ScheduleLayerName>マーキー : ショップ画面TOP</ScheduleLayerName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>SHOP</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Crimson</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>204</ScheduleLayerId>
+      <ScheduleLayerName>マーキー : ガチャ画面TOP</ScheduleLayerName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>GACHA</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Crimson</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>205</ScheduleLayerId>
+      <ScheduleLayerName>マーキー : フレンド画面TOP</ScheduleLayerName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>FRIEND</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Crimson</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>206</ScheduleLayerId>
+      <ScheduleLayerName>マーキー : その他TOP</ScheduleLayerName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>OTHERS</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Crimson</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100000</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100000</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>300000</ScheduleLayerId>
+      <ScheduleLayerName>メール 300000</ScheduleLayerName>
+      <ScheduleKindCode>MAIL</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>300001</ScheduleLayerId>
+      <ScheduleLayerName>メール 300001</ScheduleLayerName>
+      <ScheduleKindCode>MAIL</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+  </DocScheduleLayerList>
+</DocMonsterDashSchedule>
