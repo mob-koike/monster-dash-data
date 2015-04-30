@@ -61064,94 +61064,94 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2010</StageId>
-      <StageName>闇の育成素材を求めて【昼】</StageName>
+      <StageName>闇の育成素材を求めて</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2011</StageId>
-      <StageName>火の育成素材を求めて【昼】</StageName>
+      <StageName>火の育成素材を求めて</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2012</StageId>
-      <StageName>水の育成素材を求めて【昼】</StageName>
+      <StageName>水の育成素材を求めて</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2013</StageId>
-      <StageName>木の育成素材を求めて【昼】</StageName>
+      <StageName>木の育成素材を求めて</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2014</StageId>
-      <StageName>鋼の育成素材を求めて【昼】</StageName>
+      <StageName>鋼の育成素材を求めて</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2015</StageId>
-      <StageName>土の育成素材を求めて【昼】</StageName>
+      <StageName>土の育成素材を求めて</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2016</StageId>
-      <StageName>光の育成素材を求めて【昼】</StageName>
+      <StageName>光の育成素材を求めて</StageName>
     </DocStageText>
     <DocStageText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2020</StageId>
       <StageName>闇の育成素材を求めて【夜】</StageName>
     </DocStageText>
     <DocStageText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2021</StageId>
       <StageName>火の育成素材を求めて【夜】</StageName>
     </DocStageText>
     <DocStageText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2022</StageId>
       <StageName>水の育成素材を求めて【夜】</StageName>
     </DocStageText>
     <DocStageText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2023</StageId>
       <StageName>木の育成素材を求めて【夜】</StageName>
     </DocStageText>
     <DocStageText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2024</StageId>
       <StageName>鋼の育成素材を求めて【夜】</StageName>
     </DocStageText>
     <DocStageText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2025</StageId>
       <StageName>土の育成素材を求めて【夜】</StageName>
     </DocStageText>
     <DocStageText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2026</StageId>
@@ -61162,10 +61162,10 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2030</StageId>
-      <StageName>ゴールドを求めて【昼】</StageName>
+      <StageName>ゴールドを求めて</StageName>
     </DocStageText>
     <DocStageText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2031</StageId>
@@ -61218,126 +61218,126 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2038</StageId>
-      <StageName>育成素材を求めて</StageName>
+      <StageName>豪華な育成素材を求めて</StageName>
     </DocStageText>
     <DocStageText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2039</StageId>
-      <StageName>育成素材を求めて</StageName>
+      <StageName>豪華な育成素材を求めて</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3000</StageId>
-      <StageName>闇の育成素材争奪マルチレース</StageName>
+      <StageName>闇の育成素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3001</StageId>
-      <StageName>火の育成素材争奪マルチレース</StageName>
+      <StageName>火の育成素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3002</StageId>
-      <StageName>水の育成素材争奪マルチレース</StageName>
+      <StageName>水の育成素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3003</StageId>
-      <StageName>木の育成素材争奪マルチレース</StageName>
+      <StageName>木の育成素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3004</StageId>
-      <StageName>鋼の育成素材争奪マルチレース</StageName>
+      <StageName>鋼の育成素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3005</StageId>
-      <StageName>土の育成素材争奪マルチレース</StageName>
+      <StageName>土の育成素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3006</StageId>
-      <StageName>光の育成素材争奪マルチレース</StageName>
+      <StageName>光の育成素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3007</StageId>
-      <StageName>虹の育成素材争奪マルチレース</StageName>
+      <StageName>虹の育成素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3008</StageId>
-      <StageName>闇の進化素材争奪マルチレース</StageName>
+      <StageName>闇の進化素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3009</StageId>
-      <StageName>火の進化素材争奪マルチレース</StageName>
+      <StageName>火の進化素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3010</StageId>
-      <StageName>水の進化素材争奪マルチレース</StageName>
+      <StageName>水の進化素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3011</StageId>
-      <StageName>木の進化素材争奪マルチレース</StageName>
+      <StageName>木の進化素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3012</StageId>
-      <StageName>鋼の進化素材争奪マルチレース</StageName>
+      <StageName>鋼の進化素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3013</StageId>
-      <StageName>土の進化素材争奪マルチレース</StageName>
+      <StageName>土の進化素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3014</StageId>
-      <StageName>光の進化素材争奪マルチレース</StageName>
+      <StageName>光の進化素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3015</StageId>
-      <StageName>虹の進化素材争奪マルチレース</StageName>
+      <StageName>虹の進化素材争奪レース</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
