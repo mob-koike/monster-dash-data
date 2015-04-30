@@ -1269,30 +1269,16 @@
     <DocBannerText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ダミーバナー１</Description>
+      <Description>友達招待の通常用のバナーです。</Description>
       <BannerId>0</BannerId>
-      <BannerName>ダミーバナー１</BannerName>
+      <BannerName>通常版友達招待</BannerName>
     </DocBannerText>
     <DocBannerText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ダミーバナー２</Description>
+      <Description>真田幸村の降臨用バナーです。</Description>
       <BannerId>1</BannerId>
-      <BannerName>ダミーバナー２</BannerName>
-    </DocBannerText>
-    <DocBannerText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>ダミーバナー３</Description>
-      <BannerId>2</BannerId>
-      <BannerName>ダミーバナー３</BannerName>
-    </DocBannerText>
-    <DocBannerText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>ダミーバナー４</Description>
-      <BannerId>3</BannerId>
-      <BannerName>ダミーバナー４</BannerName>
+      <BannerName>降臨：真田幸村</BannerName>
     </DocBannerText>
   </DocBannerTextList>
   <DocCampaignTextList>
@@ -8536,9 +8522,9 @@
     <DocInviteFriendText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ダミー友達招待報酬</Description>
+      <Description>通常版友達招待</Description>
       <InviteFriendId>0</InviteFriendId>
-      <InviteFriendName>ダミー友達招待報酬</InviteFriendName>
+      <InviteFriendName>通常版友達招待</InviteFriendName>
     </DocInviteFriendText>
   </DocInviteFriendTextList>
   <DocItemTextList>
@@ -9685,6 +9671,15 @@
 ご迷惑をお掛けしたお詫びとして、
 クリスタル２個を進呈させていただきます。</Message>
     </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>2</MailId>
+      <MailName>友達招待報酬</MailName>
+      <Title>友達招待報酬</Title>
+      <Message>友達招待成功でクリスタル5個プレゼント！</Message>
+    </DocMailText>
   </DocMailTextList>
   <DocMarqueeTextList>
     <DocMarqueeText>
@@ -9692,24 +9687,8 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MarqueeId>0</MarqueeId>
-      <MarqueeName>ダミーゲーム内告知１</MarqueeName>
-      <Message>ダミーゲーム内告知１</Message>
-    </DocMarqueeText>
-    <DocMarqueeText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <MarqueeId>1</MarqueeId>
-      <MarqueeName>ダミーゲーム内告知２</MarqueeName>
-      <Message>ダミーゲーム内告知２</Message>
-    </DocMarqueeText>
-    <DocMarqueeText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <MarqueeId>2</MarqueeId>
-      <MarqueeName>ダミーゲーム内告知３</MarqueeName>
-      <Message>ダミーゲーム内告知３</Message>
+      <MarqueeName>超ゴッド祭り（5/1）</MarqueeName>
+      <Message>5/1 14:00より超ゴッド祭り開催!!</Message>
     </DocMarqueeText>
   </DocMarqueeTextList>
   <DocMedalShopItemTextList>
@@ -11108,14 +11087,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>42</MonsterId>
-      <MonsterName>エラフ</MonsterName>
+      <MonsterName>スノダル</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>43</MonsterId>
-      <MonsterName>ナイトエラフ</MonsterName>
+      <MonsterName>スノダルマン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -11269,21 +11248,21 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>65</MonsterId>
-      <MonsterName>ベビースー</MonsterName>
+      <MonsterName>ベビーミート</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>66</MonsterId>
-      <MonsterName>スース</MonsterName>
+      <MonsterName>ミートン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>67</MonsterId>
-      <MonsterName>ビッグスース</MonsterName>
+      <MonsterName>ビッグミートン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -11535,14 +11514,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>103</MonsterId>
-      <MonsterName>Dr.マサルト</MonsterName>
+      <MonsterName>マッドライダー</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>104</MonsterId>
-      <MonsterName>Dr.マサルト改</MonsterName>
+      <MonsterName>スカルライダー</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -11801,14 +11780,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>141</MonsterId>
-      <MonsterName>鋼人38号</MonsterName>
+      <MonsterName>アイアンポーン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>142</MonsterId>
-      <MonsterName>鋼人38号改</MonsterName>
+      <MonsterName>アイアンナイト</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -12151,14 +12130,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>191</MonsterId>
-      <MonsterName>ロック</MonsterName>
+      <MonsterName>シーロック</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>192</MonsterId>
-      <MonsterName>キャプテンロック</MonsterName>
+      <MonsterName>キャプテンシーロック</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -12445,14 +12424,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>233</MonsterId>
-      <MonsterName>伊達正宗</MonsterName>
+      <MonsterName>伊達政宗</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>234</MonsterId>
-      <MonsterName>独眼竜 伊達正宗</MonsterName>
+      <MonsterName>独眼竜 伊達政宗</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -12529,196 +12508,196 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>245</MonsterId>
-      <MonsterName>レッドラパン ショート</MonsterName>
+      <MonsterName>レッドラパン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>246</MonsterId>
-      <MonsterName>レッドラパン トール</MonsterName>
+      <MonsterName>レッドラパンX</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>247</MonsterId>
-      <MonsterName>レッドラパン グランデ</MonsterName>
+      <MonsterName>レッドラパンY</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>248</MonsterId>
-      <MonsterName>レッドラパン ベンティ</MonsterName>
+      <MonsterName>レッドラパンZ</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>249</MonsterId>
-      <MonsterName>ブルーラパン ショート</MonsterName>
+      <MonsterName>ブルーラパン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>250</MonsterId>
-      <MonsterName>ブルーラパン トール</MonsterName>
+      <MonsterName>ブルーラパンX</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>251</MonsterId>
-      <MonsterName>ブルーラパン グランデ</MonsterName>
+      <MonsterName>ブルーラパンY</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>252</MonsterId>
-      <MonsterName>ブルーラパン ベンティ</MonsterName>
+      <MonsterName>ブルーラパンZ</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>253</MonsterId>
-      <MonsterName>グリーンラパン ショート</MonsterName>
+      <MonsterName>グリーンラパン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>254</MonsterId>
-      <MonsterName>グリーンラパン トール</MonsterName>
+      <MonsterName>グリーンラパンX</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>255</MonsterId>
-      <MonsterName>グリーンラパン グランデ</MonsterName>
+      <MonsterName>グリーンラパンY</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>256</MonsterId>
-      <MonsterName>グリーンラパン ベンティ</MonsterName>
+      <MonsterName>グリーンラパンZ</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>257</MonsterId>
-      <MonsterName>ブラウンラパン ショート</MonsterName>
+      <MonsterName>ブラウンラパン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>258</MonsterId>
-      <MonsterName>ブラウンラパン トール</MonsterName>
+      <MonsterName>ブラウンラパンX</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>259</MonsterId>
-      <MonsterName>ブラウンラパン グランデ</MonsterName>
+      <MonsterName>ブラウンラパンY</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>260</MonsterId>
-      <MonsterName>ブラウンラパン ベンティ</MonsterName>
+      <MonsterName>ブラウンラパンZ</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>261</MonsterId>
-      <MonsterName>スチールラパン ショート</MonsterName>
+      <MonsterName>スチールラパン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>262</MonsterId>
-      <MonsterName>スチールラパン トール</MonsterName>
+      <MonsterName>スチールラパンX</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>263</MonsterId>
-      <MonsterName>スチールラパン グランデ</MonsterName>
+      <MonsterName>スチールラパンY</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>264</MonsterId>
-      <MonsterName>スチールラパン ベンティ</MonsterName>
+      <MonsterName>スチールラパンZ</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>265</MonsterId>
-      <MonsterName>ライトラパン ショート</MonsterName>
+      <MonsterName>ライトラパン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>266</MonsterId>
-      <MonsterName>ライトラパン トール</MonsterName>
+      <MonsterName>ライトラパンX</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>267</MonsterId>
-      <MonsterName>ライトラパン グランデ</MonsterName>
+      <MonsterName>ライトラパンY</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>268</MonsterId>
-      <MonsterName>ライトラパン ベンティ</MonsterName>
+      <MonsterName>ライトラパンZ</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>269</MonsterId>
-      <MonsterName>ダークラパン ショート</MonsterName>
+      <MonsterName>ダークラパン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>270</MonsterId>
-      <MonsterName>ダークラパン トール</MonsterName>
+      <MonsterName>ダークラパンX</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>271</MonsterId>
-      <MonsterName>ダークラパン グランデ</MonsterName>
+      <MonsterName>ダークラパンY</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>272</MonsterId>
-      <MonsterName>ダークラパン ベンティ</MonsterName>
+      <MonsterName>ダークラパンZ</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -12809,14 +12788,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>285</MonsterId>
-      <MonsterName>スキプルベビー</MonsterName>
+      <MonsterName>ジタン</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>286</MonsterId>
-      <MonsterName>スキプル</MonsterName>
+      <MonsterName>クロノジタン</MonsterName>
     </DocMonsterText>
   </DocMonsterTextList>
   <DocPassiveSkillTextList>
@@ -61969,7 +61948,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <UserSegmentId>0</UserSegmentId>
-      <UserSegmentName>ダミーユーザーセグメント</UserSegmentName>
+      <UserSegmentName>全ユーザー対象</UserSegmentName>
     </DocUserSegmentText>
   </DocUserSegmentTextList>
 </DocMonsterDashText>

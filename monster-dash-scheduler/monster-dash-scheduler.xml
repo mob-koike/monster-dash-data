@@ -1010,6 +1010,78 @@
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
     </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>49</ScheduleId>
+      <ScheduleLayerId>105</ScheduleLayerId>
+      <ScheduleName>通常版友達招待</ScheduleName>
+      <ScheduleKindCode>BANNER</ScheduleKindCode>
+      <DataId>0</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T19:40:50</StartDateTime>
+        <EndDateTime>2015-12-31T19:40:50</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>50</ScheduleId>
+      <ScheduleLayerId>101</ScheduleLayerId>
+      <ScheduleName>降臨：真田幸村</ScheduleName>
+      <ScheduleKindCode>BANNER</ScheduleKindCode>
+      <DataId>1</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T19:42:09</StartDateTime>
+        <EndDateTime>2015-12-31T19:42:09</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>51</ScheduleId>
+      <ScheduleLayerId>200</ScheduleLayerId>
+      <ScheduleName>超ゴッド祭（5/1）</ScheduleName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
+      <DataId>0</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T19:47:09</StartDateTime>
+        <EndDateTime>2015-12-31T19:47:09</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>52</ScheduleId>
+      <ScheduleLayerId>7</ScheduleLayerId>
+      <ScheduleName>通常版友達招待</ScheduleName>
+      <ScheduleKindCode>INVITE_FRIEND</ScheduleKindCode>
+      <DataId>0</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T19:48:13</StartDateTime>
+        <EndDateTime>2015-12-31T19:48:13</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
   </DocScheduleList>
   <DocScheduleLayerList>
     <DocScheduleLayer>
