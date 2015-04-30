@@ -579,6 +579,32 @@
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
     </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>29</ScheduleId>
+      <ScheduleLayerId>100021</ScheduleLayerId>
+      <ScheduleName>フレンドマッチ</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>5000</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-04-30T12:36:04.4263008+09:00</StartDateTime>
+        <EndDateTime>2020-04-30T12:36:04</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>SUNDAY</DayOfWeekCode>
+        <DayOfWeekCode>MONDAY</DayOfWeekCode>
+        <DayOfWeekCode>TUESDAY</DayOfWeekCode>
+        <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
+        <DayOfWeekCode>THURSDAY</DayOfWeekCode>
+        <DayOfWeekCode>FRIDAY</DayOfWeekCode>
+        <DayOfWeekCode>SATURDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
   </DocScheduleList>
   <DocScheduleLayerList>
     <DocScheduleLayer>
@@ -995,6 +1021,16 @@
       <DataStatusCode>DISABLE</DataStatusCode>
       <ScheduleLayerId>100020</ScheduleLayerId>
       <ScheduleLayerName>ステージ 100020</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100021</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100021</ScheduleLayerName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <GachaTypeCode>INVALID</GachaTypeCode>
       <DisplayLocationCode>INVALID</DisplayLocationCode>
