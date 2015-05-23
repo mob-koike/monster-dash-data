@@ -8280,21 +8280,28 @@
       <LanguageCode>JA</LanguageCode>
       <Description>通常ノーマルガチャ</Description>
       <GachaId>0</GachaId>
-      <GachaName>ノーマルガチャ</GachaName>
+      <GachaName>ノーマルガチャ（基本）</GachaName>
     </DocGachaText>
     <DocGachaText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>通常プレミアガチャ</Description>
       <GachaId>1</GachaId>
-      <GachaName>プレミアムガチャ</GachaName>
+      <GachaName>プレミアムガチャ（基本）</GachaName>
     </DocGachaText>
     <DocGachaText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description />
+      <Description>メダル専用ガチャで育成・強化素材確定</Description>
       <GachaId>2</GachaId>
-      <GachaName>強化素材ガチャ</GachaName>
+      <GachaName>メダルガチャ（強化/育成）</GachaName>
+    </DocGachaText>
+    <DocGachaText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description>★３以上のすべてのモンスター獲得可能</Description>
+      <GachaId>3</GachaId>
+      <GachaName>プレミアムガチャ（テスト用）</GachaName>
     </DocGachaText>
   </DocGachaTextList>
   <DocGameBalanceTextList>
@@ -64175,4 +64182,13 @@
       <UserSegmentName>全ユーザー対象</UserSegmentName>
     </DocUserSegmentText>
   </DocUserSegmentTextList>
+  <DocMatchingDesignTextList>
+    <DocMatchingDesignText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MatchingDesignId>0</MatchingDesignId>
+      <MatchingDesignName />
+    </DocMatchingDesignText>
+  </DocMatchingDesignTextList>
 </DocMonsterDashText>
