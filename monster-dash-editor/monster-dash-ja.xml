@@ -8905,7 +8905,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description>７日間連続ログインボーナス</Description>
       <LoginBonusId>0</LoginBonusId>
-      <LoginBonusName>ログインボーナス（通常）</LoginBonusName>
+      <LoginBonusName>連続ログインボーナス（通常）</LoginBonusName>
     </DocLoginBonusText>
   </DocLoginBonusTextList>
   <DocMailTextList>
@@ -20580,70 +20580,70 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>0</RewardId>
-      <RewardName>課金アイテム×1</RewardName>
+      <RewardName>クリスタル×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>1</RewardId>
-      <RewardName>課金アイテム×2</RewardName>
+      <RewardName>クリスタル×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>2</RewardId>
-      <RewardName>課金アイテム×3</RewardName>
+      <RewardName>クリスタル×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>3</RewardId>
-      <RewardName>課金アイテム×4</RewardName>
+      <RewardName>クリスタル×4</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>4</RewardId>
-      <RewardName>課金アイテム×5</RewardName>
+      <RewardName>クリスタル×5</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>5</RewardId>
-      <RewardName>課金アイテム×6</RewardName>
+      <RewardName>クリスタル×6</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>6</RewardId>
-      <RewardName>課金アイテム×7</RewardName>
+      <RewardName>クリスタル×7</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>7</RewardId>
-      <RewardName>課金アイテム×8</RewardName>
+      <RewardName>クリスタル×8</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>8</RewardId>
-      <RewardName>課金アイテム×9</RewardName>
+      <RewardName>クリスタル×9</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>9</RewardId>
-      <RewardName>課金アイテム×10</RewardName>
+      <RewardName>クリスタル×10</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -20727,392 +20727,434 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>20001</RewardId>
-      <RewardName>ガチャポイント×200</RewardName>
+      <RewardName>ガチャポイント×150</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>20002</RewardId>
+      <RewardName>ガチャポイント×200</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>20003</RewardId>
+      <RewardName>ガチャポイント×250</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>20004</RewardId>
       <RewardName>ガチャポイント×300</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
+      <RewardId>20005</RewardId>
+      <RewardName>ガチャポイント×350</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>20006</RewardId>
+      <RewardName>ガチャポイント×400</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>20007</RewardId>
+      <RewardName>ガチャポイント×450</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>20008</RewardId>
+      <RewardName>ガチャポイント×500</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
       <RewardId>30000</RewardId>
-      <RewardName>虹のオーブ×1</RewardName>
+      <RewardName>虹宝玉×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30001</RewardId>
-      <RewardName>光のオーブ（特）×1</RewardName>
+      <RewardName>光宝玉×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30002</RewardId>
-      <RewardName>闇のオーブ（特）×1</RewardName>
+      <RewardName>闇宝玉×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30003</RewardId>
-      <RewardName>木のオーブ（大）×1</RewardName>
+      <RewardName>木大石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30004</RewardId>
-      <RewardName>火のオーブ（大）×1</RewardName>
+      <RewardName>火大石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30005</RewardId>
-      <RewardName>土のオーブ（大）×1</RewardName>
+      <RewardName>土大石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30006</RewardId>
-      <RewardName>鋼のオーブ（大）×1</RewardName>
+      <RewardName>鋼大石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30007</RewardId>
-      <RewardName>水のオーブ（大）×1</RewardName>
+      <RewardName>水大石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30008</RewardId>
-      <RewardName>光のオーブ（大）×1</RewardName>
+      <RewardName>光大石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30009</RewardId>
-      <RewardName>闇のオーブ（大）×1</RewardName>
+      <RewardName>闇大石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30010</RewardId>
-      <RewardName>木のオーブ（小）×1</RewardName>
+      <RewardName>木小石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30011</RewardId>
-      <RewardName>火のオーブ（小）×1</RewardName>
+      <RewardName>火小石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30012</RewardId>
-      <RewardName>土のオーブ（小）×1</RewardName>
+      <RewardName>土小石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30013</RewardId>
-      <RewardName>鋼のオーブ（小）×1</RewardName>
+      <RewardName>鋼小石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30014</RewardId>
-      <RewardName>水のオーブ（小）×1</RewardName>
+      <RewardName>水小石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30015</RewardId>
-      <RewardName>光のオーブ（小）×1</RewardName>
+      <RewardName>光小石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30016</RewardId>
-      <RewardName>闇のオーブ（小）×1</RewardName>
+      <RewardName>闇小石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30017</RewardId>
-      <RewardName>無のオーブ×1</RewardName>
+      <RewardName>原豆石×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30018</RewardId>
-      <RewardName>虹のオーブ×2</RewardName>
+      <RewardName>虹宝玉×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30019</RewardId>
-      <RewardName>光のオーブ（特）×2</RewardName>
+      <RewardName>光宝玉×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30020</RewardId>
-      <RewardName>闇のオーブ（特）×2</RewardName>
+      <RewardName>闇宝玉×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30021</RewardId>
-      <RewardName>木のオーブ（大）×2</RewardName>
+      <RewardName>木大石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30022</RewardId>
-      <RewardName>火のオーブ（大）×2</RewardName>
+      <RewardName>火大石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30023</RewardId>
-      <RewardName>土のオーブ（大）×2</RewardName>
+      <RewardName>土大石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30024</RewardId>
-      <RewardName>鋼のオーブ（大）×2</RewardName>
+      <RewardName>鋼大石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30025</RewardId>
-      <RewardName>水のオーブ（大）×2</RewardName>
+      <RewardName>水大石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30026</RewardId>
-      <RewardName>光のオーブ（大）×2</RewardName>
+      <RewardName>光大石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30027</RewardId>
-      <RewardName>闇のオーブ（大）×2</RewardName>
+      <RewardName>闇大石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30028</RewardId>
-      <RewardName>木のオーブ（小）×2</RewardName>
+      <RewardName>木小石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30029</RewardId>
-      <RewardName>火のオーブ（小）×2</RewardName>
+      <RewardName>火小石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30030</RewardId>
-      <RewardName>土のオーブ（小）×2</RewardName>
+      <RewardName>土小石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30031</RewardId>
-      <RewardName>鋼のオーブ（小）×2</RewardName>
+      <RewardName>鋼小石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30032</RewardId>
-      <RewardName>水のオーブ（小）×2</RewardName>
+      <RewardName>水小石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30033</RewardId>
-      <RewardName>光のオーブ（小）×2</RewardName>
+      <RewardName>光小石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30034</RewardId>
-      <RewardName>闇のオーブ（小）×2</RewardName>
+      <RewardName>闇小石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30035</RewardId>
-      <RewardName>無のオーブ×2</RewardName>
+      <RewardName>原豆石×2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30036</RewardId>
-      <RewardName>虹のオーブ×3</RewardName>
+      <RewardName>虹宝玉×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30037</RewardId>
-      <RewardName>光のオーブ（特）×3</RewardName>
+      <RewardName>光宝玉×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30038</RewardId>
-      <RewardName>闇のオーブ（特）×3</RewardName>
+      <RewardName>闇宝玉×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30039</RewardId>
-      <RewardName>木のオーブ（大）×3</RewardName>
+      <RewardName>木大石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30040</RewardId>
-      <RewardName>火のオーブ（大）×3</RewardName>
+      <RewardName>火大石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30041</RewardId>
-      <RewardName>土のオーブ（大）×3</RewardName>
+      <RewardName>土大石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30042</RewardId>
-      <RewardName>鋼のオーブ（大）×3</RewardName>
+      <RewardName>鋼大石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30043</RewardId>
-      <RewardName>水のオーブ（大）×3</RewardName>
+      <RewardName>水大石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30044</RewardId>
-      <RewardName>光のオーブ（大）×3</RewardName>
+      <RewardName>光大石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30045</RewardId>
-      <RewardName>闇のオーブ（大）×3</RewardName>
+      <RewardName>闇大石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30046</RewardId>
-      <RewardName>木のオーブ（小）×3</RewardName>
+      <RewardName>木小石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30047</RewardId>
-      <RewardName>火のオーブ（小）×3</RewardName>
+      <RewardName>火小石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30048</RewardId>
-      <RewardName>土のオーブ（小）×3</RewardName>
+      <RewardName>土小石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30049</RewardId>
-      <RewardName>鋼のオーブ（小）×3</RewardName>
+      <RewardName>鋼小石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30050</RewardId>
-      <RewardName>水のオーブ（小）×3</RewardName>
+      <RewardName>水小石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30051</RewardId>
-      <RewardName>光のオーブ（小）×3</RewardName>
+      <RewardName>光小石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30052</RewardId>
-      <RewardName>闇のオーブ（小）×3</RewardName>
+      <RewardName>闇小石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>30053</RewardId>
-      <RewardName>無のオーブ×3</RewardName>
+      <RewardName>原豆石×3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -23730,42 +23772,70 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>60000</RewardId>
-      <RewardName>（経験値0000）</RewardName>
+      <RewardName>経験値×100</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>60001</RewardId>
-      <RewardName>（経験値0001）</RewardName>
+      <RewardName>経験値×200</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>60002</RewardId>
-      <RewardName>（経験値0002）</RewardName>
+      <RewardName>経験値×300</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>60003</RewardId>
+      <RewardName>経験値×400</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>60004</RewardId>
+      <RewardName>経験値×500</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>70000</RewardId>
-      <RewardName>（メダル0000）</RewardName>
+      <RewardName>メダル×100</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>70001</RewardId>
-      <RewardName>（メダル0001）</RewardName>
+      <RewardName>メダル×200</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>70002</RewardId>
-      <RewardName>（メダル0002）</RewardName>
+      <RewardName>メダル×300</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>70003</RewardId>
+      <RewardName>メダル×400</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>70004</RewardId>
+      <RewardName>メダル×500</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>

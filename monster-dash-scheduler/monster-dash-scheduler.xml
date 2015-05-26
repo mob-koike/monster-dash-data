@@ -5,7 +5,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>0</ScheduleId>
       <ScheduleLayerId>6</ScheduleLayerId>
-      <ScheduleName />
+      <ScheduleName>ログインボーナス（通常）</ScheduleName>
       <ScheduleKindCode>LOGIN_BONUS</ScheduleKindCode>
       <DataId>0</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
