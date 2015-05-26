@@ -64261,4 +64261,13 @@
       <MatchingDesignName />
     </DocMatchingDesignText>
   </DocMatchingDesignTextList>
+  <DocMultiMatchDesignTextList>
+    <DocMultiMatchDesignText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MultiMatchDesignId>0</MultiMatchDesignId>
+      <MultiMatchDesignName />
+    </DocMultiMatchDesignText>
+  </DocMultiMatchDesignTextList>
 </DocMonsterDashText>
