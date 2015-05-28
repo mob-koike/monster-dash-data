@@ -782,35 +782,35 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを25％回復する</Description>
+      <Description>控えモンスターのスキルゲージを10％回復する</Description>
       <ActionSkillId>3018000</ActionSkillId>
       <ActionSkillName>スキルジタン</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを50％回復する</Description>
+      <Description>控えモンスターのスキルゲージを20％回復する</Description>
       <ActionSkillId>3018001</ActionSkillId>
       <ActionSkillName>秘密の魔法</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを75％回復する</Description>
+      <Description>控えモンスターのスキルゲージを30％回復する</Description>
       <ActionSkillId>3018002</ActionSkillId>
       <ActionSkillName>禁断の魔術</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを75％回復する</Description>
+      <Description>控えモンスターのスキルゲージを30％回復する</Description>
       <ActionSkillId>3018003</ActionSkillId>
       <ActionSkillName>セイントフォース</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを100％回復する</Description>
+      <Description>控えモンスターのスキルゲージを50％回復する</Description>
       <ActionSkillId>3018004</ActionSkillId>
       <ActionSkillName>大地の祈り</ActionSkillName>
     </DocActionSkillText>
@@ -8310,14 +8310,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <GameBalanceId>0</GameBalanceId>
-      <GameBalanceName>ゲームバランス</GameBalanceName>
+      <GameBalanceName>ゲームバランス（通常）</GameBalanceName>
     </DocGameBalanceText>
     <DocGameBalanceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <GameBalanceId>1</GameBalanceId>
-      <GameBalanceName />
+      <GameBalanceName>強化大成功確率アップ</GameBalanceName>
     </DocGameBalanceText>
   </DocGameBalanceTextList>
   <DocGameDesignTextList>
