@@ -5,37 +5,23 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを20％上昇させる</Description>
+      <Description>3秒間、自身のスピードを30％上昇させる</Description>
       <ActionSkillId>1000000</ActionSkillId>
       <ActionSkillName>スピードアップ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを20％上昇させる</Description>
+      <Description>3秒間、自身のスピードを30％上昇させる</Description>
       <ActionSkillId>1000001</ActionSkillId>
       <ActionSkillName>爆走！</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを20％上昇させる</Description>
+      <Description>3秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000002</ActionSkillId>
-      <ActionSkillName>トッポスピード</ActionSkillName>
-    </DocActionSkillText>
-    <DocActionSkillText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを20％上昇させる</Description>
-      <ActionSkillId>1000003</ActionSkillId>
-      <ActionSkillName>ソニックジャクシー</ActionSkillName>
-    </DocActionSkillText>
-    <DocActionSkillText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを20％上昇させる</Description>
-      <ActionSkillId>1000004</ActionSkillId>
-      <ActionSkillName>クイックモービ</ActionSkillName>
+      <ActionSkillName>大爆走！</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -68,126 +54,126 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを20％上昇させる</Description>
+      <Description>4秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000009</ActionSkillId>
-      <ActionSkillName>大爆走！</ActionSkillName>
+      <ActionSkillName>超爆走！</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを30％上昇させる</Description>
+      <Description>3秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000010</ActionSkillId>
       <ActionSkillName>メタルスパーク</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを40％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000011</ActionSkillId>
       <ActionSkillName>メタルスパーク・ネオ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを30％上昇させる</Description>
+      <Description>3秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000012</ActionSkillId>
       <ActionSkillName>ハントレッグ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを40％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000013</ActionSkillId>
       <ActionSkillName>ハンターレッグ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>5秒間、自身のスピードを60％上昇させる</Description>
       <ActionSkillId>1000014</ActionSkillId>
       <ActionSkillName>キングハントレッグ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを30％上昇させる</Description>
+      <Description>3秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000015</ActionSkillId>
       <ActionSkillName>ベビーダイヴ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを40％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000016</ActionSkillId>
       <ActionSkillName>キャプテンダイヴ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>5秒間、自身のスピードを60％上昇させる</Description>
       <ActionSkillId>1000017</ActionSkillId>
       <ActionSkillName>コウテイダイヴ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを30％上昇させる</Description>
+      <Description>3秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000018</ActionSkillId>
       <ActionSkillName>ベビーシュート</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを40％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000019</ActionSkillId>
       <ActionSkillName>ハマスターシュート</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>5秒間、自身のスピードを60％上昇させる</Description>
       <ActionSkillId>1000020</ActionSkillId>
       <ActionSkillName>ハマキングシュート</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを30％上昇させる</Description>
+      <Description>3秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000021</ActionSkillId>
       <ActionSkillName>突進ウリボー</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを40％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000022</ActionSkillId>
       <ActionSkillName>突進ウリノスケ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>5秒間、自身のスピードを60％上昇させる</Description>
       <ActionSkillId>1000023</ActionSkillId>
       <ActionSkillName>突進ウリノシン</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを30％上昇させる</Description>
+      <Description>3秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000024</ActionSkillId>
       <ActionSkillName>バルフライ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを40％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000025</ActionSkillId>
       <ActionSkillName>レフトフライ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>5秒間、自身のスピードを60％上昇させる</Description>
       <ActionSkillId>1000026</ActionSkillId>
       <ActionSkillName>レフトイヤーフライ</ActionSkillName>
     </DocActionSkillText>
@@ -236,7 +222,7 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000033</ActionSkillId>
       <ActionSkillName>疾風のいななき</ActionSkillName>
     </DocActionSkillText>
@@ -285,15 +271,22 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>6秒間、自身のスピードを60％上昇させる</Description>
+      <Description>5秒間、自身のスピードを70％上昇させる</Description>
       <ActionSkillId>1000040</ActionSkillId>
+      <ActionSkillName>草那芸之大刀の舞</ActionSkillName>
+    </DocActionSkillText>
+    <DocActionSkillText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description>5秒間、自身のスピードを70％上昇させる</Description>
+      <ActionSkillId>1000041</ActionSkillId>
       <ActionSkillName>韋駄天走り</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>6秒間、自身のスピードを60％上昇させる</Description>
-      <ActionSkillId>1000041</ActionSkillId>
+      <Description>5秒間、自身のスピードを70％上昇させる</Description>
+      <ActionSkillId>1000042</ActionSkillId>
       <ActionSkillName>バスターフラッシュ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
@@ -313,70 +306,70 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>スタミナ消費が2倍になる代わりに、自身のスピードを5秒間100％上昇させる</Description>
+      <Description>スタミナ消費が2倍になる代わりに、自身のスピードを5秒間80％上昇させる</Description>
       <ActionSkillId>1000102</ActionSkillId>
       <ActionSkillName>双刃乱舞</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の火属性の地形適性を1段階上げる</Description>
+      <Description>10秒間、自身の火属性の地形適性を2段階上げる</Description>
       <ActionSkillId>1004000</ActionSkillId>
       <ActionSkillName>バーンドクエイク</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の水属性の地形適正を1段階上げる</Description>
+      <Description>10秒間、自身の水属性の地形適正を2段階上げる</Description>
       <ActionSkillId>1004001</ActionSkillId>
       <ActionSkillName>ドルフィンダイヴ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の木属性の地形適正を1段階上げる</Description>
+      <Description>10秒間、自身の木属性の地形適正を2段階上げる</Description>
       <ActionSkillId>1004002</ActionSkillId>
       <ActionSkillName>ウインドリップル</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の土属性の地形適正を1段階上げる</Description>
+      <Description>10秒間、自身の土属性の地形適正を2段階上げる</Description>
       <ActionSkillId>1004003</ActionSkillId>
       <ActionSkillName>ビルドハンマー</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>6秒間、敵から受けたスキルを無効化する</Description>
+      <Description>6秒間、敵が使用した妨害スキルを防ぐ</Description>
       <ActionSkillId>1008000</ActionSkillId>
       <ActionSkillName>退魔の牙</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>8秒間、敵から受けたスキルを無効化する</Description>
+      <Description>8秒間、敵が使用した妨害スキルを防ぐ</Description>
       <ActionSkillId>1008001</ActionSkillId>
       <ActionSkillName>退魔の牙・改</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>8秒間、敵から受けたスキルを無効化する</Description>
+      <Description>8秒間、敵が使用した妨害スキルを防ぐ</Description>
       <ActionSkillId>1008002</ActionSkillId>
       <ActionSkillName>メテオクラッシュ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、敵から受けたスキルを無効化する</Description>
+      <Description>10秒間、敵が使用した妨害スキルを防ぐ</Description>
       <ActionSkillId>1008003</ActionSkillId>
       <ActionSkillName>スラッシュクロウ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>12秒間、敵から受けたスキルを無効化する</Description>
+      <Description>12秒間、敵が使用した妨害スキルを防ぐ</Description>
       <ActionSkillId>1008004</ActionSkillId>
       <ActionSkillName>ディバインクロス</ActionSkillName>
     </DocActionSkillText>
@@ -404,14 +397,14 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>自身のスタミナを30％回復させる</Description>
+      <Description>自身のスタミナを20％回復させる</Description>
       <ActionSkillId>1017001</ActionSkillId>
       <ActionSkillName>スラモンリカバー・グリーン</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>自身のスタミナを40％回復させる</Description>
+      <Description>自身のスタミナを30％回復させる</Description>
       <ActionSkillId>1017002</ActionSkillId>
       <ActionSkillName>ギガスラリカバー・グリーン</ActionSkillName>
     </DocActionSkillText>
@@ -420,7 +413,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description>自身のスタミナを30％回復させる</Description>
       <ActionSkillId>1017003</ActionSkillId>
-      <ActionSkillName>ウールバブル</ActionSkillName>
+      <ActionSkillName>リカバリープラス</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -441,7 +434,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description>自身のスタミナを40％回復させる</Description>
       <ActionSkillId>1017006</ActionSkillId>
-      <ActionSkillName>リカバリープラス</ActionSkillName>
+      <ActionSkillName>リカバリーダブルプラス</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -474,42 +467,35 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、スタミナを消費せずに走ることができる</Description>
+      <Description>10秒間、スタミナを消費せずに走ることができる</Description>
       <ActionSkillId>1021000</ActionSkillId>
       <ActionSkillName>摩訶摩瑜利の舞</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、スタミナを消費せずに走ることができる</Description>
-      <ActionSkillId>1021001</ActionSkillId>
-      <ActionSkillName>草那芸之大刀の舞</ActionSkillName>
-    </DocActionSkillText>
-    <DocActionSkillText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>8秒間、自身の順位に応じてスピードが上昇する</Description>
+      <Description>6秒間、自身の順位に応じてスピードが上昇する</Description>
       <ActionSkillId>1024000</ActionSkillId>
       <ActionSkillName>アクセラヒート</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>8秒間、自身の順位に応じてスピードが上昇する</Description>
+      <Description>6秒間、自身の順位に応じてスピードが上昇する</Description>
       <ActionSkillId>1024001</ActionSkillId>
       <ActionSkillName>ユーカリダッシュ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身のスピードが上昇し、さらにシールド効果が付加される</Description>
+      <Description>7秒間、自身のスピードが上昇し、さらにシールド効果が付加される</Description>
       <ActionSkillId>1027000</ActionSkillId>
       <ActionSkillName>レックスラッシュ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身のスピードが上昇し、さらにシールド効果が付加される</Description>
+      <Description>7秒間、自身のスピードが上昇し、さらにシールド効果が付加される</Description>
       <ActionSkillId>1027001</ActionSkillId>
       <ActionSkillName>十文字槍円舞</ActionSkillName>
     </DocActionSkillText>
@@ -523,16 +509,9 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、敵のスピードを20％ダウンさせる</Description>
+      <Description>3秒間、敵のスピードを30％ダウンさせる</Description>
       <ActionSkillId>2001001</ActionSkillId>
       <ActionSkillName>しびれ足</ActionSkillName>
-    </DocActionSkillText>
-    <DocActionSkillText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、敵のスピードを20％ダウンさせる</Description>
-      <ActionSkillId>2001002</ActionSkillId>
-      <ActionSkillName>ねむり足</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -544,7 +523,7 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、敵のスピードを50％ダウンさせる</Description>
+      <Description>4秒間、敵のスピードを50％ダウンさせる</Description>
       <ActionSkillId>2001004</ActionSkillId>
       <ActionSkillName>ギガスラスロウ・レッド</ActionSkillName>
     </DocActionSkillText>
@@ -558,28 +537,21 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、敵のスピードを50％ダウンさせる</Description>
+      <Description>4秒間、敵のスピードを50％ダウンさせる</Description>
       <ActionSkillId>2001006</ActionSkillId>
       <ActionSkillName>ウルトラソニック・ネオ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、敵のスピードを40％ダウンさせる</Description>
-      <ActionSkillId>2001007</ActionSkillId>
-      <ActionSkillName>重鈍足</ActionSkillName>
-    </DocActionSkillText>
-    <DocActionSkillText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、敵のスピードを40％ダウンさせる</Description>
+      <Description>4秒間、敵のスピードを40％ダウンさせる</Description>
       <ActionSkillId>2001008</ActionSkillId>
       <ActionSkillName>しっぽ縛り</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>7秒間、敵のスピードを60％ダウンさせる</Description>
+      <Description>5秒間、敵のスピードを50％ダウンさせる</Description>
       <ActionSkillId>2001009</ActionSkillId>
       <ActionSkillName>ハイパーしっぽ縛り</ActionSkillName>
     </DocActionSkillText>
@@ -600,56 +572,56 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>7秒間、敵のスピードを60％ダウンさせる</Description>
+      <Description>6秒間、敵のスピードを60％ダウンさせる</Description>
       <ActionSkillId>2001012</ActionSkillId>
       <ActionSkillName>からめ足</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>7秒間、敵のスピードを60％ダウンさせる</Description>
+      <Description>6秒間、敵のスピードを60％ダウンさせる</Description>
       <ActionSkillId>2001013</ActionSkillId>
       <ActionSkillName>稲荷火</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>7秒間、敵のスピードを60％ダウンさせる</Description>
+      <Description>6秒間、敵のスピードを60％ダウンさせる</Description>
       <ActionSkillId>2001014</ActionSkillId>
       <ActionSkillName>ティガーハウリング</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>7秒間、敵のスピードを60％ダウンさせる</Description>
+      <Description>6秒間、敵のスピードを60％ダウンさせる</Description>
       <ActionSkillId>2001015</ActionSkillId>
       <ActionSkillName>闇の地鳴り</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>9秒間、敵のスピードを80％ダウンさせる</Description>
+      <Description>7秒間、敵のスピードを70％ダウンさせる</Description>
       <ActionSkillId>2001016</ActionSkillId>
       <ActionSkillName>業火の唸り</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>9秒間、敵のスピードを80％ダウンさせる</Description>
+      <Description>7秒間、敵のスピードを70％ダウンさせる</Description>
       <ActionSkillId>2001017</ActionSkillId>
       <ActionSkillName>海王の怒り</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを20％減少させ、自身に還元する</Description>
+      <Description>敵のスタミナを30％減少させ、自身に還元する</Description>
       <ActionSkillId>2007000</ActionSkillId>
       <ActionSkillName>大地の怒り</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを30％減少させ、自身に還元する</Description>
+      <Description>敵のスタミナを40％減少させ、自身に還元する</Description>
       <ActionSkillId>2007001</ActionSkillId>
       <ActionSkillName>ヘルズブレス</ActionSkillName>
     </DocActionSkillText>
@@ -670,14 +642,14 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>7秒間、敵のスキルを使えなくする</Description>
+      <Description>10秒間、敵のスキルを使えなくする</Description>
       <ActionSkillId>2010000</ActionSkillId>
       <ActionSkillName>リストラクション</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>7秒間、敵をその場に足止めする</Description>
+      <Description>5秒間、敵をその場に足止めし、さらに交代不可にする</Description>
       <ActionSkillId>2011000</ActionSkillId>
       <ActionSkillName>オーディンスピア</ActionSkillName>
     </DocActionSkillText>
@@ -691,7 +663,7 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを10％減少させる</Description>
+      <Description>敵のスタミナを20％減少させる</Description>
       <ActionSkillId>2016000</ActionSkillId>
       <ActionSkillName>スタミナダウン</ActionSkillName>
     </DocActionSkillText>
@@ -761,7 +733,7 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、敵のスピードを70％低下させ、さらに交代不可にする</Description>
+      <Description>7秒間、敵のスピードを70％低下させ、さらに交代不可にする</Description>
       <ActionSkillId>2028000</ActionSkillId>
       <ActionSkillName>偽りの黙示録</ActionSkillName>
     </DocActionSkillText>
@@ -782,35 +754,35 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを10％回復する</Description>
+      <Description>控えモンスターのスキルゲージを20％回復する</Description>
       <ActionSkillId>3018000</ActionSkillId>
       <ActionSkillName>スキルジタン</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを20％回復する</Description>
+      <Description>控えモンスターのスキルゲージを30％回復する</Description>
       <ActionSkillId>3018001</ActionSkillId>
       <ActionSkillName>秘密の魔法</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを30％回復する</Description>
+      <Description>控えモンスターのスキルゲージを50％回復する</Description>
       <ActionSkillId>3018002</ActionSkillId>
       <ActionSkillName>禁断の魔術</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを30％回復する</Description>
+      <Description>控えモンスターのスキルゲージを50％回復する</Description>
       <ActionSkillId>3018003</ActionSkillId>
       <ActionSkillName>セイントフォース</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを50％回復する</Description>
+      <Description>控えモンスターのスキルゲージを75％回復する</Description>
       <ActionSkillId>3018004</ActionSkillId>
       <ActionSkillName>大地の祈り</ActionSkillName>
     </DocActionSkillText>
@@ -8912,33 +8884,6 @@
     <DocMailText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ダミーメール１</Description>
-      <MailId>0</MailId>
-      <MailName>リリース記念</MailName>
-      <Title>リリース記念</Title>
-      <Message>【リリース記念】
-期間：3/13～3/31
-
-モンスターダッシュのリリースを記念して
-運営チームよりログインすると
-毎日クリスタルを１個をお送りいたします。</Message>
-    </DocMailText>
-    <DocMailText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <MailId>1</MailId>
-      <MailName>サーバー負荷のお詫び</MailName>
-      <Title>サーバー負荷のお詫び</Title>
-      <Message>アクセス集中により接続しづらい状態となり
-ご迷惑をお掛けしたことをお詫びいたします。
-
-ご迷惑をお掛けしたお詫びとして、
-クリスタル２個を進呈させていただきます。</Message>
-    </DocMailText>
-    <DocMailText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
       <Description />
       <MailId>2</MailId>
       <MailName>友達招待報酬</MailName>
@@ -8949,41 +8894,28 @@
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
+      <MailId>0</MailId>
+      <MailName>初ステージクリア報酬</MailName>
+      <Title>初ステージクリア報酬</Title>
+      <Message>初ステージクリア報酬がレース後に付与できなかったためメールにてお送りします。</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>1</MailId>
+      <MailName>初ゴールドトロフィ獲得報酬</MailName>
+      <Title>初ゴールドトロフィ獲得報酬</Title>
+      <Message>初ゴールドトロフィ獲得報酬がレース後に付与できなかったためメールにてお送りします。</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
       <MailId>3</MailId>
-      <MailName>事前登録テスト</MailName>
-      <Title>事前登録テスト</Title>
-      <Message>【事前登録】
-モンスターをあげます。</Message>
-    </DocMailText>
-    <DocMailText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <MailId>4</MailId>
-      <MailName>β２のお知らせ</MailName>
-      <Title>β２がリリース開始！</Title>
-      <Message>遂にβ２がリリースされました！
-
-みんなで入念にチェックしよう！</Message>
-    </DocMailText>
-    <DocMailText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <MailId>5</MailId>
-      <MailName>複数個配布テスト</MailName>
-      <Title>複数個配布テスト</Title>
-      <Message>ハヤイサーY×3
-クリスタル×3</Message>
-    </DocMailText>
-    <DocMailText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <MailId>6</MailId>
-      <MailName>進化素材配布チェック</MailName>
-      <Title>進化素材配布チェック</Title>
-      <Message>進化素材配布チェック</Message>
+      <MailName>友達招待報酬（被招待者用）</MailName>
+      <Title>友達招待報酬</Title>
+      <Message>友達招待成功でクリスタル5個プレゼント！</Message>
     </DocMailText>
   </DocMailTextList>
   <DocMarqueeTextList>
