@@ -54,7 +54,7 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを40％上昇させる</Description>
+      <Description>3秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000009</ActionSkillId>
       <ActionSkillName>超爆走！</ActionSkillName>
     </DocActionSkillText>
@@ -68,112 +68,112 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000011</ActionSkillId>
       <ActionSkillName>メタルスパーク・ネオ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを40％上昇させる</Description>
+      <Description>3秒間、自身のスピードを30％上昇させる</Description>
       <ActionSkillId>1000012</ActionSkillId>
       <ActionSkillName>ハントレッグ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000013</ActionSkillId>
       <ActionSkillName>ハンターレッグ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを60％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000014</ActionSkillId>
       <ActionSkillName>キングハントレッグ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを40％上昇させる</Description>
+      <Description>3秒間、自身のスピードを30％上昇させる</Description>
       <ActionSkillId>1000015</ActionSkillId>
       <ActionSkillName>ベビーダイヴ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000016</ActionSkillId>
       <ActionSkillName>キャプテンダイヴ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを60％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000017</ActionSkillId>
       <ActionSkillName>コウテイダイヴ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを40％上昇させる</Description>
+      <Description>3秒間、自身のスピードを30％上昇させる</Description>
       <ActionSkillId>1000018</ActionSkillId>
       <ActionSkillName>ベビーシュート</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000019</ActionSkillId>
       <ActionSkillName>ハマスターシュート</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを60％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000020</ActionSkillId>
       <ActionSkillName>ハマキングシュート</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを40％上昇させる</Description>
+      <Description>3秒間、自身のスピードを30％上昇させる</Description>
       <ActionSkillId>1000021</ActionSkillId>
       <ActionSkillName>突進ウリボー</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000022</ActionSkillId>
       <ActionSkillName>突進ウリノスケ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを60％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000023</ActionSkillId>
       <ActionSkillName>突進ウリノシン</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>3秒間、自身のスピードを40％上昇させる</Description>
+      <Description>3秒間、自身のスピードを30％上昇させる</Description>
       <ActionSkillId>1000024</ActionSkillId>
       <ActionSkillName>バルフライ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>4秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを40％上昇させる</Description>
       <ActionSkillId>1000025</ActionSkillId>
       <ActionSkillName>レフトフライ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを60％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000026</ActionSkillId>
       <ActionSkillName>レフトイヤーフライ</ActionSkillName>
     </DocActionSkillText>
@@ -229,84 +229,84 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000034</ActionSkillId>
       <ActionSkillName>ファイヤーストーム</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000035</ActionSkillId>
       <ActionSkillName>急流の調べ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000036</ActionSkillId>
       <ActionSkillName>バンブーダッシュ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000037</ActionSkillId>
       <ActionSkillName>スキルバースト</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000038</ActionSkillId>
       <ActionSkillName>コリャラクダー</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを50％上昇させる</Description>
+      <Description>4秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000039</ActionSkillId>
       <ActionSkillName>ララスイート</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを70％上昇させる</Description>
+      <Description>5秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000040</ActionSkillId>
       <ActionSkillName>草那芸之大刀の舞</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを70％上昇させる</Description>
+      <Description>5秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000041</ActionSkillId>
       <ActionSkillName>韋駄天走り</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、自身のスピードを70％上昇させる</Description>
+      <Description>5秒間、自身のスピードを50％上昇させる</Description>
       <ActionSkillId>1000042</ActionSkillId>
       <ActionSkillName>バスターフラッシュ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>スタミナ消費が2倍になる代わりに、自身のスピードを5秒間80％上昇させる</Description>
+      <Description>スタミナ消費が2倍になる代わりに、自身のスピードを5秒間70％上昇させる</Description>
       <ActionSkillId>1000100</ActionSkillId>
       <ActionSkillName>ニトロブースト</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>スタミナ消費が2倍になる代わりに、自身のスピードを5秒間80％上昇させる</Description>
+      <Description>スタミナ消費が2倍になる代わりに、自身のスピードを5秒間70％上昇させる</Description>
       <ActionSkillId>1000101</ActionSkillId>
       <ActionSkillName>バーニングフレイム</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>スタミナ消費が2倍になる代わりに、自身のスピードを5秒間80％上昇させる</Description>
+      <Description>スタミナ消費が2倍になる代わりに、自身のスピードを5秒間70％上昇させる</Description>
       <ActionSkillId>1000102</ActionSkillId>
       <ActionSkillName>双刃乱舞</ActionSkillName>
     </DocActionSkillText>
@@ -474,28 +474,28 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>6秒間、自身の順位に応じてスピードが上昇する</Description>
+      <Description>5秒間、自身の順位に応じてスピードが上昇する</Description>
       <ActionSkillId>1024000</ActionSkillId>
       <ActionSkillName>アクセラヒート</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>6秒間、自身の順位に応じてスピードが上昇する</Description>
+      <Description>5秒間、自身の順位に応じてスピードが上昇する</Description>
       <ActionSkillId>1024001</ActionSkillId>
       <ActionSkillName>ユーカリダッシュ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>7秒間、自身のスピードが上昇し、さらにシールド効果が付加される</Description>
+      <Description>5秒間、自身のスピードが上昇し、さらにシールド効果が付加される</Description>
       <ActionSkillId>1027000</ActionSkillId>
       <ActionSkillName>レックスラッシュ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>7秒間、自身のスピードが上昇し、さらにシールド効果が付加される</Description>
+      <Description>5秒間、自身のスピードが上昇し、さらにシールド効果が付加される</Description>
       <ActionSkillId>1027001</ActionSkillId>
       <ActionSkillName>十文字槍円舞</ActionSkillName>
     </DocActionSkillText>
@@ -6009,126 +6009,126 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35000000</CourseId>
-      <CourseName>週替わりマルチレース①【初級】-R1</CourseName>
+      <CourseName>木と水と火の国 混合レース【初級】-R1</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35000001</CourseId>
-      <CourseName>週替わりマルチレース①【初級】-R2</CourseName>
+      <CourseName>木と水と火の国 混合レース【初級】-R2</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35000100</CourseId>
-      <CourseName>週替わりマルチレース①【中級】-R1</CourseName>
+      <CourseName>木と水と火の国 混合レース-R1</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35000101</CourseId>
-      <CourseName>週替わりマルチレース①【中級】-R2</CourseName>
+      <CourseName>木と水と火の国 混合レース-R2</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35000200</CourseId>
-      <CourseName>週替わりマルチレース①【上級】-R1</CourseName>
+      <CourseName>木と水と火の国 混合レース【上級】-R1</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35000201</CourseId>
-      <CourseName>週替わりマルチレース①【上級】-R2</CourseName>
+      <CourseName>木と水と火の国 混合レース【上級】-R2</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35010000</CourseId>
-      <CourseName>週替わりマルチレース②【初級】-R1</CourseName>
+      <CourseName>土と鋼の国 混合レース【初級】-R1</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35010001</CourseId>
-      <CourseName>週替わりマルチレース②【初級】-R2</CourseName>
+      <CourseName>土と鋼の国 混合レース【初級】-R2</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35010100</CourseId>
-      <CourseName>週替わりマルチレース②【中級】-R1</CourseName>
+      <CourseName>土と鋼の国 混合レース-R1</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35010101</CourseId>
-      <CourseName>週替わりマルチレース②【中級】-R2</CourseName>
+      <CourseName>土と鋼の国 混合レース-R2</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35010200</CourseId>
-      <CourseName>週替わりマルチレース②【上級】-R1</CourseName>
+      <CourseName>土と鋼の国 混合レース【上級】-R1</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35010201</CourseId>
-      <CourseName>週替わりマルチレース②【上級】-R2</CourseName>
+      <CourseName>土と鋼の国 混合レース【上級】-R2</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35020000</CourseId>
-      <CourseName>週替わりマルチレース③【初級】-R1</CourseName>
+      <CourseName>光と闇の国 混合レース【初級】-R1</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35020001</CourseId>
-      <CourseName>週替わりマルチレース③【初級】-R2</CourseName>
+      <CourseName>光と闇の国 混合レース【初級】-R2</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35020100</CourseId>
-      <CourseName>週替わりマルチレース③【中級】-R1</CourseName>
+      <CourseName>光と闇の国 混合レース-R1</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35020101</CourseId>
-      <CourseName>週替わりマルチレース③【中級】-R2</CourseName>
+      <CourseName>光と闇の国 混合レース-R2</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35020200</CourseId>
-      <CourseName>週替わりマルチレース③【上級】-R1</CourseName>
+      <CourseName>光と闇の国 混合レース【上級】-R1</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>35020201</CourseId>
-      <CourseName>週替わりマルチレース③【上級】-R2</CourseName>
+      <CourseName>光と闇の国 混合レース【上級】-R2</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -6436,21 +6436,21 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>50000000</CourseId>
-      <CourseName>フレンドマッチ【初級】-R1</CourseName>
+      <CourseName>基本5属性 短距離レース-R1</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>50000100</CourseId>
-      <CourseName>フレンドマッチ【中級】-R1</CourseName>
+      <CourseName>基本5属性 長距離レース-R1</CourseName>
     </DocCourseText>
     <DocCourseText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CourseId>50000200</CourseId>
-      <CourseName>フレンドマッチ【上級】-R1</CourseName>
+      <CourseName>全7属性 超・長距離レース-R1</CourseName>
     </DocCourseText>
   </DocCourseTextList>
   <DocEntryRuleTextList>
@@ -7352,13 +7352,6 @@
       <EvolutionBranchId>24300</EvolutionBranchId>
       <EvolutionBranchName>サキュバス → 魅惑の悪魔サキュバス</EvolutionBranchName>
     </DocEvolutionBranchText>
-    <DocEvolutionBranchText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <EvolutionBranchId>28500</EvolutionBranchId>
-      <EvolutionBranchName>スキプルベビー → スキプル</EvolutionBranchName>
-    </DocEvolutionBranchText>
   </DocEvolutionBranchTextList>
   <DocEvolutionGoodsTextList>
     <DocEvolutionGoodsText>
@@ -8238,13 +8231,6 @@
       <EvolutionLineId>24300</EvolutionLineId>
       <EvolutionLineName>サキュバス</EvolutionLineName>
     </DocEvolutionLineText>
-    <DocEvolutionLineText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <EvolutionLineId>28500</EvolutionLineId>
-      <EvolutionLineName>スキプルベビー</EvolutionLineName>
-    </DocEvolutionLineText>
   </DocEvolutionLineTextList>
   <DocGachaTextList>
     <DocGachaText>
@@ -8257,7 +8243,8 @@
     <DocGachaText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>通常プレミアガチャ</Description>
+      <Description>通常プレミアガチャ
+ダッシュ値は1-5でランダム</Description>
       <GachaId>1</GachaId>
       <GachaName>プレミアムガチャ（基本）</GachaName>
     </DocGachaText>
@@ -8924,8 +8911,8 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MarqueeId>0</MarqueeId>
-      <MarqueeName>β２リリース（5/14）</MarqueeName>
-      <Message>5/14 β2リリース記念!!</Message>
+      <MarqueeName>β３リリース（6/1）</MarqueeName>
+      <Message>6/1 β3リリース!!</Message>
     </DocMarqueeText>
   </DocMarqueeTextList>
   <DocMedalShopItemTextList>
@@ -9557,119 +9544,119 @@
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が5回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10301</MissionId>
-      <MissionName>マルチプレイ参加数5回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
       <Description>マルチプレイの参加数が10回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10302</MissionId>
+      <MissionId>10301</MissionId>
       <MissionName>マルチプレイ参加数10回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が20回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10303</MissionId>
-      <MissionName>マルチプレイ参加数20回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
       <Description>マルチプレイの参加数が50回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10304</MissionId>
+      <MissionId>10302</MissionId>
       <MissionName>マルチプレイ参加数50回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>マルチプレイの参加数が100回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10305</MissionId>
+      <MissionId>10303</MissionId>
       <MissionName>マルチプレイ参加数100回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が200回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10306</MissionId>
-      <MissionName>マルチプレイ参加数200回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
       <Description>マルチプレイの参加数が300回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10307</MissionId>
+      <MissionId>10304</MissionId>
       <MissionName>マルチプレイ参加数300回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が5勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイの参加数が500回目に達したらクリスタルを1つプレゼント！</Description>
+      <MissionId>10305</MissionId>
+      <MissionName>マルチプレイ参加数500回達成せよ</MissionName>
+    </DocMissionText>
+    <DocMissionText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description>マルチプレイの参加数が1000回目に達したらクリスタルを1つプレゼント！</Description>
+      <MissionId>10306</MissionId>
+      <MissionName>マルチプレイ参加数1000回達成せよ</MissionName>
+    </DocMissionText>
+    <DocMissionText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description>マルチプレイの参加数が2000回目に達したらクリスタルを1つプレゼント！</Description>
+      <MissionId>10307</MissionId>
+      <MissionName>マルチプレイ参加数2000回達成せよ</MissionName>
+    </DocMissionText>
+    <DocMissionText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description>マルチプレイでの勝利数が1勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10400</MissionId>
       <MissionName>マルチプレイ勝利数1回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が10勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が5勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10401</MissionId>
       <MissionName>マルチプレイ勝利数5回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が20勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が10勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10402</MissionId>
       <MissionName>マルチプレイ勝利数10回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が30勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10403</MissionId>
       <MissionName>マルチプレイ勝利数30回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が20勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10404</MissionId>
       <MissionName>マルチプレイ勝利数50回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が100勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10405</MissionId>
       <MissionName>マルチプレイ勝利数100回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が200勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10406</MissionId>
       <MissionName>マルチプレイ勝利数200回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が20勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が300勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10407</MissionId>
       <MissionName>マルチプレイ勝利数300回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が500勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10408</MissionId>
       <MissionName>マルチプレイ勝利数500回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が100勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が1000勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10409</MissionId>
       <MissionName>マルチプレイ勝利数1000回達成せよ</MissionName>
     </DocMissionText>
@@ -9690,35 +9677,35 @@
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が5連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの連勝数が7連勝に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10502</MissionId>
       <MissionName>マルチプレイ連勝数7連勝達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が7連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの連勝数が10連勝に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10503</MissionId>
       <MissionName>マルチプレイ連勝数10連勝達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が5連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの連勝数が15連勝に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10504</MissionId>
       <MissionName>マルチプレイ連勝数15連勝達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が7連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの連勝数が20連勝に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10505</MissionId>
       <MissionName>マルチプレイ連勝数20連勝達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が10連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの連勝数が30連勝に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10506</MissionId>
       <MissionName>マルチプレイ連勝数30連勝達成せよ</MissionName>
     </DocMissionText>
@@ -10005,35 +9992,35 @@
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを15個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィーを20個獲得したらクリスタルを1つプレゼント！</Description>
       <MissionId>11004</MissionId>
       <MissionName>ゴールドトロフィー獲得数20個を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを20個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィーを30個獲得したらクリスタルを1つプレゼント！</Description>
       <MissionId>11005</MissionId>
       <MissionName>ゴールドトロフィー獲得数30個を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを30個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィーを50個獲得したらクリスタルを1つプレゼント！</Description>
       <MissionId>11006</MissionId>
       <MissionName>ゴールドトロフィー獲得数50個を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを40個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィーを70個獲得したらクリスタルを1つプレゼント！</Description>
       <MissionId>11007</MissionId>
       <MissionName>ゴールドトロフィー獲得数70個を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを50個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィーを100個獲得したらクリスタルを1つプレゼント！</Description>
       <MissionId>11008</MissionId>
       <MissionName>ゴールドトロフィー獲得数100個を達成せよ</MissionName>
     </DocMissionText>
@@ -10082,7 +10069,7 @@
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>チュートリアルクリアでクリスタルを1つプレゼント！</Description>
+      <Description>チュートリアルクリアでクリスタルを5つプレゼント！</Description>
       <MissionId>11400</MissionId>
       <MissionName>チュートリアルをクリアせよ</MissionName>
     </DocMissionText>
@@ -12095,72 +12082,72 @@
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控え時のモンスターのスタミナ回復力を向上させる【効果小】</Description>
+      <Description>控え時のモンスターのスタミナ回復力を少し向上させる</Description>
       <PassiveSkillId>10000</PassiveSkillId>
       <PassiveSkillName>スタミナ回復力Lv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控え時のモンスターのスタミナ回復力を向上させる【効果中】</Description>
+      <Description>控え時のモンスターのスタミナ回復力をある程度向上させる</Description>
       <PassiveSkillId>10001</PassiveSkillId>
       <PassiveSkillName>スタミナ回復力Lv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控え時のモンスターのスタミナ回復力を向上させる【効果大】</Description>
+      <Description>控え時のモンスターのスタミナ回復力をかなり向上させる</Description>
       <PassiveSkillId>10002</PassiveSkillId>
       <PassiveSkillName>スタミナ回復力Lv.3</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>レース中の加速の速さに影響【効果小】</Description>
+      <Description>レース中の加速度を少し向上させる</Description>
       <PassiveSkillId>10200</PassiveSkillId>
       <PassiveSkillName>ダッシュLv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>レース中の加速の速さに影響【効果中】</Description>
+      <Description>レース中の加速度をある程度向上させる</Description>
       <PassiveSkillId>10201</PassiveSkillId>
       <PassiveSkillName>ダッシュLv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>レース中の加速の速さに影響【効果大】</Description>
+      <Description>レース中の加速度をかなり向上させる</Description>
       <PassiveSkillId>10202</PassiveSkillId>
       <PassiveSkillName>ダッシュLv.3</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>下位にいる際にスピードが若干上昇する【効果小】</Description>
+      <Description>下位にいる時ににスピードが少し上昇する</Description>
       <PassiveSkillId>10300</PassiveSkillId>
       <PassiveSkillName>ガッツLv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>下位にいる際にスピードが若干上昇する【効果中】</Description>
+      <Description>下位にいる時にスピードがある程度上昇する</Description>
       <PassiveSkillId>10301</PassiveSkillId>
       <PassiveSkillName>ガッツLv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>下位にいる際にスピードが若干上昇する【効果大】</Description>
+      <Description>下位にいる時にスピードがかなり上昇する</Description>
       <PassiveSkillId>10302</PassiveSkillId>
       <PassiveSkillName>ガッツLv.3</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>レース後半にガッツ効果がアップする</Description>
+      <Description>レース後半に下位になるとスピードがかなり上昇する</Description>
       <PassiveSkillId>10310</PassiveSkillId>
-      <PassiveSkillName>ガッツ（後半）</PassiveSkillName>
+      <PassiveSkillName>ガッツ[後半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -12186,21 +12173,21 @@
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスターのスキル回復力が向上する【効果小】</Description>
+      <Description>モンスターのスキル回復力が少し向上する</Description>
       <PassiveSkillId>10500</PassiveSkillId>
       <PassiveSkillName>スキル回復力Lv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスターのスキル回復力が向上する【効果中】</Description>
+      <Description>モンスターのスキル回復力がある程度向上する</Description>
       <PassiveSkillId>10501</PassiveSkillId>
       <PassiveSkillName>スキル回復力Lv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスターのスキル回復力が向上する【効果大】</Description>
+      <Description>モンスターのスキル回復力がかなり向上する</Description>
       <PassiveSkillId>10502</PassiveSkillId>
       <PassiveSkillName>スキル回復力Lv.3</PassiveSkillName>
     </DocPassiveSkillText>
@@ -12216,49 +12203,49 @@
       <LanguageCode>JA</LanguageCode>
       <Description>火属性地形走行時にスピードアップする</Description>
       <PassiveSkillId>11500</PassiveSkillId>
-      <PassiveSkillName>スピードアップ【火】</PassiveSkillName>
+      <PassiveSkillName>スピードアップ[火]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>水属性地形走行時にスピードアップする</Description>
       <PassiveSkillId>11501</PassiveSkillId>
-      <PassiveSkillName>スピードアップ【水】</PassiveSkillName>
+      <PassiveSkillName>スピードアップ[水]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>木属性地形走行時にスピードアップする</Description>
       <PassiveSkillId>11502</PassiveSkillId>
-      <PassiveSkillName>スピードアップ【木】</PassiveSkillName>
+      <PassiveSkillName>スピードアップ[木]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>土属性地形走行時にスピードアップする</Description>
       <PassiveSkillId>11503</PassiveSkillId>
-      <PassiveSkillName>スピードアップ【土】</PassiveSkillName>
+      <PassiveSkillName>スピードアップ[土]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>鋼属性地形走行時にスピードアップする</Description>
       <PassiveSkillId>11504</PassiveSkillId>
-      <PassiveSkillName>スピードアップ【鋼】</PassiveSkillName>
+      <PassiveSkillName>スピードアップ[鋼]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>光属性地形走行時にスピードアップする</Description>
       <PassiveSkillId>11505</PassiveSkillId>
-      <PassiveSkillName>スピードアップ【光】</PassiveSkillName>
+      <PassiveSkillName>スピードアップ[光]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>闇属性地形走行時にスピードアップする</Description>
       <PassiveSkillId>11506</PassiveSkillId>
-      <PassiveSkillName>スピードアップ【闇】</PassiveSkillName>
+      <PassiveSkillName>スピードアップ[闇]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -12279,329 +12266,329 @@
       <LanguageCode>JA</LanguageCode>
       <Description>火属性地形走行時にスタミナ減少量が少なくなる</Description>
       <PassiveSkillId>11600</PassiveSkillId>
-      <PassiveSkillName>スタミナ消費減【火】</PassiveSkillName>
+      <PassiveSkillName>スタミナ消費減[火]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>水属性地形走行時にスタミナ減少量が少なくなる</Description>
       <PassiveSkillId>11601</PassiveSkillId>
-      <PassiveSkillName>スタミナ消費減【水】</PassiveSkillName>
+      <PassiveSkillName>スタミナ消費減[水]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>木属性地形走行時にスタミナ減少量が少なくなる</Description>
       <PassiveSkillId>11602</PassiveSkillId>
-      <PassiveSkillName>スタミナ消費減【木】</PassiveSkillName>
+      <PassiveSkillName>スタミナ消費減[木]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>土属性地形走行時にスタミナ減少量が少なくなる</Description>
       <PassiveSkillId>11603</PassiveSkillId>
-      <PassiveSkillName>スタミナ消費減【土】</PassiveSkillName>
+      <PassiveSkillName>スタミナ消費減[土]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>鋼属性地形走行時にスタミナ減少量が少なくなる</Description>
       <PassiveSkillId>11604</PassiveSkillId>
-      <PassiveSkillName>スタミナ消費減【鋼】</PassiveSkillName>
+      <PassiveSkillName>スタミナ消費減[鋼]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>光属性地形走行時にスタミナ減少量が少なくなる</Description>
       <PassiveSkillId>11605</PassiveSkillId>
-      <PassiveSkillName>スタミナ消費減【光】</PassiveSkillName>
+      <PassiveSkillName>スタミナ消費減[光]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>闇属性地形走行時にスタミナ減少量が少なくなる</Description>
       <PassiveSkillId>11606</PassiveSkillId>
-      <PassiveSkillName>スタミナ消費減【闇】</PassiveSkillName>
+      <PassiveSkillName>スタミナ消費減[闇]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>火属性地形走行時、スタミナ低下時のスピードダウン効果無し</Description>
+      <Description>火属性地形走行時、スタミナ低下による減速を防ぐ</Description>
       <PassiveSkillId>11700</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志【火】</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[火]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>水属性地形走行時、スタミナ低下時のスピードダウン効果無し</Description>
+      <Description>水属性地形走行時、スタミナ低下による減速を防ぐ</Description>
       <PassiveSkillId>11701</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志【水】</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[水]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>木属性地形走行時、スタミナ低下時のスピードダウン効果無し</Description>
+      <Description>木属性地形走行時、スタミナ低下による減速を防ぐ</Description>
       <PassiveSkillId>11702</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志【木】</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[木]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>土属性地形走行時、スタミナ低下時のスピードダウン効果無し</Description>
+      <Description>土属性地形走行時、スタミナ低下による減速を防ぐ</Description>
       <PassiveSkillId>11703</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志【土】</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[土]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>鋼属性地形走行時、スタミナ低下時のスピードダウン効果無し</Description>
+      <Description>鋼属性地形走行時、スタミナ低下による減速を防ぐ</Description>
       <PassiveSkillId>11704</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志【鋼】</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[鋼]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>光属性地形走行時、スタミナ低下時のスピードダウン効果無し</Description>
+      <Description>光属性地形走行時、スタミナ低下による減速を防ぐ</Description>
       <PassiveSkillId>11705</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志【光】</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[光]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>闇属性地形走行時、スタミナ低下時のスピードダウン効果無し</Description>
+      <Description>闇属性地形走行時、スタミナ低下による減速を防ぐ</Description>
       <PassiveSkillId>11706</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志【闇】</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[闇]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>スタミナ低下時のスピードダウン効果を低減する【効果小】</Description>
+      <Description>スタミナ低下時の減速効果を少し抑える</Description>
       <PassiveSkillId>11710</PassiveSkillId>
       <PassiveSkillName>不屈の闘志Lv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>スタミナ低下時のスピードダウン効果を低減する【効果中】</Description>
+      <Description>スタミナ低下時の減速効果をある程度抑える</Description>
       <PassiveSkillId>11711</PassiveSkillId>
       <PassiveSkillName>不屈の闘志Lv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>スタミナ低下時のスピードダウン効果を低減する【効果大】</Description>
+      <Description>スタミナ低下時の減速効果をかなり抑える</Description>
       <PassiveSkillId>11712</PassiveSkillId>
       <PassiveSkillName>不屈の闘志Lv.3</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>クエストクリア時の獲得経験値が増加する</Description>
+      <Description>大会クリア時の獲得経験値が少し増える</Description>
       <PassiveSkillId>11800</PassiveSkillId>
-      <PassiveSkillName>神童【EXP+】Lv.1</PassiveSkillName>
+      <PassiveSkillName>経験値UP Lv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>クエストクリア時の獲得経験値が増加する</Description>
+      <Description>大会クリア時の獲得経験値がある程度増える</Description>
       <PassiveSkillId>11801</PassiveSkillId>
-      <PassiveSkillName>神童【EXP+】Lv.2</PassiveSkillName>
+      <PassiveSkillName>経験値UP Lv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>クエストクリア時の獲得経験値が増加する</Description>
+      <Description>大会クリア時の獲得経験値がかなり増える</Description>
       <PassiveSkillId>11802</PassiveSkillId>
-      <PassiveSkillName>神童【EXP+】Lv.3</PassiveSkillName>
+      <PassiveSkillName>経験値UP Lv.3</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>クエストクリア時の獲得ゴールドが増加する</Description>
+      <Description>大会クリア時の獲得ゴールドが少し増える</Description>
       <PassiveSkillId>11900</PassiveSkillId>
-      <PassiveSkillName>金の亡者【GOLD+】Lv.1</PassiveSkillName>
+      <PassiveSkillName>ゴールドUP Lv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>クエストクリア時の獲得ゴールドが増加する</Description>
+      <Description>大会クリア時の獲得ゴールドがある程度増える</Description>
       <PassiveSkillId>11901</PassiveSkillId>
-      <PassiveSkillName>金の亡者【GOLD+】Lv.2</PassiveSkillName>
+      <PassiveSkillName>ゴールドUP Lv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>クエストクリア時の獲得ゴールドが増加する</Description>
+      <Description>大会クリア時の獲得ゴールドがかなり増える</Description>
       <PassiveSkillId>11902</PassiveSkillId>
-      <PassiveSkillName>金の亡者【GOLD+】Lv.3</PassiveSkillName>
+      <PassiveSkillName>ゴールドUP Lv.3</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>クエストクリア時の獲得ランクポイントが増加する</Description>
+      <Description>大会クリア時の獲得名声ポイントが少し増える</Description>
       <PassiveSkillId>12000</PassiveSkillId>
-      <PassiveSkillName>熱き闘争心【RANK+】Lv.1</PassiveSkillName>
+      <PassiveSkillName>名声値UP Lv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>クエストクリア時の獲得ランクポイントが増加する</Description>
+      <Description>大会クリア時の獲得名声ポイントがある程度増える</Description>
       <PassiveSkillId>12001</PassiveSkillId>
-      <PassiveSkillName>熱き闘争心【RANK+】Lv.2</PassiveSkillName>
+      <PassiveSkillName>名声値UP Lv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>クエストクリア時の獲得ランクポイントが増加する</Description>
+      <Description>大会クリア時の獲得名声ポイントがかなり増える</Description>
       <PassiveSkillId>12002</PassiveSkillId>
-      <PassiveSkillName>熱き闘争心【RANK+】Lv.3</PassiveSkillName>
+      <PassiveSkillName>名声値UP Lv.3</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>チェックポイントで良いもの（何をもって？）が出やすい</Description>
+      <Description>チェックポイントでレアなアイテムが少し出やすくなる</Description>
       <PassiveSkillId>12100</PassiveSkillId>
-      <PassiveSkillName>幸運の証【LUCK+】Lv.1</PassiveSkillName>
+      <PassiveSkillName>ラックUP Lv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>チェックポイントで良いもの（何をもって？）が出やすい</Description>
+      <Description>チェックポイントでレアなアイテムがある程度出やすくなる</Description>
       <PassiveSkillId>12101</PassiveSkillId>
-      <PassiveSkillName>幸運の証【LUCK+】Lv.2</PassiveSkillName>
+      <PassiveSkillName>ラックUP Lv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>チェックポイントで良いもの（何をもって？）が出やすい</Description>
+      <Description>チェックポイントでレアなアイテムがかなり出やすくなる</Description>
       <PassiveSkillId>12102</PassiveSkillId>
-      <PassiveSkillName>幸運の証【LUCK+】Lv.3</PassiveSkillName>
+      <PassiveSkillName>ラックUP Lv.3</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>スタートダッシュ効果UP（成功タイミング拡大＆速度効果UP）</Description>
+      <Description>スタートダッシュ効果UP(成功タイミング拡大＆速度効果UP)</Description>
       <PassiveSkillId>12200</PassiveSkillId>
-      <PassiveSkillName>スタートダッシュ＋Lv.1</PassiveSkillName>
+      <PassiveSkillName>スタートダッシュ Lv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>スタートダッシュ効果UP（成功タイミング拡大＆速度効果UP）</Description>
+      <Description>スタートダッシュ効果UP(成功タイミング拡大＆速度効果UP)</Description>
       <PassiveSkillId>12201</PassiveSkillId>
-      <PassiveSkillName>スタートダッシュ＋Lv.2</PassiveSkillName>
+      <PassiveSkillName>スタートダッシュ Lv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>スタートダッシュ効果UP（成功タイミング拡大＆速度効果UP）</Description>
+      <Description>スタートダッシュ効果UP(成功タイミング拡大＆速度効果UP)</Description>
       <PassiveSkillId>12202</PassiveSkillId>
-      <PassiveSkillName>スタートダッシュ＋Lv.3</PassiveSkillName>
+      <PassiveSkillName>スタートダッシュ Lv.3</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の【交代不可】スキルを無効化する</Description>
+      <Description>相手の[交代不可]スキルを無効化する</Description>
       <PassiveSkillId>20600</PassiveSkillId>
-      <PassiveSkillName>【交代不可】スキルガード</PassiveSkillName>
+      <PassiveSkillName>[交代不可]スキルガード</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の【スキル使用不可】スキルを無効化する</Description>
+      <Description>相手の[スキル使用不可]スキルを無効化</Description>
       <PassiveSkillId>20700</PassiveSkillId>
-      <PassiveSkillName>【スキル使用不可】スキルガード</PassiveSkillName>
+      <PassiveSkillName>[スキル使用不可]スキルガード</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の【スピードダウン】スキルの効果を半減</Description>
+      <Description>相手の[スピードダウン]スキルの効果を半減</Description>
       <PassiveSkillId>20800</PassiveSkillId>
-      <PassiveSkillName>【スピードダウン】スキルガードLv.1</PassiveSkillName>
+      <PassiveSkillName>[スピードダウン]スキルガードLv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の【スピードダウン】スキルを無効化</Description>
+      <Description>相手の[スピードダウン]スキルを無効化</Description>
       <PassiveSkillId>20801</PassiveSkillId>
-      <PassiveSkillName>【スピードダウン】スキルガードLv.2</PassiveSkillName>
+      <PassiveSkillName>[スピードダウン]スキルガードLv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の【地形適正ダウン（反転含む）】スキルを無効化する</Description>
+      <Description>相手の[地形適正ダウン(反転含む)]スキルを無効化</Description>
       <PassiveSkillId>20900</PassiveSkillId>
-      <PassiveSkillName>【地形適正ダウン】スキルガード</PassiveSkillName>
+      <PassiveSkillName>[地形適正ダウン]スキルガード</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の【スタミナダウン】スキルの効果を半減</Description>
+      <Description>相手の[スタミナダウン]スキルの効果を半減</Description>
       <PassiveSkillId>21000</PassiveSkillId>
-      <PassiveSkillName>【スタミナダウン】スキルガードLv.1</PassiveSkillName>
+      <PassiveSkillName>[スタミナダウン]スキルガードLv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の【スタミナダウン】スキルを無効化</Description>
+      <Description>相手の[スタミナダウン]スキルを無効化</Description>
       <PassiveSkillId>21001</PassiveSkillId>
-      <PassiveSkillName>【スタミナダウン】スキルガードLv.2</PassiveSkillName>
+      <PassiveSkillName>[スタミナダウン]スキルガードLv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>パワーが必要な地表での速度低下を抑える【効果小】</Description>
+      <Description>パワーが必要な地形での減速を半減</Description>
       <PassiveSkillId>30100</PassiveSkillId>
       <PassiveSkillName>パワーLv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>パワーが必要な地表での速度低下を抑える【効果特大】</Description>
+      <Description>パワーが必要な地形で減速しなくなる</Description>
       <PassiveSkillId>30101</PassiveSkillId>
       <PassiveSkillName>パワーLv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>【スタミナダウン】エリア走行時のスタミナダウン効果を防ぐ</Description>
+      <Description>[スタミナダウン]地形走行時のスタミナ減少効果を半減</Description>
       <PassiveSkillId>31100</PassiveSkillId>
-      <PassiveSkillName>アンチ【スタミナダウン】地形Lv.1</PassiveSkillName>
+      <PassiveSkillName>アンチ[スタミナダウン]Lv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>【スタミナダウン】エリア走行時のスタミナダウン効果を防ぐ</Description>
+      <Description>[スタミナダウン]地形走行時もスタミナが減少しなくなる</Description>
       <PassiveSkillId>31101</PassiveSkillId>
-      <PassiveSkillName>アンチ【スタミナダウン】地形Lv.2</PassiveSkillName>
+      <PassiveSkillName>アンチ[スタミナダウン]Lv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>【スリップ】エリア走行時のスリップ効果を防ぐ</Description>
+      <Description>[スリップ]地形走行時のスリップ効果を半減</Description>
       <PassiveSkillId>31300</PassiveSkillId>
-      <PassiveSkillName>アンチ【スリップ】地形Lv.1</PassiveSkillName>
+      <PassiveSkillName>アンチ[スリップ]Lv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>【スリップ】エリア走行時のスリップ効果を防ぐ</Description>
+      <Description>[スリップ]地形走行時もスリップしなくなる</Description>
       <PassiveSkillId>31301</PassiveSkillId>
-      <PassiveSkillName>アンチ【スリップ】地形Lv.2</PassiveSkillName>
+      <PassiveSkillName>アンチ[スリップ]Lv.2</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>【スピードダウン】エリア走行時のスピードダウン効果を防ぐ</Description>
+      <Description>[スピードダウン]地形走行時のスピードダウン効果を半減</Description>
       <PassiveSkillId>31400</PassiveSkillId>
-      <PassiveSkillName>アンチ【スピードダウン】地形Lv.1</PassiveSkillName>
+      <PassiveSkillName>アンチ[スピードダウン]Lv.1</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>【スピードダウン】エリア走行時のスピードダウン効果を防ぐ</Description>
+      <Description>[スピードダウン]地形走行時もスピードダウンしなくなる</Description>
       <PassiveSkillId>31401</PassiveSkillId>
-      <PassiveSkillName>アンチ【スピードダウン】地形Lv.2</PassiveSkillName>
+      <PassiveSkillName>アンチ[スピードダウン]Lv.2</PassiveSkillName>
     </DocPassiveSkillText>
   </DocPassiveSkillTextList>
   <DocRaceTextList>
@@ -14461,7 +14448,7 @@
       <RaceName>SCENE 5 -終幕--R3</RaceName>
     </DocRaceText>
     <DocRaceText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>10320403</RaceId>
@@ -14580,7 +14567,7 @@
       <RaceName>流路 5 -Estuary--R3</RaceName>
     </DocRaceText>
     <DocRaceText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>10330403</RaceId>
@@ -14699,7 +14686,7 @@
       <RaceName>嶺 5 -Canyon--R3</RaceName>
     </DocRaceText>
     <DocRaceText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>10340403</RaceId>
@@ -14818,7 +14805,7 @@
       <RaceName>丘陵 5 -Group--R3</RaceName>
     </DocRaceText>
     <DocRaceText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>10350403</RaceId>
@@ -14937,7 +14924,7 @@
       <RaceName>墳 5 -Reincarnation--R3</RaceName>
     </DocRaceText>
     <DocRaceText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>10360403</RaceId>
@@ -15056,7 +15043,7 @@
       <RaceName>宮殿 5 -Baroque--R3</RaceName>
     </DocRaceText>
     <DocRaceText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>10370403</RaceId>
@@ -15175,7 +15162,7 @@
       <RaceName>霊道 5 -Skelton--R3</RaceName>
     </DocRaceText>
     <DocRaceText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>10380403</RaceId>
@@ -15525,14 +15512,14 @@
       <RaceName>虹の進化素材を求めて【上級】-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>20100000</RaceId>
       <RaceName>闇の育成素材を求めて【初級】-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>20100001</RaceId>
@@ -15777,14 +15764,14 @@
       <RaceName>土の育成素材を求めて【上級】-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>20160000</RaceId>
       <RaceName>光の育成素材を求めて【初級】-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>20160001</RaceId>
@@ -17041,147 +17028,147 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35000000</RaceId>
-      <RaceName>週替わりマルチレース①-R1</RaceName>
+      <RaceName>木と水と火の国 混合レース【初級】-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35000001</RaceId>
-      <RaceName>週替わりマルチレース①-R2</RaceName>
+      <RaceName>木と水と火の国 混合レース【初級】-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35000100</RaceId>
-      <RaceName>週替わりマルチレース①-R1</RaceName>
+      <RaceName>木と水と火の国 混合レース-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35000101</RaceId>
-      <RaceName>週替わりマルチレース①-R2</RaceName>
+      <RaceName>木と水と火の国 混合レース-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35000200</RaceId>
-      <RaceName>週替わりマルチレース①【上級】-R1</RaceName>
+      <RaceName>木と水と火の国 混合レース【上級】-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35000201</RaceId>
-      <RaceName>週替わりマルチレース①【上級】-R2</RaceName>
+      <RaceName>木と水と火の国 混合レース【上級】-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35010000</RaceId>
-      <RaceName>週替わりマルチレース②【初級】-R1</RaceName>
+      <RaceName>土と鋼の国 混合レース【初級】-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35010001</RaceId>
-      <RaceName>週替わりマルチレース②【初級】-R2</RaceName>
+      <RaceName>土と鋼の国 混合レース【初級】-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35010100</RaceId>
-      <RaceName>週替わりマルチレース②-R1</RaceName>
+      <RaceName>土と鋼の国 混合レース-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35010101</RaceId>
-      <RaceName>週替わりマルチレース②-R2</RaceName>
+      <RaceName>土と鋼の国 混合レース-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35010200</RaceId>
-      <RaceName>週替わりマルチレース②【上級】-R1</RaceName>
+      <RaceName>土と鋼の国 混合レース【上級】-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35010201</RaceId>
-      <RaceName>週替わりマルチレース②【上級】-R2</RaceName>
+      <RaceName>土と鋼の国 混合レース【上級】-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35020000</RaceId>
-      <RaceName>週替わりマルチレース③【初級】-R1</RaceName>
+      <RaceName>光と闇の国 混合レース【初級】-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35020001</RaceId>
-      <RaceName>週替わりマルチレース③【初級】-R2</RaceName>
+      <RaceName>光と闇の国 混合レース【初級】-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35020100</RaceId>
-      <RaceName>週替わりマルチレース③-R1</RaceName>
+      <RaceName>光と闇の国 混合レース-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35020101</RaceId>
-      <RaceName>週替わりマルチレース③-R2</RaceName>
+      <RaceName>光と闇の国 混合レース-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35020200</RaceId>
-      <RaceName>週替わりマルチレース③【上級】-R1</RaceName>
+      <RaceName>光と闇の国 混合レース【上級】-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>35020201</RaceId>
-      <RaceName>週替わりマルチレース③【上級】-R2</RaceName>
+      <RaceName>光と闇の国 混合レース【上級】-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>50000000</RaceId>
-      <RaceName>フレンドマッチ【初級】-R1</RaceName>
+      <RaceName>基本5属性 短距離レース-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>50000100</RaceId>
-      <RaceName>フレンドマッチ【中級】-R1</RaceName>
+      <RaceName>基本5属性 長距離レース-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>50000200</RaceId>
-      <RaceName>フレンドマッチ【上級】-R1</RaceName>
+      <RaceName>全7属性 超・長距離レース-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -18959,7 +18946,7 @@
       <RaceSeriesName>虹の進化素材を求めて【上級】</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>201000</RaceSeriesId>
@@ -19085,7 +19072,7 @@
       <RaceSeriesName>土の育成素材を求めて【上級】</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>201600</RaceSeriesId>
@@ -19719,84 +19706,84 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>350000</RaceSeriesId>
-      <RaceSeriesName>週替わりマルチレース①</RaceSeriesName>
+      <RaceSeriesName>木と水と火の国 混合レース【初級】</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>350001</RaceSeriesId>
-      <RaceSeriesName>週替わりマルチレース①</RaceSeriesName>
+      <RaceSeriesName>木と水と火の国 混合レース</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>350002</RaceSeriesId>
-      <RaceSeriesName>週替わりマルチレース①【上級】</RaceSeriesName>
+      <RaceSeriesName>木と水と火の国 混合レース【上級】</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>350100</RaceSeriesId>
-      <RaceSeriesName>週替わりマルチレース②【初級】</RaceSeriesName>
+      <RaceSeriesName>土と鋼の国 混合レース【初級】</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>350101</RaceSeriesId>
-      <RaceSeriesName>週替わりマルチレース②</RaceSeriesName>
+      <RaceSeriesName>土と鋼の国 混合レース</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>350102</RaceSeriesId>
-      <RaceSeriesName>週替わりマルチレース②【上級】</RaceSeriesName>
+      <RaceSeriesName>土と鋼の国 混合レース【上級】</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>350200</RaceSeriesId>
-      <RaceSeriesName>週替わりマルチレース③【初級】</RaceSeriesName>
+      <RaceSeriesName>光と闇の国 混合レース【初級】</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>350201</RaceSeriesId>
-      <RaceSeriesName>週替わりマルチレース③</RaceSeriesName>
+      <RaceSeriesName>光と闇の国 混合レース</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>350202</RaceSeriesId>
-      <RaceSeriesName>週替わりマルチレース③【上級】</RaceSeriesName>
+      <RaceSeriesName>光と闇の国 混合レース【上級】</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>500000</RaceSeriesId>
-      <RaceSeriesName>フレンドマッチ【初級】</RaceSeriesName>
+      <RaceSeriesName>基本5属性 短距離レース</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>500001</RaceSeriesId>
-      <RaceSeriesName>フレンドマッチ【中級】</RaceSeriesName>
+      <RaceSeriesName>基本5属性 長距離レース</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>500002</RaceSeriesId>
-      <RaceSeriesName>フレンドマッチ【上級】</RaceSeriesName>
+      <RaceSeriesName>全7属性 超・長距離レース</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -63769,7 +63756,7 @@
       <StageName>光の育成素材を求めて</StageName>
     </DocStageText>
     <DocStageText>
-      <DataStatusCode>DISABLE</DataStatusCode>
+      <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2020</StageId>
@@ -64004,21 +63991,21 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3500</StageId>
-      <StageName>週替わりマルチレース①</StageName>
+      <StageName>週替わりレース【木/水/火】</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3501</StageId>
-      <StageName>週替わりマルチレース②</StageName>
+      <StageName>週替わりレース【土/鋼】</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3502</StageId>
-      <StageName>週替わりマルチレース③</StageName>
+      <StageName>週替わりレース【光/闇】</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -64190,7 +64177,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MatchingDesignId>0</MatchingDesignId>
-      <MatchingDesignName />
+      <MatchingDesignName>マッチング係数</MatchingDesignName>
     </DocMatchingDesignText>
   </DocMatchingDesignTextList>
   <DocMultiMatchDesignTextList>
@@ -64199,7 +64186,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MultiMatchDesignId>0</MultiMatchDesignId>
-      <MultiMatchDesignName />
+      <MultiMatchDesignName>マルチプレイ対戦係数</MultiMatchDesignName>
     </DocMultiMatchDesignText>
   </DocMultiMatchDesignTextList>
 </DocMonsterDashText>
