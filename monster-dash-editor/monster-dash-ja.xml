@@ -9544,119 +9544,119 @@
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が5回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイの参加数が10回目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10301</MissionId>
       <MissionName>マルチプレイ参加数10回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が10回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイの参加数が50回目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10302</MissionId>
       <MissionName>マルチプレイ参加数50回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が20回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイの参加数が100回目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10303</MissionId>
       <MissionName>マルチプレイ参加数100回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が50回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイの参加数が300回目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10304</MissionId>
       <MissionName>マルチプレイ参加数300回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が100回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイの参加数が500回目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10305</MissionId>
       <MissionName>マルチプレイ参加数500回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が200回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイの参加数が1000回目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10306</MissionId>
       <MissionName>マルチプレイ参加数1000回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が300回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイの参加数が2000回目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10307</MissionId>
       <MissionName>マルチプレイ参加数2000回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が5勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が1勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10400</MissionId>
       <MissionName>マルチプレイ勝利数1回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が10勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が5勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10401</MissionId>
       <MissionName>マルチプレイ勝利数5回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が20勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が10勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10402</MissionId>
       <MissionName>マルチプレイ勝利数10回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が30勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10403</MissionId>
       <MissionName>マルチプレイ勝利数30回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が20勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10404</MissionId>
       <MissionName>マルチプレイ勝利数50回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が100勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10405</MissionId>
       <MissionName>マルチプレイ勝利数100回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が200勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10406</MissionId>
       <MissionName>マルチプレイ勝利数200回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が20勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が300勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10407</MissionId>
       <MissionName>マルチプレイ勝利数300回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が500勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10408</MissionId>
       <MissionName>マルチプレイ勝利数500回達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が100勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの勝利数が1000勝目に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10409</MissionId>
       <MissionName>マルチプレイ勝利数1000回達成せよ</MissionName>
     </DocMissionText>
@@ -9677,35 +9677,35 @@
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が5連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの連勝数が7連勝に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10502</MissionId>
       <MissionName>マルチプレイ連勝数7連勝達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が7連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの連勝数が10連勝に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10503</MissionId>
       <MissionName>マルチプレイ連勝数10連勝達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が5連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの連勝数が15連勝に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10504</MissionId>
       <MissionName>マルチプレイ連勝数15連勝達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が7連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの連勝数が20連勝に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10505</MissionId>
       <MissionName>マルチプレイ連勝数20連勝達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が10連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイでの連勝数が30連勝に達したらクリスタルを1つプレゼント！</Description>
       <MissionId>10506</MissionId>
       <MissionName>マルチプレイ連勝数30連勝達成せよ</MissionName>
     </DocMissionText>
@@ -9992,35 +9992,35 @@
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを15個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィーを20個獲得したらクリスタルを1つプレゼント！</Description>
       <MissionId>11004</MissionId>
       <MissionName>ゴールドトロフィー獲得数20個を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを20個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィーを30個獲得したらクリスタルを1つプレゼント！</Description>
       <MissionId>11005</MissionId>
       <MissionName>ゴールドトロフィー獲得数30個を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを30個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィーを50個獲得したらクリスタルを1つプレゼント！</Description>
       <MissionId>11006</MissionId>
       <MissionName>ゴールドトロフィー獲得数50個を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを40個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィーを70個獲得したらクリスタルを1つプレゼント！</Description>
       <MissionId>11007</MissionId>
       <MissionName>ゴールドトロフィー獲得数70個を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを50個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィーを100個獲得したらクリスタルを1つプレゼント！</Description>
       <MissionId>11008</MissionId>
       <MissionName>ゴールドトロフィー獲得数100個を達成せよ</MissionName>
     </DocMissionText>
