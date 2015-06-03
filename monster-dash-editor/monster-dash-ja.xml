@@ -313,28 +313,28 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の火属性の地形適性を2段階上げる</Description>
+      <Description>10秒間、自身の火属性の地形適性を1段階上げる</Description>
       <ActionSkillId>1004000</ActionSkillId>
       <ActionSkillName>バーンドクエイク</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の水属性の地形適正を2段階上げる</Description>
+      <Description>10秒間、自身の水属性の地形適正を1段階上げる</Description>
       <ActionSkillId>1004001</ActionSkillId>
       <ActionSkillName>ドルフィンダイヴ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の木属性の地形適正を2段階上げる</Description>
+      <Description>10秒間、自身の木属性の地形適正を1段階上げる</Description>
       <ActionSkillId>1004002</ActionSkillId>
       <ActionSkillName>ウインドリップル</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の土属性の地形適正を2段階上げる</Description>
+      <Description>10秒間、自身の土属性の地形適正を1段階上げる</Description>
       <ActionSkillId>1004003</ActionSkillId>
       <ActionSkillName>ビルドハンマー</ActionSkillName>
     </DocActionSkillText>
@@ -357,14 +357,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description>8秒間、敵が使用した妨害スキルを防ぐ</Description>
       <ActionSkillId>1008002</ActionSkillId>
-      <ActionSkillName>メテオクラッシュ</ActionSkillName>
+      <ActionSkillName>ホーリーフィールド</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>10秒間、敵が使用した妨害スキルを防ぐ</Description>
       <ActionSkillId>1008003</ActionSkillId>
-      <ActionSkillName>スラッシュクロウ</ActionSkillName>
+      <ActionSkillName>ウイングバリア</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -649,7 +649,7 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、敵をその場に足止めし、さらに交代不可にする</Description>
+      <Description>3秒間、敵をその場に足止めし、さらに交代不可にする</Description>
       <ActionSkillId>2011000</ActionSkillId>
       <ActionSkillName>オーディンスピア</ActionSkillName>
     </DocActionSkillText>
@@ -1014,20 +1014,6 @@
       <BannerId>0</BannerId>
       <BannerName>通常版友達招待</BannerName>
     </DocBannerText>
-    <DocBannerText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>真田幸村の降臨用バナーです。</Description>
-      <BannerId>1</BannerId>
-      <BannerName>降臨：真田幸村</BannerName>
-    </DocBannerText>
-    <DocBannerText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>テスト</Description>
-      <BannerId>2</BannerId>
-      <BannerName>降臨：真田幸村</BannerName>
-    </DocBannerText>
   </DocBannerTextList>
   <DocCampaignTextList>
     <DocCampaignText>
@@ -1070,21 +1056,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CampaignId>5</CampaignId>
-      <CampaignName>経験値2倍</CampaignName>
+      <CampaignName>行動力消費半分（光の国）</CampaignName>
     </DocCampaignText>
     <DocCampaignText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CampaignId>6</CampaignId>
-      <CampaignName>ゴールド2倍</CampaignName>
-    </DocCampaignText>
-    <DocCampaignText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <CampaignId>7</CampaignId>
-      <CampaignName>強化キャンペーン</CampaignName>
+      <CampaignName>行動力消費半分（闇の国）</CampaignName>
     </DocCampaignText>
   </DocCampaignTextList>
   <DocCheckPointItemTextList>
@@ -8269,7 +8248,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <GameBalanceId>0</GameBalanceId>
-      <GameBalanceName>ゲームバランス（通常）</GameBalanceName>
+      <GameBalanceName>ゲームバランス（デフォルト）</GameBalanceName>
     </DocGameBalanceText>
     <DocGameBalanceText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -8904,6 +8883,15 @@
       <Title>友達招待報酬</Title>
       <Message>友達招待成功でクリスタル5個プレゼント！</Message>
     </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>4</MailId>
+      <MailName>事前登録報酬（シリアルコード用）</MailName>
+      <Title>事前登録報酬</Title>
+      <Message>【仮】事前登録報酬のラビィです。</Message>
+    </DocMailText>
   </DocMailTextList>
   <DocMarqueeTextList>
     <DocMarqueeText>
@@ -8911,8 +8899,8 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MarqueeId>0</MarqueeId>
-      <MarqueeName>β３リリース（6/1）</MarqueeName>
-      <Message>6/1 β3リリース!!</Message>
+      <MarqueeName>社内マルチプレイテスト告知</MarqueeName>
+      <Message>6/4 18:00より社内マルチプレイテスト開催!!</Message>
     </DocMarqueeText>
   </DocMarqueeTextList>
   <DocMedalShopItemTextList>
@@ -9271,805 +9259,805 @@
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数2日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が2日目になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10000</MissionId>
       <MissionName>通算ログイン2日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数5日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が5日目になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10001</MissionId>
       <MissionName>通算ログイン5日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数7日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が7日目になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10002</MissionId>
       <MissionName>通算ログイン7日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数10日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が10日目になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10003</MissionId>
       <MissionName>通算ログイン10日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数30日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が30日目になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10004</MissionId>
       <MissionName>通算ログイン30日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数50日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が50日目になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10005</MissionId>
       <MissionName>通算ログイン50日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数100日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が100日目になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10006</MissionId>
       <MissionName>通算ログイン100日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数150日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が150日目になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10007</MissionId>
       <MissionName>通算ログイン150日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数200日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が200日目になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10008</MissionId>
       <MissionName>通算ログイン200日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数250日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が250日目になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10009</MissionId>
       <MissionName>通算ログイン250日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数300日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が300日目になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10010</MissionId>
       <MissionName>通算ログイン300日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ブロンズⅢ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが15になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10100</MissionId>
-      <MissionName>プレイヤーランク『ブロンズⅢ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク15に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ブロンズⅡ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが14になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10101</MissionId>
-      <MissionName>プレイヤーランク『ブロンズⅡ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク14に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ブロンズⅠ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが13になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10102</MissionId>
-      <MissionName>プレイヤーランク『ブロンズⅠ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク13に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『シルバーⅢ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが12になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10103</MissionId>
-      <MissionName>プレイヤーランク『シルバーⅢ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク12に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『シルバーⅡ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが11になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10104</MissionId>
-      <MissionName>プレイヤーランク『シルバーⅡ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク11に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『シルバーⅠ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが10になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10105</MissionId>
-      <MissionName>プレイヤーランク『シルバーⅠ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク10に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ゴールドⅢ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが9になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10106</MissionId>
-      <MissionName>プレイヤーランク『ゴールドⅢ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク9に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ゴールドⅡ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが8になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10107</MissionId>
-      <MissionName>プレイヤーランク『ゴールドⅡ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク8に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ゴールドⅠ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが7になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10108</MissionId>
-      <MissionName>プレイヤーランク『ゴールドⅠ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク7に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『プラチナⅢ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが6になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10109</MissionId>
-      <MissionName>プレイヤーランク『プラチナⅢ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク6に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『プラチナⅡ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが5になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10110</MissionId>
-      <MissionName>プレイヤーランク『プラチナⅡ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク5に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『プラチナⅠ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが4になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10111</MissionId>
-      <MissionName>プレイヤーランク『プラチナⅠ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク4に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ダイアモンドⅢ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが3になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10112</MissionId>
-      <MissionName>プレイヤーランク『ダイアモンドⅢ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク3に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ダイアモンドⅡ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが2になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10113</MissionId>
-      <MissionName>プレイヤーランク『ダイアモンドⅡ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク2に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ダイアモンドⅠ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが1になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10114</MissionId>
-      <MissionName>プレイヤーランク『ダイアモンドⅠ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク1に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『レジェンド』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが“ダッシュ”になると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10115</MissionId>
-      <MissionName>プレイヤーランク『レジェンド』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク“ダッシュ”に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが5レベルに達したらクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーが5レベルになると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10200</MissionId>
       <MissionName>プレイヤーレベル5に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが10レベルに達したらクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーが10レベルになると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10201</MissionId>
       <MissionName>プレイヤーレベル10に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが20レベルに達したらクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーが20レベルになると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10202</MissionId>
       <MissionName>プレイヤーレベル20に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが30レベルに達したらクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーが30レベルになると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10203</MissionId>
       <MissionName>プレイヤーレベル30に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが50レベルに達したらクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーが50レベルになると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10204</MissionId>
       <MissionName>プレイヤーレベル50に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが70レベルに達したらクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーが70レベルになると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10205</MissionId>
       <MissionName>プレイヤーレベル70に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが100レベルに達したらクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーが100レベルになると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10206</MissionId>
       <MissionName>プレイヤーレベル100に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが150レベルに達したらクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーが150レベルになると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10207</MissionId>
       <MissionName>プレイヤーレベル150に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが200レベルに達したらクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーが200レベルになると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10208</MissionId>
       <MissionName>プレイヤーレベル200に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが250レベルに達したらクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーが250レベルになると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10209</MissionId>
       <MissionName>プレイヤーレベル250に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが300レベルに達したらクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーが300レベルになると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10210</MissionId>
       <MissionName>プレイヤーレベル300に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイに初参加でクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイに初参加で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10300</MissionId>
-      <MissionName>マルチプレイ参加数1回達成せよ</MissionName>
+      <MissionName>マルチプレイに1回参加せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が10回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイに10回参加したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10301</MissionId>
-      <MissionName>マルチプレイ参加数10回達成せよ</MissionName>
+      <MissionName>マルチプレイに10回参加せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が50回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイに50回参加したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10302</MissionId>
-      <MissionName>マルチプレイ参加数50回達成せよ</MissionName>
+      <MissionName>マルチプレイに50回参加せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が100回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイに100回参加したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10303</MissionId>
-      <MissionName>マルチプレイ参加数100回達成せよ</MissionName>
+      <MissionName>マルチプレイに100回参加せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が300回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイに300回参加したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10304</MissionId>
-      <MissionName>マルチプレイ参加数300回達成せよ</MissionName>
+      <MissionName>マルチプレイに300回参加せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が500回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイに500回参加したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10305</MissionId>
-      <MissionName>マルチプレイ参加数500回達成せよ</MissionName>
+      <MissionName>マルチプレイに500回参加せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が1000回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイに1000回参加したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10306</MissionId>
-      <MissionName>マルチプレイ参加数1000回達成せよ</MissionName>
+      <MissionName>マルチプレイに1000回参加せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が2000回目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイに2000回参加したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10307</MissionId>
-      <MissionName>マルチプレイ参加数2000回達成せよ</MissionName>
+      <MissionName>マルチプレイに2000回参加せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が1勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで1勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10400</MissionId>
-      <MissionName>マルチプレイ勝利数1回達成せよ</MissionName>
+      <MissionName>マルチプレイで1回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が5勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで5勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10401</MissionId>
-      <MissionName>マルチプレイ勝利数5回達成せよ</MissionName>
+      <MissionName>マルチプレイで5回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が10勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで10勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10402</MissionId>
-      <MissionName>マルチプレイ勝利数10回達成せよ</MissionName>
+      <MissionName>マルチプレイで10回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が30勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで30勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10403</MissionId>
-      <MissionName>マルチプレイ勝利数30回達成せよ</MissionName>
+      <MissionName>マルチプレイで30回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで50勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10404</MissionId>
-      <MissionName>マルチプレイ勝利数50回達成せよ</MissionName>
+      <MissionName>マルチプレイで50回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が100勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで100勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10405</MissionId>
-      <MissionName>マルチプレイ勝利数100回達成せよ</MissionName>
+      <MissionName>マルチプレイで100回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が200勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで200勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10406</MissionId>
-      <MissionName>マルチプレイ勝利数200回達成せよ</MissionName>
+      <MissionName>マルチプレイで200回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が300勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで300勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10407</MissionId>
-      <MissionName>マルチプレイ勝利数300回達成せよ</MissionName>
+      <MissionName>マルチプレイで300回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が500勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで500勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10408</MissionId>
-      <MissionName>マルチプレイ勝利数500回達成せよ</MissionName>
+      <MissionName>マルチプレイで500回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が1000勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで1000勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10409</MissionId>
-      <MissionName>マルチプレイ勝利数1000回達成せよ</MissionName>
+      <MissionName>マルチプレイで1000回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が3連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで3連勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10500</MissionId>
-      <MissionName>マルチプレイ連勝数3連勝達成せよ</MissionName>
+      <MissionName>マルチプレイで3連勝せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が5連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで5連勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10501</MissionId>
-      <MissionName>マルチプレイ連勝数5連勝達成せよ</MissionName>
+      <MissionName>マルチプレイで5連勝せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が7連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで7連勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10502</MissionId>
-      <MissionName>マルチプレイ連勝数7連勝達成せよ</MissionName>
+      <MissionName>マルチプレイで7連勝せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が10連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで10連勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10503</MissionId>
-      <MissionName>マルチプレイ連勝数10連勝達成せよ</MissionName>
+      <MissionName>マルチプレイで10連勝せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が15連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで15連勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10504</MissionId>
-      <MissionName>マルチプレイ連勝数15連勝達成せよ</MissionName>
+      <MissionName>マルチプレイで15連勝せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が20連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで20連勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10505</MissionId>
-      <MissionName>マルチプレイ連勝数20連勝達成せよ</MissionName>
+      <MissionName>マルチプレイで20連勝せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が30連勝に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで30連勝したら\n\nクリスタルを1つプレゼント！</Description>
       <MissionId>10506</MissionId>
-      <MissionName>マルチプレイ連勝数30連勝達成せよ</MissionName>
+      <MissionName>マルチプレイで30連勝せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が10体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に10体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10600</MissionId>
-      <MissionName>図鑑モンスター数10体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に10体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が30体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に30体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10601</MissionId>
-      <MissionName>図鑑モンスター数30体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に30体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が50体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に50体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10602</MissionId>
-      <MissionName>図鑑モンスター数50体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に50体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が100体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に100体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10603</MissionId>
-      <MissionName>図鑑モンスター数100体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に100体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が150体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に150体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10604</MissionId>
-      <MissionName>図鑑モンスター数150体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に150体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が200体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に200体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10605</MissionId>
-      <MissionName>図鑑モンスター数200体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に200体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が250体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に250体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10606</MissionId>
-      <MissionName>図鑑モンスター数250体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に250体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が300体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に300体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10607</MissionId>
-      <MissionName>図鑑モンスター数300体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に300体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が350体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に350体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10608</MissionId>
-      <MissionName>図鑑モンスター数350体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に350体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が400体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に400体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10609</MissionId>
-      <MissionName>図鑑モンスター数400体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に400体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が450体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に450体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10610</MissionId>
-      <MissionName>図鑑モンスター数450体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に450体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が500体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に500体登録で\nクリスタルを1つプレゼント！</Description>
       <MissionId>10611</MissionId>
-      <MissionName>図鑑モンスター数500体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に500体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが5体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを5体アイテム進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10700</MissionId>
-      <MissionName>アイテム進化合成回数5体達成せよ</MissionName>
+      <MissionName>アイテム進化合成5体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが10体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを10体アイテム進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10701</MissionId>
-      <MissionName>アイテム進化合成回数10体達成せよ</MissionName>
+      <MissionName>アイテム進化合成10体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが20体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを20体アイテム進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10702</MissionId>
-      <MissionName>アイテム進化合成回数20体達成せよ</MissionName>
+      <MissionName>アイテム進化合成20体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが30体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを30体アイテム進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10703</MissionId>
-      <MissionName>アイテム進化合成回数30体達成せよ</MissionName>
+      <MissionName>アイテム進化合成30体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが50体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを50体アイテム進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10704</MissionId>
-      <MissionName>アイテム進化合成回数50体達成せよ</MissionName>
+      <MissionName>アイテム進化合成50体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが70体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを70体アイテム進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10705</MissionId>
-      <MissionName>アイテム進化合成回数70体達成せよ</MissionName>
+      <MissionName>アイテム進化合成70体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが100体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを100体アイテム進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10706</MissionId>
-      <MissionName>アイテム進化合成回数100体達成せよ</MissionName>
+      <MissionName>アイテム進化合成100体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが150体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを150体アイテム進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10707</MissionId>
-      <MissionName>アイテム進化合成回数150体達成せよ</MissionName>
+      <MissionName>アイテム進化合成150体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが200体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを200体アイテム進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10708</MissionId>
-      <MissionName>アイテム進化合成回数200体達成せよ</MissionName>
+      <MissionName>アイテム進化合成200体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが5体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを5体モンスター進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10800</MissionId>
-      <MissionName>モンスター進化合成回数5体達成せよ</MissionName>
+      <MissionName>モンスター進化合成5体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが10体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを10体モンスター進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10801</MissionId>
-      <MissionName>モンスター進化合成回数10体達成せよ</MissionName>
+      <MissionName>モンスター進化合成10体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが20体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを20体モンスター進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10802</MissionId>
-      <MissionName>モンスター進化合成回数20体達成せよ</MissionName>
+      <MissionName>モンスター進化合成20体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが30体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを30体モンスター進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10803</MissionId>
-      <MissionName>モンスター進化合成回数30体達成せよ</MissionName>
+      <MissionName>モンスター進化合成30体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが50体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを50体モンスター進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10804</MissionId>
-      <MissionName>モンスター進化合成回数50体達成せよ</MissionName>
+      <MissionName>モンスター進化合成50体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが70体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスターを70体モンスター進化させると\nクリスタルを1つプレゼント！</Description>
       <MissionId>10805</MissionId>
-      <MissionName>モンスター進化合成回数70体達成せよ</MissionName>
+      <MissionName>モンスター進化合成70体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが100体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター\nを100体モンスター\n進化させるとクリスタルを1つプレゼント！</Description>
       <MissionId>10806</MissionId>
-      <MissionName>モンスター進化合成回数100体達成せよ</MissionName>
+      <MissionName>モンスター進化合成100体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが150体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター\nを150体モンスター\n進化させるとクリスタルを1つプレゼント！</Description>
       <MissionId>10807</MissionId>
-      <MissionName>モンスター進化合成回数150体達成せよ</MissionName>
+      <MissionName>モンスター進化合成150体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが200体に到達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター\nを200体モンスター\n進化させるとクリスタルを1つプレゼント！</Description>
       <MissionId>10808</MissionId>
-      <MissionName>モンスター進化合成回数200体達成せよ</MissionName>
+      <MissionName>モンスター進化合成200体達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>初めてフレンドができたらクリアすたるを1つプレゼント！</Description>
+      <Description>初めてフレンドができたら\nクリスタルを1つプレゼント！</Description>
       <MissionId>10900</MissionId>
-      <MissionName>フレンド人数1人に到達せよ</MissionName>
+      <MissionName>フレンド人数1人を到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>フレンドの人数が5人に達したらクリスタルを1つプレゼント！</Description>
+      <Description>フレンドが5人になったら\nクリスタルを1つプレゼント！</Description>
       <MissionId>10901</MissionId>
-      <MissionName>フレンド人数5人に到達せよ</MissionName>
+      <MissionName>フレンド人数5人を到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>フレンドの人数が10人に達したらクリスタルを1つプレゼント！</Description>
+      <Description>フレンドが10人になったら\nクリスタルを1つプレゼント！</Description>
       <MissionId>10902</MissionId>
-      <MissionName>フレンド人数10人に到達せよ</MissionName>
+      <MissionName>フレンド人数10人を到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>フレンドの人数が20人に達したらクリスタルを1つプレゼント！</Description>
+      <Description>フレンドが20人になったら\nクリスタルを1つプレゼント！</Description>
       <MissionId>10903</MissionId>
-      <MissionName>フレンド人数20人に到達せよ</MissionName>
+      <MissionName>フレンド人数20人を到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>フレンドの人数が50人に達したらクリスタルを1つプレゼント！</Description>
+      <Description>フレンドが50人になったら\nクリスタルを1つプレゼント！</Description>
       <MissionId>10904</MissionId>
-      <MissionName>フレンド人数50人に到達せよ</MissionName>
+      <MissionName>フレンド人数50人を到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>フレンドの人数が100人に達したらクリスタルを1つプレゼント！</Description>
+      <Description>フレンドが100人になったら\nクリスタルを1つプレゼント！</Description>
       <MissionId>10905</MissionId>
-      <MissionName>フレンド人数100人に到達せよ</MissionName>
+      <MissionName>フレンド人数100人を到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを1個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー1個獲得で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11000</MissionId>
-      <MissionName>ゴールドトロフィー獲得数1個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを1個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを3個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー3個獲得で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11001</MissionId>
-      <MissionName>ゴールドトロフィー獲得数3個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを3個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを5個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー5個獲得で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11002</MissionId>
-      <MissionName>ゴールドトロフィー獲得数5個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを5個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを10個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー10個獲得で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11003</MissionId>
-      <MissionName>ゴールドトロフィー獲得数10個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを10個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを20個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー20個獲得で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11004</MissionId>
-      <MissionName>ゴールドトロフィー獲得数20個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを20個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを30個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー30個獲得で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11005</MissionId>
-      <MissionName>ゴールドトロフィー獲得数30個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを30個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを50個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー50個獲得で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11006</MissionId>
-      <MissionName>ゴールドトロフィー獲得数50個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを50個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを70個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー70個獲得で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11007</MissionId>
-      <MissionName>ゴールドトロフィー獲得数70個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを70個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを100個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー100個獲得で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11008</MissionId>
-      <MissionName>ゴールドトロフィー獲得数100個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを100個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>初めて友達を招待したらクリスタルを1つプレゼント！</Description>
+      <Description>初めて友達を招待したら\nクリスタルを1つプレゼント！</Description>
       <MissionId>11100</MissionId>
-      <MissionName>友達招待人数1人に到達せよ</MissionName>
+      <MissionName>友達招待1人を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>友達招待数が5人に達したらクリスタルを1つプレゼント！</Description>
+      <Description>友達招待5人達成で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11101</MissionId>
-      <MissionName>友達招待人数5人に到達せよ</MissionName>
+      <MissionName>友達招待5人を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>友達招待数が10人に達したらクリスタルを1つプレゼント！</Description>
+      <Description>友達招待10人達成で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11102</MissionId>
-      <MissionName>友達招待人数10人に到達せよ</MissionName>
+      <MissionName>友達招待10人を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>友達招待数が20人に達したらクリスタルを1つプレゼント！</Description>
+      <Description>友達招待20人達成で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11103</MissionId>
-      <MissionName>友達招待人数20人に到達せよ</MissionName>
+      <MissionName>友達招待20人を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>友達招待数が50人に達したらクリスタルを1つプレゼント！</Description>
+      <Description>友達招待50人達成で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11104</MissionId>
-      <MissionName>友達招待人数50人に到達せよ</MissionName>
+      <MissionName>友達招待50人を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>友達招待数が100人に達したらクリスタルを1つプレゼント！</Description>
+      <Description>友達招待100人達成で\nクリスタルを1つプレゼント！</Description>
       <MissionId>11105</MissionId>
-      <MissionName>友達招待人数100人に到達せよ</MissionName>
+      <MissionName>友達招待100人を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>チュートリアルクリアでクリスタルを5つプレゼント！</Description>
+      <Description>チュートリアルクリアで\nクリスタルを5つプレゼント！</Description>
       <MissionId>11400</MissionId>
       <MissionName>チュートリアルをクリアせよ</MissionName>
     </DocMissionText>
@@ -12084,63 +12072,63 @@
       <LanguageCode>JA</LanguageCode>
       <Description>控え時のモンスターのスタミナ回復力を少し向上させる</Description>
       <PassiveSkillId>10000</PassiveSkillId>
-      <PassiveSkillName>スタミナ回復力Lv.1</PassiveSkillName>
+      <PassiveSkillName>スタミナ回復力[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>控え時のモンスターのスタミナ回復力をある程度向上させる</Description>
       <PassiveSkillId>10001</PassiveSkillId>
-      <PassiveSkillName>スタミナ回復力Lv.2</PassiveSkillName>
+      <PassiveSkillName>スタミナ回復力[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>控え時のモンスターのスタミナ回復力をかなり向上させる</Description>
       <PassiveSkillId>10002</PassiveSkillId>
-      <PassiveSkillName>スタミナ回復力Lv.3</PassiveSkillName>
+      <PassiveSkillName>スタミナ回復力[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>レース中の加速度を少し向上させる</Description>
       <PassiveSkillId>10200</PassiveSkillId>
-      <PassiveSkillName>ダッシュLv.1</PassiveSkillName>
+      <PassiveSkillName>ダッシュ[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>レース中の加速度をある程度向上させる</Description>
       <PassiveSkillId>10201</PassiveSkillId>
-      <PassiveSkillName>ダッシュLv.2</PassiveSkillName>
+      <PassiveSkillName>ダッシュ[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>レース中の加速度をかなり向上させる</Description>
       <PassiveSkillId>10202</PassiveSkillId>
-      <PassiveSkillName>ダッシュLv.3</PassiveSkillName>
+      <PassiveSkillName>ダッシュ[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>下位にいる時ににスピードが少し上昇する</Description>
       <PassiveSkillId>10300</PassiveSkillId>
-      <PassiveSkillName>ガッツLv.1</PassiveSkillName>
+      <PassiveSkillName>ガッツ[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>下位にいる時にスピードがある程度上昇する</Description>
       <PassiveSkillId>10301</PassiveSkillId>
-      <PassiveSkillName>ガッツLv.2</PassiveSkillName>
+      <PassiveSkillName>ガッツ[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>下位にいる時にスピードがかなり上昇する</Description>
       <PassiveSkillId>10302</PassiveSkillId>
-      <PassiveSkillName>ガッツLv.3</PassiveSkillName>
+      <PassiveSkillName>ガッツ[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -12154,42 +12142,42 @@
       <LanguageCode>JA</LanguageCode>
       <Description>交代時、もの凄く早く止まって次の選手と交代できる</Description>
       <PassiveSkillId>10400</PassiveSkillId>
-      <PassiveSkillName>急ブレーキLv.1</PassiveSkillName>
+      <PassiveSkillName>急ブレーキ[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>交代時、もの凄く早く止まって次の選手と交代できる</Description>
       <PassiveSkillId>10401</PassiveSkillId>
-      <PassiveSkillName>急ブレーキLv.2</PassiveSkillName>
+      <PassiveSkillName>急ブレーキ[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>交代時、もの凄く早く止まって次の選手と交代できる</Description>
       <PassiveSkillId>10402</PassiveSkillId>
-      <PassiveSkillName>急ブレーキLv.3</PassiveSkillName>
+      <PassiveSkillName>急ブレーキ[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターのスキル回復力が少し向上する</Description>
       <PassiveSkillId>10500</PassiveSkillId>
-      <PassiveSkillName>スキル回復力Lv.1</PassiveSkillName>
+      <PassiveSkillName>スキル回復力[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターのスキル回復力がある程度向上する</Description>
       <PassiveSkillId>10501</PassiveSkillId>
-      <PassiveSkillName>スキル回復力Lv.2</PassiveSkillName>
+      <PassiveSkillName>スキル回復力[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターのスキル回復力がかなり向上する</Description>
       <PassiveSkillId>10502</PassiveSkillId>
-      <PassiveSkillName>スキル回復力Lv.3</PassiveSkillName>
+      <PassiveSkillName>スキル回復力[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -12364,231 +12352,231 @@
       <LanguageCode>JA</LanguageCode>
       <Description>スタミナ低下時の減速効果を少し抑える</Description>
       <PassiveSkillId>11710</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志Lv.1</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>スタミナ低下時の減速効果をある程度抑える</Description>
       <PassiveSkillId>11711</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志Lv.2</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>スタミナ低下時の減速効果をかなり抑える</Description>
       <PassiveSkillId>11712</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志Lv.3</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得経験値が少し増える</Description>
       <PassiveSkillId>11800</PassiveSkillId>
-      <PassiveSkillName>経験値UP Lv.1</PassiveSkillName>
+      <PassiveSkillName>経験値UP[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得経験値がある程度増える</Description>
       <PassiveSkillId>11801</PassiveSkillId>
-      <PassiveSkillName>経験値UP Lv.2</PassiveSkillName>
+      <PassiveSkillName>経験値UP[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得経験値がかなり増える</Description>
       <PassiveSkillId>11802</PassiveSkillId>
-      <PassiveSkillName>経験値UP Lv.3</PassiveSkillName>
+      <PassiveSkillName>経験値UP[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得ゴールドが少し増える</Description>
       <PassiveSkillId>11900</PassiveSkillId>
-      <PassiveSkillName>ゴールドUP Lv.1</PassiveSkillName>
+      <PassiveSkillName>ゴールドUP[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得ゴールドがある程度増える</Description>
       <PassiveSkillId>11901</PassiveSkillId>
-      <PassiveSkillName>ゴールドUP Lv.2</PassiveSkillName>
+      <PassiveSkillName>ゴールドUP[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得ゴールドがかなり増える</Description>
       <PassiveSkillId>11902</PassiveSkillId>
-      <PassiveSkillName>ゴールドUP Lv.3</PassiveSkillName>
+      <PassiveSkillName>ゴールドUP[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得名声ポイントが少し増える</Description>
       <PassiveSkillId>12000</PassiveSkillId>
-      <PassiveSkillName>名声値UP Lv.1</PassiveSkillName>
+      <PassiveSkillName>名声値UP[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得名声ポイントがある程度増える</Description>
       <PassiveSkillId>12001</PassiveSkillId>
-      <PassiveSkillName>名声値UP Lv.2</PassiveSkillName>
+      <PassiveSkillName>名声値UP[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得名声ポイントがかなり増える</Description>
       <PassiveSkillId>12002</PassiveSkillId>
-      <PassiveSkillName>名声値UP Lv.3</PassiveSkillName>
+      <PassiveSkillName>名声値UP[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チェックポイントでレアなアイテムが少し出やすくなる</Description>
       <PassiveSkillId>12100</PassiveSkillId>
-      <PassiveSkillName>ラックUP Lv.1</PassiveSkillName>
+      <PassiveSkillName>ラックUP[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チェックポイントでレアなアイテムがある程度出やすくなる</Description>
       <PassiveSkillId>12101</PassiveSkillId>
-      <PassiveSkillName>ラックUP Lv.2</PassiveSkillName>
+      <PassiveSkillName>ラックUP[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チェックポイントでレアなアイテムがかなり出やすくなる</Description>
       <PassiveSkillId>12102</PassiveSkillId>
-      <PassiveSkillName>ラックUP Lv.3</PassiveSkillName>
+      <PassiveSkillName>ラックUP[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>スタートダッシュ効果UP(成功タイミング拡大＆速度効果UP)</Description>
       <PassiveSkillId>12200</PassiveSkillId>
-      <PassiveSkillName>スタートダッシュ Lv.1</PassiveSkillName>
+      <PassiveSkillName>スタートダッシュ[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>スタートダッシュ効果UP(成功タイミング拡大＆速度効果UP)</Description>
       <PassiveSkillId>12201</PassiveSkillId>
-      <PassiveSkillName>スタートダッシュ Lv.2</PassiveSkillName>
+      <PassiveSkillName>スタートダッシュ[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>スタートダッシュ効果UP(成功タイミング拡大＆速度効果UP)</Description>
       <PassiveSkillId>12202</PassiveSkillId>
-      <PassiveSkillName>スタートダッシュ Lv.3</PassiveSkillName>
+      <PassiveSkillName>スタートダッシュ[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[交代不可]スキルを無効化する</Description>
+      <Description>相手の[00ffff]交代不可[-]スキルを無効化する</Description>
       <PassiveSkillId>20600</PassiveSkillId>
-      <PassiveSkillName>[交代不可]スキルガード</PassiveSkillName>
+      <PassiveSkillName>[00ffff]交代不可[-]スキルガード</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[スキル使用不可]スキルを無効化</Description>
+      <Description>相手の[00ffff]スキル使用不可[-]スキルを無効化</Description>
       <PassiveSkillId>20700</PassiveSkillId>
-      <PassiveSkillName>[スキル使用不可]スキルガード</PassiveSkillName>
+      <PassiveSkillName>[00ffff]スキル使用不可[-]スキルガード</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[スピードダウン]スキルの効果を半減</Description>
+      <Description>相手の[00ffff]スピードダウン[-]スキルの効果を半減</Description>
       <PassiveSkillId>20800</PassiveSkillId>
-      <PassiveSkillName>[スピードダウン]スキルガードLv.1</PassiveSkillName>
+      <PassiveSkillName>[00ffff]スピードダウン[-]スキルガード[半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[スピードダウン]スキルを無効化</Description>
+      <Description>相手の[00ffff]スピードダウン[-]スキルを無効化</Description>
       <PassiveSkillId>20801</PassiveSkillId>
-      <PassiveSkillName>[スピードダウン]スキルガードLv.2</PassiveSkillName>
+      <PassiveSkillName>[00ffff]スピードダウン[-]スキルガード[全]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[地形適正ダウン(反転含む)]スキルを無効化</Description>
+      <Description>相手の[00ffff]地形適正ダウン(反転含む)[-]スキルを無効化</Description>
       <PassiveSkillId>20900</PassiveSkillId>
-      <PassiveSkillName>[地形適正ダウン]スキルガード</PassiveSkillName>
+      <PassiveSkillName>[00ffff]地形適正ダウン[-]スキルガード</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[スタミナダウン]スキルの効果を半減</Description>
+      <Description>相手の[00ffff]スタミナダウン[-]スキルの効果を半減</Description>
       <PassiveSkillId>21000</PassiveSkillId>
-      <PassiveSkillName>[スタミナダウン]スキルガードLv.1</PassiveSkillName>
+      <PassiveSkillName>[00ffff]スタミナダウン[-]スキルガード[半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[スタミナダウン]スキルを無効化</Description>
+      <Description>相手の[00ffff]スタミナダウン[-]スキルを無効化</Description>
       <PassiveSkillId>21001</PassiveSkillId>
-      <PassiveSkillName>[スタミナダウン]スキルガードLv.2</PassiveSkillName>
+      <PassiveSkillName>[00ffff]スタミナダウン[-]スキルガード[全]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>パワーが必要な地形での減速を半減</Description>
       <PassiveSkillId>30100</PassiveSkillId>
-      <PassiveSkillName>パワーLv.1</PassiveSkillName>
+      <PassiveSkillName>パワー[半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>パワーが必要な地形で減速しなくなる</Description>
       <PassiveSkillId>30101</PassiveSkillId>
-      <PassiveSkillName>パワーLv.2</PassiveSkillName>
+      <PassiveSkillName>パワー[全]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スタミナダウン]地形走行時のスタミナ減少効果を半減</Description>
+      <Description>[00ffff]スタミナダウン[-]地形走行時のスタミナ減少効果を半減</Description>
       <PassiveSkillId>31100</PassiveSkillId>
-      <PassiveSkillName>アンチ[スタミナダウン]Lv.1</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スタミナダウン[-][半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スタミナダウン]地形走行時もスタミナが減少しなくなる</Description>
+      <Description>[00ffff]スタミナダウン[-]地形走行時もスタミナが減少しなくなる</Description>
       <PassiveSkillId>31101</PassiveSkillId>
-      <PassiveSkillName>アンチ[スタミナダウン]Lv.2</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スタミナダウン[-][全]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スリップ]地形走行時のスリップ効果を半減</Description>
+      <Description>[00ffff]スリップ[-]地形走行時のスリップ効果を半減</Description>
       <PassiveSkillId>31300</PassiveSkillId>
-      <PassiveSkillName>アンチ[スリップ]Lv.1</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スリップ[-][半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スリップ]地形走行時もスリップしなくなる</Description>
+      <Description>[00ffff]スリップ[-]地形走行時にスリップしなくなる</Description>
       <PassiveSkillId>31301</PassiveSkillId>
-      <PassiveSkillName>アンチ[スリップ]Lv.2</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スリップ[-][全]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スピードダウン]地形走行時のスピードダウン効果を半減</Description>
+      <Description>[00ffff]スピードダウン[-]地形走行時のスピードダウン効果を半減</Description>
       <PassiveSkillId>31400</PassiveSkillId>
-      <PassiveSkillName>アンチ[スピードダウン]Lv.1</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スピードダウン[-][半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スピードダウン]地形走行時もスピードダウンしなくなる</Description>
+      <Description>[00ffff]スピードダウン[-]地形走行時もスピードダウンしなくなる</Description>
       <PassiveSkillId>31401</PassiveSkillId>
-      <PassiveSkillName>アンチ[スピードダウン]Lv.2</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スピードダウン[-][全]</PassiveSkillName>
     </DocPassiveSkillText>
   </DocPassiveSkillTextList>
   <DocRaceTextList>
@@ -63413,16 +63401,9 @@
     <DocSerialCodeText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ダミーシリアルコード</Description>
+      <Description>事前登録報酬のラビィです。</Description>
       <SerialCodeId>0</SerialCodeId>
-      <SerialCodeName>ダミーシリアルコード</SerialCodeName>
-    </DocSerialCodeText>
-    <DocSerialCodeText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <SerialCodeId>1</SerialCodeId>
-      <SerialCodeName>事前登録テスト</SerialCodeName>
+      <SerialCodeName>事前登録報酬</SerialCodeName>
     </DocSerialCodeText>
   </DocSerialCodeTextList>
   <DocStageTextList>
