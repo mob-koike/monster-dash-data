@@ -11,7 +11,7 @@
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
@@ -20,12 +20,12 @@
       <Memo />
     </DocSchedule>
     <DocSchedule>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <ScheduleId>1</ScheduleId>
       <ScheduleLayerId>0</ScheduleLayerId>
-      <ScheduleName>ゲームバランス</ScheduleName>
+      <ScheduleName>強化大成功確率アップ</ScheduleName>
       <ScheduleKindCode>GAME_BALANCE</ScheduleKindCode>
-      <DataId>0</DataId>
+      <DataId>1</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-01-01T00:00:00</StartDateTime>
@@ -101,30 +101,12 @@
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>6</ScheduleId>
-      <ScheduleLayerId>300000</ScheduleLayerId>
-      <ScheduleName>リリース記念</ScheduleName>
-      <ScheduleKindCode>MAIL</ScheduleKindCode>
-      <DataId>0</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-03-31T23:59:59</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>-1</UserSegmentId>
-      <MailDeliveryTypeCode>DAILY</MailDeliveryTypeCode>
       <Memo />
     </DocSchedule>
     <DocSchedule>
@@ -137,7 +119,7 @@
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -157,7 +139,7 @@
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>MONDAY</DayOfWeekCode>
@@ -177,7 +159,7 @@
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>TUESDAY</DayOfWeekCode>
@@ -197,7 +179,7 @@
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
@@ -217,7 +199,7 @@
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>THURSDAY</DayOfWeekCode>
@@ -237,7 +219,7 @@
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>FRIDAY</DayOfWeekCode>
@@ -257,101 +239,11 @@
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SATURDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
-      <UserSegmentId>-1</UserSegmentId>
-      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>14</ScheduleId>
-      <ScheduleLayerId>100007</ScheduleLayerId>
-      <ScheduleName>チェックポイント</ScheduleName>
-      <ScheduleKindCode>STAGE</ScheduleKindCode>
-      <DataId>2905</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-04-30T23:59:59</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>-1</UserSegmentId>
-      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>15</ScheduleId>
-      <ScheduleLayerId>100008</ScheduleLayerId>
-      <ScheduleName>パワー地形</ScheduleName>
-      <ScheduleKindCode>STAGE</ScheduleKindCode>
-      <DataId>2901</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-04-30T23:59:59</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>-1</UserSegmentId>
-      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>16</ScheduleId>
-      <ScheduleLayerId>100009</ScheduleLayerId>
-      <ScheduleName>スリップ地形</ScheduleName>
-      <ScheduleKindCode>STAGE</ScheduleKindCode>
-      <DataId>2902</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-04-30T23:59:59</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>-1</UserSegmentId>
-      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>17</ScheduleId>
-      <ScheduleLayerId>100010</ScheduleLayerId>
-      <ScheduleName>スタミナダウン地形</ScheduleName>
-      <ScheduleKindCode>STAGE</ScheduleKindCode>
-      <DataId>2903</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-04-30T23:59:59</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>-1</UserSegmentId>
-      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>18</ScheduleId>
-      <ScheduleLayerId>100011</ScheduleLayerId>
-      <ScheduleName>スピードダウン地形</ScheduleName>
-      <ScheduleKindCode>STAGE</ScheduleKindCode>
-      <DataId>2904</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-04-30T23:59:59</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
       <ScheduleDateTimeList />
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
@@ -367,7 +259,7 @@
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T10:59:59</EndDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>THURSDAY</DayOfWeekCode>
@@ -386,8 +278,8 @@
       <DataId>2016</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-07T13:00:35.9453896+09:00</StartDateTime>
-        <EndDateTime>2020-04-07T13:00:35</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -406,8 +298,8 @@
       <DataId>2010</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-07T14:41:27.618499+09:00</StartDateTime>
-        <EndDateTime>2020-04-07T14:41:27</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>MONDAY</DayOfWeekCode>
@@ -426,8 +318,8 @@
       <DataId>2011</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-07T14:42:17.3703447+09:00</StartDateTime>
-        <EndDateTime>2020-04-07T14:42:17</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>TUESDAY</DayOfWeekCode>
@@ -446,8 +338,8 @@
       <DataId>2012</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-07T14:43:24.618191+09:00</StartDateTime>
-        <EndDateTime>2020-04-07T14:43:24</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
@@ -466,8 +358,8 @@
       <DataId>2013</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-07T14:43:57.3130611+09:00</StartDateTime>
-        <EndDateTime>2020-04-07T14:43:57</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>THURSDAY</DayOfWeekCode>
@@ -486,8 +378,8 @@
       <DataId>2014</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-07T14:44:24.9456416+09:00</StartDateTime>
-        <EndDateTime>2020-04-07T14:44:24</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>FRIDAY</DayOfWeekCode>
@@ -506,8 +398,8 @@
       <DataId>2015</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-07T14:45:00.1686562+09:00</StartDateTime>
-        <EndDateTime>2020-04-07T14:45:00</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SATURDAY</DayOfWeekCode>
@@ -526,8 +418,8 @@
       <DataId>2007</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-07T14:47:04.7367811+09:00</StartDateTime>
-        <EndDateTime>2015-04-30T14:47:04</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -552,8 +444,8 @@
       <DataId>2030</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-07T14:48:16.9619122+09:00</StartDateTime>
-        <EndDateTime>2015-04-30T14:48:16</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -578,8 +470,8 @@
       <DataId>5000</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T12:36:04.4263008+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T12:36:04</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:50</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -604,8 +496,8 @@
       <DataId>3006</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:24:42.6749397+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:24:42</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -624,8 +516,8 @@
       <DataId>3000</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:31:44.8160848+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:31:44</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>MONDAY</DayOfWeekCode>
@@ -644,8 +536,8 @@
       <DataId>3001</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:32:41.519328+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:32:41</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>TUESDAY</DayOfWeekCode>
@@ -664,8 +556,8 @@
       <DataId>3002</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:33:12.1750814+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:33:12</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
@@ -684,8 +576,8 @@
       <DataId>3003</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:34:06.5511916+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:34:06</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>THURSDAY</DayOfWeekCode>
@@ -704,8 +596,8 @@
       <DataId>3004</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:34:33.8787546+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:34:33</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>FRIDAY</DayOfWeekCode>
@@ -724,8 +616,8 @@
       <DataId>3005</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:36:52.2056665+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:36:52</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SATURDAY</DayOfWeekCode>
@@ -744,8 +636,8 @@
       <DataId>3007</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:37:49.8859656+09:00</StartDateTime>
-        <EndDateTime>2015-05-01T16:37:49</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -770,8 +662,8 @@
       <DataId>3014</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:44:24.1655171+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:44:24</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -790,8 +682,8 @@
       <DataId>3008</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:45:08.6580619+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:45:08</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>MONDAY</DayOfWeekCode>
@@ -810,8 +702,8 @@
       <DataId>3009</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:45:37.3217014+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:45:37</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>TUESDAY</DayOfWeekCode>
@@ -830,8 +722,8 @@
       <DataId>3010</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:46:10.1375784+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:46:10</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
@@ -850,8 +742,8 @@
       <DataId>3011</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:46:38.6102069+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:46:38</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>THURSDAY</DayOfWeekCode>
@@ -870,8 +762,8 @@
       <DataId>3012</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:47:00.9694858+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:47:00</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>FRIDAY</DayOfWeekCode>
@@ -890,8 +782,8 @@
       <DataId>3013</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:47:20.6656123+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:47:20</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SATURDAY</DayOfWeekCode>
@@ -910,8 +802,8 @@
       <DataId>3015</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:47:45.7850491+09:00</StartDateTime>
-        <EndDateTime>2015-05-01T16:47:45</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -936,8 +828,8 @@
       <DataId>3500</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:48:25.033294+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:48:25</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -962,8 +854,8 @@
       <DataId>3501</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:48:52.168846+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:48:52</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -988,8 +880,8 @@
       <DataId>3502</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-04-30T16:49:11.6249588+09:00</StartDateTime>
-        <EndDateTime>2020-04-30T16:49:11</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -1006,7 +898,7 @@
       <Memo />
     </DocSchedule>
     <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
+      <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>49</ScheduleId>
       <ScheduleLayerId>105</ScheduleLayerId>
       <ScheduleName>通常版友達招待</ScheduleName>
@@ -1014,8 +906,8 @@
       <DataId>0</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-01-01T19:40:50</StartDateTime>
-        <EndDateTime>2015-12-31T19:40:50</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
@@ -1024,47 +916,16 @@
       <Memo />
     </DocSchedule>
     <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>50</ScheduleId>
-      <ScheduleLayerId>101</ScheduleLayerId>
-      <ScheduleName>降臨：真田幸村</ScheduleName>
-      <ScheduleKindCode>BANNER</ScheduleKindCode>
-      <DataId>1</DataId>
-      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-01-01T19:42:09</StartDateTime>
-        <EndDateTime>2015-12-31T19:42:09</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList>
-        <DayOfWeekCode>SUNDAY</DayOfWeekCode>
-        <DayOfWeekCode>MONDAY</DayOfWeekCode>
-        <DayOfWeekCode>TUESDAY</DayOfWeekCode>
-        <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
-        <DayOfWeekCode>THURSDAY</DayOfWeekCode>
-        <DayOfWeekCode>FRIDAY</DayOfWeekCode>
-        <DayOfWeekCode>SATURDAY</DayOfWeekCode>
-      </DayOfWeekCodeList>
-      <ScheduleDateTimeList>
-        <ScheduleDateTime>
-          <StartDateTime>2015-05-11T11:46:03</StartDateTime>
-          <EndDateTime>2015-05-11T11:50:03</EndDateTime>
-        </ScheduleDateTime>
-      </ScheduleDateTimeList>
-      <UserSegmentId>-1</UserSegmentId>
-      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>51</ScheduleId>
       <ScheduleLayerId>200</ScheduleLayerId>
-      <ScheduleName>β２リリース（5/14）</ScheduleName>
+      <ScheduleName>社内マルチプレイテスト（6/4）</ScheduleName>
       <ScheduleKindCode>MARQUEE</ScheduleKindCode>
       <DataId>0</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-01-01T19:47:09</StartDateTime>
-        <EndDateTime>2015-12-31T19:47:09</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
@@ -1081,171 +942,13 @@
       <DataId>0</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-01-01T19:48:13</StartDateTime>
-        <EndDateTime>2015-12-31T19:48:13</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>53</ScheduleId>
-      <ScheduleLayerId>300001</ScheduleLayerId>
-      <ScheduleName>β２リリース記念</ScheduleName>
-      <ScheduleKindCode>MAIL</ScheduleKindCode>
-      <DataId>4</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2014-05-10T10:52:00</StartDateTime>
-        <EndDateTime>2015-05-25T10:48:19</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>0</UserSegmentId>
-      <MailDeliveryTypeCode>ONCE</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <ScheduleId>54</ScheduleId>
-      <ScheduleLayerId>300000</ScheduleLayerId>
-      <ScheduleName>β２リリース記念2</ScheduleName>
-      <ScheduleKindCode>MAIL</ScheduleKindCode>
-      <DataId>4</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-05-11T11:00:00</StartDateTime>
-        <EndDateTime>2015-05-22T10:00:00</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>0</UserSegmentId>
-      <MailDeliveryTypeCode>DAILY</MailDeliveryTypeCode>
-      <Memo>1日1回配信バージョン</Memo>
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>55</ScheduleId>
-      <ScheduleLayerId>300002</ScheduleLayerId>
-      <ScheduleName>複数個配布テスト</ScheduleName>
-      <ScheduleKindCode>MAIL</ScheduleKindCode>
-      <DataId>5</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-05-11T11:08:55.6410889+09:00</StartDateTime>
-        <EndDateTime>2015-05-12T11:08:55</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>0</UserSegmentId>
-      <MailDeliveryTypeCode>ONCE</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>56</ScheduleId>
-      <ScheduleLayerId>300003</ScheduleLayerId>
-      <ScheduleName>進化素材配布チェック</ScheduleName>
-      <ScheduleKindCode>MAIL</ScheduleKindCode>
-      <DataId>6</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-05-11T11:13:15.6756797+09:00</StartDateTime>
-        <EndDateTime>2015-05-12T11:13:15</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>0</UserSegmentId>
-      <MailDeliveryTypeCode>ONCE</MailDeliveryTypeCode>
-      <Memo>光特×1
-虹×3</Memo>
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>57</ScheduleId>
-      <ScheduleLayerId>100</ScheduleLayerId>
-      <ScheduleName>降臨：真田幸村</ScheduleName>
-      <ScheduleKindCode>BANNER</ScheduleKindCode>
-      <DataId>2</DataId>
-      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-05-11T11:29:55.0582817+09:00</StartDateTime>
-        <EndDateTime>2015-05-25T11:29:55</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList>
-        <DayOfWeekCode>SUNDAY</DayOfWeekCode>
-        <DayOfWeekCode>MONDAY</DayOfWeekCode>
-        <DayOfWeekCode>TUESDAY</DayOfWeekCode>
-        <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
-        <DayOfWeekCode>THURSDAY</DayOfWeekCode>
-        <DayOfWeekCode>FRIDAY</DayOfWeekCode>
-        <DayOfWeekCode>SATURDAY</DayOfWeekCode>
-      </DayOfWeekCodeList>
-      <ScheduleDateTimeList>
-        <ScheduleDateTime>
-          <StartDateTime>2015-05-11T11:35:00</StartDateTime>
-          <EndDateTime>2015-05-11T11:40:00</EndDateTime>
-        </ScheduleDateTime>
-      </ScheduleDateTimeList>
-      <UserSegmentId>-1</UserSegmentId>
-      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>58</ScheduleId>
-      <ScheduleLayerId>300002</ScheduleLayerId>
-      <ScheduleName>複数個テスト2</ScheduleName>
-      <ScheduleKindCode>MAIL</ScheduleKindCode>
-      <DataId>5</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-05-13T10:29:04.4730192+09:00</StartDateTime>
-        <EndDateTime>2015-05-14T10:29:04</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>0</UserSegmentId>
-      <MailDeliveryTypeCode>ONCE</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>59</ScheduleId>
-      <ScheduleLayerId>300003</ScheduleLayerId>
-      <ScheduleName>複数個テスト3</ScheduleName>
-      <ScheduleKindCode>MAIL</ScheduleKindCode>
-      <DataId>5</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-05-13T10:33:52.0003372+09:00</StartDateTime>
-        <EndDateTime>2015-05-13T11:33:52</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>0</UserSegmentId>
-      <MailDeliveryTypeCode>ONCE</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <ScheduleId>60</ScheduleId>
-      <ScheduleLayerId>300004</ScheduleLayerId>
-      <ScheduleName>無効設定テスト</ScheduleName>
-      <ScheduleKindCode>MAIL</ScheduleKindCode>
-      <DataId>5</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-05-13T10:36:21.9462259+09:00</StartDateTime>
-        <EndDateTime>2015-05-14T10:36:21</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>0</UserSegmentId>
-      <MailDeliveryTypeCode>ONCE</MailDeliveryTypeCode>
       <Memo />
     </DocSchedule>
     <DocSchedule>
@@ -1257,8 +960,8 @@
       <DataId>1</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-01-01T12:06:07</StartDateTime>
-        <EndDateTime>2015-12-31T12:21:07</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
@@ -1277,8 +980,8 @@
       <DataId>2</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-01-01T12:22:05</StartDateTime>
-        <EndDateTime>2015-12-31T13:15:05</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>TUESDAY</DayOfWeekCode>
@@ -1297,8 +1000,8 @@
       <DataId>3</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-01-01T14:43:30</StartDateTime>
-        <EndDateTime>2015-12-31T14:45:30</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SATURDAY</DayOfWeekCode>
@@ -1317,11 +1020,51 @@
       <DataId>4</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-01-01T10:36:01</StartDateTime>
-        <EndDateTime>2015-12-31T10:36:01</EndDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>FRIDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>6</ScheduleId>
+      <ScheduleLayerId>500004</ScheduleLayerId>
+      <ScheduleName>行動力半分（光）</ScheduleName>
+      <ScheduleKindCode>CAMPAIGN</ScheduleKindCode>
+      <DataId>5</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>SUNDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>14</ScheduleId>
+      <ScheduleLayerId>500005</ScheduleLayerId>
+      <ScheduleName>行動力半分（闇）</ScheduleName>
+      <ScheduleKindCode>CAMPAIGN</ScheduleKindCode>
+      <DataId>6</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>MONDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
       <ScheduleDateTimeList />
       <UserSegmentId>-1</UserSegmentId>
@@ -2024,6 +1767,26 @@
       <DataStatusCode>DISABLE</DataStatusCode>
       <ScheduleLayerId>500003</ScheduleLayerId>
       <ScheduleLayerName>キャンペーン 500003</ScheduleLayerName>
+      <ScheduleKindCode>CAMPAIGN</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>500004</ScheduleLayerId>
+      <ScheduleLayerName>キャンペーン 500004</ScheduleLayerName>
+      <ScheduleKindCode>CAMPAIGN</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>500005</ScheduleLayerId>
+      <ScheduleLayerName>キャンペーン 500005</ScheduleLayerName>
       <ScheduleKindCode>CAMPAIGN</ScheduleKindCode>
       <GachaTypeCode>INVALID</GachaTypeCode>
       <DisplayLocationCode>INVALID</DisplayLocationCode>
