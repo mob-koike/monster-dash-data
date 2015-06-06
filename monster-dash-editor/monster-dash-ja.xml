@@ -8909,350 +8909,350 @@
       <LanguageCode>JA</LanguageCode>
       <Description>ダミー行動力拡張レベル１</Description>
       <MedalShopItemId>0</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.1</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>ダミー行動力拡張レベル２</Description>
       <MedalShopItemId>1</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.2</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル３</Description>
       <MedalShopItemId>2</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.3</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル４</Description>
       <MedalShopItemId>3</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.4</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル５</Description>
       <MedalShopItemId>4</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.5</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル６</Description>
       <MedalShopItemId>5</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.6</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル７</Description>
       <MedalShopItemId>6</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.7</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル８</Description>
       <MedalShopItemId>7</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.8</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル９</Description>
       <MedalShopItemId>8</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.9</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル１０</Description>
       <MedalShopItemId>9</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.10</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.1</Description>
       <MedalShopItemId>10</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.1</MedalShopItemName>
+      <MedalShopItemName>チーム編成数拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.2</Description>
       <MedalShopItemId>11</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.2</MedalShopItemName>
+      <MedalShopItemName>チーム編成数拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.3</Description>
       <MedalShopItemId>12</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.3</MedalShopItemName>
+      <MedalShopItemName>チーム編成数拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.4</Description>
       <MedalShopItemId>13</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.4</MedalShopItemName>
+      <MedalShopItemName>チーム編成数拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.5</Description>
       <MedalShopItemId>14</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.5</MedalShopItemName>
+      <MedalShopItemName>チーム編成数拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.6</Description>
       <MedalShopItemId>15</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.6</MedalShopItemName>
+      <MedalShopItemName>（未使用）</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.7</Description>
       <MedalShopItemId>16</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.7</MedalShopItemName>
+      <MedalShopItemName>（未使用）</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.8</Description>
       <MedalShopItemId>17</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.8</MedalShopItemName>
+      <MedalShopItemName>（未使用）</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.9</Description>
       <MedalShopItemId>18</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.9</MedalShopItemName>
+      <MedalShopItemName>（未使用）</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.10</Description>
       <MedalShopItemId>19</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.10</MedalShopItemName>
+      <MedalShopItemName>（未使用）</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.1</Description>
       <MedalShopItemId>20</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.1</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.2</Description>
       <MedalShopItemId>21</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.2</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.3</Description>
       <MedalShopItemId>22</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.3</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.4</Description>
       <MedalShopItemId>23</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.4</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.5</Description>
       <MedalShopItemId>24</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.5</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.6</Description>
       <MedalShopItemId>25</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.6</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.7</Description>
       <MedalShopItemId>26</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.7</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.8</Description>
       <MedalShopItemId>27</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.8</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.9</Description>
       <MedalShopItemId>28</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.9</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.10</Description>
       <MedalShopItemId>29</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.10</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.1</Description>
       <MedalShopItemId>30</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.1</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.2</Description>
       <MedalShopItemId>31</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.2</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.3</Description>
       <MedalShopItemId>32</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.3</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.4</Description>
       <MedalShopItemId>33</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.4</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.5</Description>
       <MedalShopItemId>34</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.5</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.6</Description>
       <MedalShopItemId>35</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.6</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.7</Description>
       <MedalShopItemId>36</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.7</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.8</Description>
       <MedalShopItemId>37</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.8</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.9</Description>
       <MedalShopItemId>38</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.9</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.10</Description>
       <MedalShopItemId>39</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.10</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.1</Description>
       <MedalShopItemId>40</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.1</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5 </MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.2</Description>
       <MedalShopItemId>41</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.2</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.3</Description>
       <MedalShopItemId>42</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.3</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.4</Description>
       <MedalShopItemId>43</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.4</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.5</Description>
       <MedalShopItemId>44</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.5</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.6</Description>
       <MedalShopItemId>45</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.6</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.7</Description>
       <MedalShopItemId>46</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.7</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.8</Description>
       <MedalShopItemId>47</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.8</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.9</Description>
       <MedalShopItemId>48</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.9</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.10</Description>
       <MedalShopItemId>49</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.10</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
   </DocMedalShopItemTextList>
   <DocMissionTextList>
