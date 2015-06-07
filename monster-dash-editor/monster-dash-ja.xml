@@ -20487,7 +20487,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>0</RewardId>
-      <RewardName>クリスタル×1</RewardName>
+      <RewardName>クリスタル</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21334,14 +21334,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50036</RewardId>
-      <RewardName>アリエ</RewardName>
+      <RewardName>カヴァロ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50037</RewardId>
-      <RewardName>アリエース</RewardName>
+      <RewardName>カヴァロス</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21376,14 +21376,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50042</RewardId>
-      <RewardName>エラフ</RewardName>
+      <RewardName>スノダル</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50043</RewardId>
-      <RewardName>ナイトエラフ</RewardName>
+      <RewardName>スノダルマン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21404,14 +21404,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50046</RewardId>
-      <RewardName>カヴァロ</RewardName>
+      <RewardName>アリエ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50047</RewardId>
-      <RewardName>カヴァロス</RewardName>
+      <RewardName>アリエース</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21495,21 +21495,21 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50059</RewardId>
-      <RewardName>少女エルザ</RewardName>
+      <RewardName>少女エリー</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50060</RewardId>
-      <RewardName>エルザ姫</RewardName>
+      <RewardName>エリー姫</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50061</RewardId>
-      <RewardName>女王エルザ</RewardName>
+      <RewardName>女王エリー</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21537,21 +21537,21 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50065</RewardId>
-      <RewardName>ベビースー</RewardName>
+      <RewardName>ベビーミート</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50066</RewardId>
-      <RewardName>スース</RewardName>
+      <RewardName>ミートン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50067</RewardId>
-      <RewardName>ビッグスース</RewardName>
+      <RewardName>ビッグミートン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21803,14 +21803,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50103</RewardId>
-      <RewardName>Dr.マサルト</RewardName>
+      <RewardName>マッドライダー</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50104</RewardId>
-      <RewardName>Dr.マサルト改</RewardName>
+      <RewardName>スカルライダー</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -22069,14 +22069,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50141</RewardId>
-      <RewardName>鋼人38号</RewardName>
+      <RewardName>アイアンポーン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50142</RewardId>
-      <RewardName>鋼人38号改</RewardName>
+      <RewardName>アイアンナイト</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -22419,14 +22419,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50191</RewardId>
-      <RewardName>ロック</RewardName>
+      <RewardName>シーロック</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50192</RewardId>
-      <RewardName>キャプテンロック</RewardName>
+      <RewardName>キャプテンシーロック</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -22713,14 +22713,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50233</RewardId>
-      <RewardName>伊達正宗</RewardName>
+      <RewardName>伊達政宗</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50234</RewardId>
-      <RewardName>独眼竜 伊達正宗</RewardName>
+      <RewardName>独眼竜 伊達政宗</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -22797,196 +22797,196 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50245</RewardId>
-      <RewardName>レッドラパン ショート</RewardName>
+      <RewardName>レッドラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50246</RewardId>
-      <RewardName>レッドラパン トール</RewardName>
+      <RewardName>レッドラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50247</RewardId>
-      <RewardName>レッドラパン グランデ</RewardName>
+      <RewardName>レッドラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50248</RewardId>
-      <RewardName>レッドラパン ベンティ</RewardName>
+      <RewardName>レッドラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50249</RewardId>
-      <RewardName>ブルーラパン ショート</RewardName>
+      <RewardName>ブルーラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50250</RewardId>
-      <RewardName>ブルーラパン トール</RewardName>
+      <RewardName>ブルーラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50251</RewardId>
-      <RewardName>ブルーラパン グランデ</RewardName>
+      <RewardName>ブルーラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50252</RewardId>
-      <RewardName>ブルーラパン ベンティ</RewardName>
+      <RewardName>ブルーラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50253</RewardId>
-      <RewardName>グリーンラパン ショート</RewardName>
+      <RewardName>グリーンラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50254</RewardId>
-      <RewardName>グリーンラパン トール</RewardName>
+      <RewardName>グリーンラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50255</RewardId>
-      <RewardName>グリーンラパン グランデ</RewardName>
+      <RewardName>グリーンラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50256</RewardId>
-      <RewardName>グリーンラパン ベンティ</RewardName>
+      <RewardName>グリーンラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50257</RewardId>
-      <RewardName>ブラウンラパン ショート</RewardName>
+      <RewardName>ブラウンラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50258</RewardId>
-      <RewardName>ブラウンラパン トール</RewardName>
+      <RewardName>ブラウンラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50259</RewardId>
-      <RewardName>ブラウンラパン グランデ</RewardName>
+      <RewardName>ブラウンラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50260</RewardId>
-      <RewardName>ブラウンラパン ベンティ</RewardName>
+      <RewardName>ブラウンラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50261</RewardId>
-      <RewardName>スチールラパン ショート</RewardName>
+      <RewardName>スチールラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50262</RewardId>
-      <RewardName>スチールラパン トール</RewardName>
+      <RewardName>スチールラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50263</RewardId>
-      <RewardName>スチールラパン グランデ</RewardName>
+      <RewardName>スチールラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50264</RewardId>
-      <RewardName>スチールラパン ベンティ</RewardName>
+      <RewardName>スチールラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50265</RewardId>
-      <RewardName>ライトラパン ショート</RewardName>
+      <RewardName>ライトラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50266</RewardId>
-      <RewardName>ライトラパン トール</RewardName>
+      <RewardName>ライトラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50267</RewardId>
-      <RewardName>ライトラパン グランデ</RewardName>
+      <RewardName>ライトラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50268</RewardId>
-      <RewardName>ライトラパン ベンティ</RewardName>
+      <RewardName>ライトラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50269</RewardId>
-      <RewardName>ダークラパン ショート</RewardName>
+      <RewardName>ダークラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50270</RewardId>
-      <RewardName>ダークラパン トール</RewardName>
+      <RewardName>ダークラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50271</RewardId>
-      <RewardName>ダークラパン グランデ</RewardName>
+      <RewardName>ダークラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50272</RewardId>
-      <RewardName>ダークラパン ベンティ</RewardName>
+      <RewardName>ダークラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -23077,602 +23077,602 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50285</RewardId>
-      <RewardName>スキプルベビー</RewardName>
+      <RewardName>ジタン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50286</RewardId>
-      <RewardName>スキプル</RewardName>
+      <RewardName>クロノジタン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50287</RewardId>
-      <RewardName>レッドラパン ショート ×2</RewardName>
+      <RewardId>55000</RewardId>
+      <RewardName>レッドラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50288</RewardId>
-      <RewardName>レッドラパン トール ×2</RewardName>
+      <RewardId>55001</RewardId>
+      <RewardName>レッドラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50289</RewardId>
-      <RewardName>レッドラパン グランデ ×2</RewardName>
+      <RewardId>55002</RewardId>
+      <RewardName>レッドラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50290</RewardId>
-      <RewardName>レッドラパン ベンティ ×2</RewardName>
+      <RewardId>55003</RewardId>
+      <RewardName>レッドラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50291</RewardId>
-      <RewardName>ブルーラパン ショート ×2</RewardName>
+      <RewardId>55004</RewardId>
+      <RewardName>ブルーラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50292</RewardId>
-      <RewardName>ブルーラパン トール ×2</RewardName>
+      <RewardId>55005</RewardId>
+      <RewardName>ブルーラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50293</RewardId>
-      <RewardName>ブルーラパン グランデ ×2</RewardName>
+      <RewardId>55006</RewardId>
+      <RewardName>ブルーラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50294</RewardId>
-      <RewardName>ブルーラパン ベンティ ×2</RewardName>
+      <RewardId>55007</RewardId>
+      <RewardName>ブルーラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50295</RewardId>
-      <RewardName>グリーンラパン ショート ×2</RewardName>
+      <RewardId>55008</RewardId>
+      <RewardName>グリーンラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50296</RewardId>
-      <RewardName>グリーンラパン トール ×2</RewardName>
+      <RewardId>55009</RewardId>
+      <RewardName>グリーンラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50297</RewardId>
-      <RewardName>グリーンラパン グランデ ×2</RewardName>
+      <RewardId>55010</RewardId>
+      <RewardName>グリーンラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50298</RewardId>
-      <RewardName>グリーンラパン ベンティ ×2</RewardName>
+      <RewardId>55011</RewardId>
+      <RewardName>グリーンラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50299</RewardId>
-      <RewardName>ブラウンラパン ショート ×2</RewardName>
+      <RewardId>55012</RewardId>
+      <RewardName>ブラウンラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50300</RewardId>
-      <RewardName>ブラウンラパン トール ×2</RewardName>
+      <RewardId>55013</RewardId>
+      <RewardName>ブラウンラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50301</RewardId>
-      <RewardName>ブラウンラパン グランデ ×2</RewardName>
+      <RewardId>55014</RewardId>
+      <RewardName>ブラウンラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50302</RewardId>
-      <RewardName>ブラウンラパン ベンティ ×2</RewardName>
+      <RewardId>55015</RewardId>
+      <RewardName>ブラウンラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50303</RewardId>
-      <RewardName>スチールラパン ショート ×2</RewardName>
+      <RewardId>55016</RewardId>
+      <RewardName>スチールラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50304</RewardId>
-      <RewardName>スチールラパン トール ×2</RewardName>
+      <RewardId>55017</RewardId>
+      <RewardName>スチールラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50305</RewardId>
-      <RewardName>スチールラパン グランデ ×2</RewardName>
+      <RewardId>55018</RewardId>
+      <RewardName>スチールラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50306</RewardId>
-      <RewardName>スチールラパン ベンティ ×2</RewardName>
+      <RewardId>55019</RewardId>
+      <RewardName>スチールラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50307</RewardId>
-      <RewardName>ライトラパン ショート ×2</RewardName>
+      <RewardId>55020</RewardId>
+      <RewardName>ライトラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50308</RewardId>
-      <RewardName>ライトラパン トール ×2</RewardName>
+      <RewardId>55021</RewardId>
+      <RewardName>ライトラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50309</RewardId>
-      <RewardName>ライトラパン グランデ ×2</RewardName>
+      <RewardId>55022</RewardId>
+      <RewardName>ライトラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50310</RewardId>
-      <RewardName>ライトラパン ベンティ ×2</RewardName>
+      <RewardId>55023</RewardId>
+      <RewardName>ライトラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50311</RewardId>
-      <RewardName>ダークラパン ショート ×2</RewardName>
+      <RewardId>55024</RewardId>
+      <RewardName>ダークラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50312</RewardId>
-      <RewardName>ダークラパン トール ×2</RewardName>
+      <RewardId>55025</RewardId>
+      <RewardName>ダークラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50313</RewardId>
-      <RewardName>ダークラパン グランデ ×2</RewardName>
+      <RewardId>55026</RewardId>
+      <RewardName>ダークラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50314</RewardId>
-      <RewardName>ダークラパン ベンティ ×2</RewardName>
+      <RewardId>55027</RewardId>
+      <RewardName>ダークラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50315</RewardId>
-      <RewardName>ゴールドキャット ×2</RewardName>
+      <RewardId>55028</RewardId>
+      <RewardName>ゴールドキャット x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50316</RewardId>
-      <RewardName>ゴールドジャック ×2</RewardName>
+      <RewardId>55029</RewardId>
+      <RewardName>ゴールドジャック x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50317</RewardId>
-      <RewardName>ゴールドクイーン ×2</RewardName>
+      <RewardId>55030</RewardId>
+      <RewardName>ゴールドクイーン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50318</RewardId>
-      <RewardName>ゴールドキング ×2</RewardName>
+      <RewardId>55031</RewardId>
+      <RewardName>ゴールドキング x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50319</RewardId>
-      <RewardName>ハヤイサー ×2</RewardName>
+      <RewardId>55032</RewardId>
+      <RewardName>ハヤイサー x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50320</RewardId>
-      <RewardName>ハヤイサーX ×2</RewardName>
+      <RewardId>55033</RewardId>
+      <RewardName>ハヤイサーX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50321</RewardId>
-      <RewardName>ハヤイサーY ×2</RewardName>
+      <RewardId>55034</RewardId>
+      <RewardName>ハヤイサーY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50322</RewardId>
-      <RewardName>ハヤイサーZ ×2</RewardName>
+      <RewardId>55035</RewardId>
+      <RewardName>ハヤイサーZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50323</RewardId>
-      <RewardName>スタミーナ ×2</RewardName>
+      <RewardId>55036</RewardId>
+      <RewardName>スタミーナ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50324</RewardId>
-      <RewardName>スタミーナX ×2</RewardName>
+      <RewardId>55037</RewardId>
+      <RewardName>スタミーナX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50325</RewardId>
-      <RewardName>スタミーナY ×2</RewardName>
+      <RewardId>55038</RewardId>
+      <RewardName>スタミーナY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50326</RewardId>
-      <RewardName>スタミーナZ ×2</RewardName>
+      <RewardId>55039</RewardId>
+      <RewardName>スタミーナZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50327</RewardId>
-      <RewardName>スキプルベビー ×2</RewardName>
+      <RewardId>55040</RewardId>
+      <RewardName>ジタン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50328</RewardId>
-      <RewardName>スキプル ×2</RewardName>
+      <RewardId>55041</RewardId>
+      <RewardName>クロノジタン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50329</RewardId>
-      <RewardName>レッドラパン ショート ×3</RewardName>
+      <RewardId>56000</RewardId>
+      <RewardName>レッドラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50330</RewardId>
-      <RewardName>レッドラパン トール ×3</RewardName>
+      <RewardId>56001</RewardId>
+      <RewardName>レッドラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50331</RewardId>
-      <RewardName>レッドラパン グランデ ×3</RewardName>
+      <RewardId>56002</RewardId>
+      <RewardName>レッドラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50332</RewardId>
-      <RewardName>レッドラパン ベンティ ×3</RewardName>
+      <RewardId>56003</RewardId>
+      <RewardName>レッドラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50333</RewardId>
-      <RewardName>ブルーラパン ショート ×3</RewardName>
+      <RewardId>56004</RewardId>
+      <RewardName>ブルーラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50334</RewardId>
-      <RewardName>ブルーラパン トール ×3</RewardName>
+      <RewardId>56005</RewardId>
+      <RewardName>ブルーラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50335</RewardId>
-      <RewardName>ブルーラパン グランデ ×3</RewardName>
+      <RewardId>56006</RewardId>
+      <RewardName>ブルーラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50336</RewardId>
-      <RewardName>ブルーラパン ベンティ ×3</RewardName>
+      <RewardId>56007</RewardId>
+      <RewardName>ブルーラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50337</RewardId>
-      <RewardName>グリーンラパン ショート ×3</RewardName>
+      <RewardId>56008</RewardId>
+      <RewardName>グリーンラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50338</RewardId>
-      <RewardName>グリーンラパン トール ×3</RewardName>
+      <RewardId>56009</RewardId>
+      <RewardName>グリーンラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50339</RewardId>
-      <RewardName>グリーンラパン グランデ ×3</RewardName>
+      <RewardId>56010</RewardId>
+      <RewardName>グリーンラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50340</RewardId>
-      <RewardName>グリーンラパン ベンティ ×3</RewardName>
+      <RewardId>56011</RewardId>
+      <RewardName>グリーンラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50341</RewardId>
-      <RewardName>ブラウンラパン ショート ×3</RewardName>
+      <RewardId>56012</RewardId>
+      <RewardName>ブラウンラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50342</RewardId>
-      <RewardName>ブラウンラパン トール ×3</RewardName>
+      <RewardId>56013</RewardId>
+      <RewardName>ブラウンラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50343</RewardId>
-      <RewardName>ブラウンラパン グランデ ×3</RewardName>
+      <RewardId>56014</RewardId>
+      <RewardName>ブラウンラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50344</RewardId>
-      <RewardName>ブラウンラパン ベンティ ×3</RewardName>
+      <RewardId>56015</RewardId>
+      <RewardName>ブラウンラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50345</RewardId>
-      <RewardName>スチールラパン ショート ×3</RewardName>
+      <RewardId>56016</RewardId>
+      <RewardName>スチールラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50346</RewardId>
-      <RewardName>スチールラパン トール ×3</RewardName>
+      <RewardId>56017</RewardId>
+      <RewardName>スチールラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50347</RewardId>
-      <RewardName>スチールラパン グランデ ×3</RewardName>
+      <RewardId>56018</RewardId>
+      <RewardName>スチールラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50348</RewardId>
-      <RewardName>スチールラパン ベンティ ×3</RewardName>
+      <RewardId>56019</RewardId>
+      <RewardName>スチールラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50349</RewardId>
-      <RewardName>ライトラパン ショート ×3</RewardName>
+      <RewardId>56020</RewardId>
+      <RewardName>ライトラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50350</RewardId>
-      <RewardName>ライトラパン トール ×3</RewardName>
+      <RewardId>56021</RewardId>
+      <RewardName>ライトラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50351</RewardId>
-      <RewardName>ライトラパン グランデ ×3</RewardName>
+      <RewardId>56022</RewardId>
+      <RewardName>ライトラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50352</RewardId>
-      <RewardName>ライトラパン ベンティ ×3</RewardName>
+      <RewardId>56023</RewardId>
+      <RewardName>ライトラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50353</RewardId>
-      <RewardName>ダークラパン ショート ×3</RewardName>
+      <RewardId>56024</RewardId>
+      <RewardName>ダークラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50354</RewardId>
-      <RewardName>ダークラパン トール ×3</RewardName>
+      <RewardId>56025</RewardId>
+      <RewardName>ダークラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50355</RewardId>
-      <RewardName>ダークラパン グランデ ×3</RewardName>
+      <RewardId>56026</RewardId>
+      <RewardName>ダークラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50356</RewardId>
-      <RewardName>ダークラパン ベンティ ×3</RewardName>
+      <RewardId>56027</RewardId>
+      <RewardName>ダークラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50357</RewardId>
-      <RewardName>ゴールドキャット ×3</RewardName>
+      <RewardId>56028</RewardId>
+      <RewardName>ゴールドキャット x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50358</RewardId>
-      <RewardName>ゴールドジャック ×3</RewardName>
+      <RewardId>56029</RewardId>
+      <RewardName>ゴールドジャック x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50359</RewardId>
-      <RewardName>ゴールドクイーン ×3</RewardName>
+      <RewardId>56030</RewardId>
+      <RewardName>ゴールドクイーン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50360</RewardId>
-      <RewardName>ゴールドキング ×3</RewardName>
+      <RewardId>56031</RewardId>
+      <RewardName>ゴールドキング x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50361</RewardId>
-      <RewardName>ハヤイサー ×3</RewardName>
+      <RewardId>56032</RewardId>
+      <RewardName>ハヤイサー x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50362</RewardId>
-      <RewardName>ハヤイサーX ×3</RewardName>
+      <RewardId>56033</RewardId>
+      <RewardName>ハヤイサーX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50363</RewardId>
-      <RewardName>ハヤイサーY ×3</RewardName>
+      <RewardId>56034</RewardId>
+      <RewardName>ハヤイサーY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50364</RewardId>
-      <RewardName>ハヤイサーZ ×3</RewardName>
+      <RewardId>56035</RewardId>
+      <RewardName>ハヤイサーZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50365</RewardId>
-      <RewardName>スタミーナ ×3</RewardName>
+      <RewardId>56036</RewardId>
+      <RewardName>スタミーナ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50366</RewardId>
-      <RewardName>スタミーナX ×3</RewardName>
+      <RewardId>56037</RewardId>
+      <RewardName>スタミーナX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50367</RewardId>
-      <RewardName>スタミーナY ×3</RewardName>
+      <RewardId>56038</RewardId>
+      <RewardName>スタミーナY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50368</RewardId>
-      <RewardName>スタミーナZ ×3</RewardName>
+      <RewardId>56039</RewardId>
+      <RewardName>スタミーナZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50369</RewardId>
-      <RewardName>スキプルベビー ×3</RewardName>
+      <RewardId>56040</RewardId>
+      <RewardName>ジタン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50370</RewardId>
-      <RewardName>スキプル ×3</RewardName>
+      <RewardId>56041</RewardId>
+      <RewardName>クロノジタン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
