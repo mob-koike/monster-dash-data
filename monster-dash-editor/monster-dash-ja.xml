@@ -313,28 +313,28 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の火属性の地形適性を2段階上げる</Description>
+      <Description>10秒間、自身の火属性の地形適性を1段階上げる</Description>
       <ActionSkillId>1004000</ActionSkillId>
       <ActionSkillName>バーンドクエイク</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の水属性の地形適正を2段階上げる</Description>
+      <Description>10秒間、自身の水属性の地形適正を1段階上げる</Description>
       <ActionSkillId>1004001</ActionSkillId>
       <ActionSkillName>ドルフィンダイヴ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の木属性の地形適正を2段階上げる</Description>
+      <Description>10秒間、自身の木属性の地形適正を1段階上げる</Description>
       <ActionSkillId>1004002</ActionSkillId>
       <ActionSkillName>ウインドリップル</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>10秒間、自身の土属性の地形適正を2段階上げる</Description>
+      <Description>10秒間、自身の土属性の地形適正を1段階上げる</Description>
       <ActionSkillId>1004003</ActionSkillId>
       <ActionSkillName>ビルドハンマー</ActionSkillName>
     </DocActionSkillText>
@@ -357,14 +357,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description>8秒間、敵が使用した妨害スキルを防ぐ</Description>
       <ActionSkillId>1008002</ActionSkillId>
-      <ActionSkillName>メテオクラッシュ</ActionSkillName>
+      <ActionSkillName>ホーリーフィールド</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>10秒間、敵が使用した妨害スキルを防ぐ</Description>
       <ActionSkillId>1008003</ActionSkillId>
-      <ActionSkillName>スラッシュクロウ</ActionSkillName>
+      <ActionSkillName>ウイングバリア</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -649,7 +649,7 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>5秒間、敵をその場に足止めし、さらに交代不可にする</Description>
+      <Description>3秒間、敵をその場に足止めし、さらに交代不可にする</Description>
       <ActionSkillId>2011000</ActionSkillId>
       <ActionSkillName>オーディンスピア</ActionSkillName>
     </DocActionSkillText>
@@ -1014,20 +1014,6 @@
       <BannerId>0</BannerId>
       <BannerName>通常版友達招待</BannerName>
     </DocBannerText>
-    <DocBannerText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>真田幸村の降臨用バナーです。</Description>
-      <BannerId>1</BannerId>
-      <BannerName>降臨：真田幸村</BannerName>
-    </DocBannerText>
-    <DocBannerText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>テスト</Description>
-      <BannerId>2</BannerId>
-      <BannerName>降臨：真田幸村</BannerName>
-    </DocBannerText>
   </DocBannerTextList>
   <DocCampaignTextList>
     <DocCampaignText>
@@ -1070,21 +1056,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CampaignId>5</CampaignId>
-      <CampaignName>経験値2倍</CampaignName>
+      <CampaignName>行動力消費半分（光の国）</CampaignName>
     </DocCampaignText>
     <DocCampaignText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <CampaignId>6</CampaignId>
-      <CampaignName>ゴールド2倍</CampaignName>
-    </DocCampaignText>
-    <DocCampaignText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <CampaignId>7</CampaignId>
-      <CampaignName>強化キャンペーン</CampaignName>
+      <CampaignName>行動力消費半分（闇の国）</CampaignName>
     </DocCampaignText>
   </DocCampaignTextList>
   <DocCheckPointItemTextList>
@@ -8269,7 +8248,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <GameBalanceId>0</GameBalanceId>
-      <GameBalanceName>ゲームバランス（通常）</GameBalanceName>
+      <GameBalanceName>ゲームバランス（デフォルト）</GameBalanceName>
     </DocGameBalanceText>
     <DocGameBalanceText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -8904,6 +8883,15 @@
       <Title>友達招待報酬</Title>
       <Message>友達招待成功でクリスタル5個プレゼント！</Message>
     </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>4</MailId>
+      <MailName>事前登録報酬（シリアルコード用）</MailName>
+      <Title>事前登録報酬</Title>
+      <Message>【仮】事前登録報酬のラビィです。</Message>
+    </DocMailText>
   </DocMailTextList>
   <DocMarqueeTextList>
     <DocMarqueeText>
@@ -8911,8 +8899,8 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MarqueeId>0</MarqueeId>
-      <MarqueeName>β３リリース（6/1）</MarqueeName>
-      <Message>6/1 β3リリース!!</Message>
+      <MarqueeName>社内マルチプレイテスト告知</MarqueeName>
+      <Message>6/4 18:00より社内マルチプレイテスト開催!!</Message>
     </DocMarqueeText>
   </DocMarqueeTextList>
   <DocMedalShopItemTextList>
@@ -8921,1155 +8909,770 @@
       <LanguageCode>JA</LanguageCode>
       <Description>ダミー行動力拡張レベル１</Description>
       <MedalShopItemId>0</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.1</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>ダミー行動力拡張レベル２</Description>
       <MedalShopItemId>1</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.2</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル３</Description>
       <MedalShopItemId>2</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.3</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル４</Description>
       <MedalShopItemId>3</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.4</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル５</Description>
       <MedalShopItemId>4</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.5</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル６</Description>
       <MedalShopItemId>5</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.6</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル７</Description>
       <MedalShopItemId>6</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.7</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル８</Description>
       <MedalShopItemId>7</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.8</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル９</Description>
       <MedalShopItemId>8</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.9</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>行動力拡張レベル１０</Description>
       <MedalShopItemId>9</MedalShopItemId>
-      <MedalShopItemName>行動力拡張Lv.10</MedalShopItemName>
+      <MedalShopItemName>行動力拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.1</Description>
       <MedalShopItemId>10</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.1</MedalShopItemName>
+      <MedalShopItemName>チーム編成数拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.2</Description>
       <MedalShopItemId>11</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.2</MedalShopItemName>
+      <MedalShopItemName>チーム編成数拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.3</Description>
       <MedalShopItemId>12</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.3</MedalShopItemName>
+      <MedalShopItemName>チーム編成数拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.4</Description>
       <MedalShopItemId>13</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.4</MedalShopItemName>
+      <MedalShopItemName>チーム編成数拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.5</Description>
       <MedalShopItemId>14</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.5</MedalShopItemName>
+      <MedalShopItemName>チーム編成数拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.6</Description>
       <MedalShopItemId>15</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.6</MedalShopItemName>
+      <MedalShopItemName>（未使用）</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.7</Description>
       <MedalShopItemId>16</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.7</MedalShopItemName>
+      <MedalShopItemName>（未使用）</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.8</Description>
       <MedalShopItemId>17</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.8</MedalShopItemName>
+      <MedalShopItemName>（未使用）</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.9</Description>
       <MedalShopItemId>18</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.9</MedalShopItemName>
+      <MedalShopItemName>（未使用）</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チーム編成数拡張Lv.10</Description>
       <MedalShopItemId>19</MedalShopItemId>
-      <MedalShopItemName>チーム編成数拡張Lv.10</MedalShopItemName>
+      <MedalShopItemName>（未使用）</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.1</Description>
       <MedalShopItemId>20</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.1</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.2</Description>
       <MedalShopItemId>21</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.2</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.3</Description>
       <MedalShopItemId>22</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.3</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.4</Description>
       <MedalShopItemId>23</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.4</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.5</Description>
       <MedalShopItemId>24</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.5</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.6</Description>
       <MedalShopItemId>25</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.6</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.7</Description>
       <MedalShopItemId>26</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.7</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.8</Description>
       <MedalShopItemId>27</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.8</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.9</Description>
       <MedalShopItemId>28</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.9</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>助っ人選択枠拡張Lv.10</Description>
       <MedalShopItemId>29</MedalShopItemId>
-      <MedalShopItemName>助っ人選択枠拡張Lv.10</MedalShopItemName>
+      <MedalShopItemName>助っ人選択枠拡張 +1</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.1</Description>
       <MedalShopItemId>30</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.1</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.2</Description>
       <MedalShopItemId>31</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.2</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.3</Description>
       <MedalShopItemId>32</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.3</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.4</Description>
       <MedalShopItemId>33</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.4</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.5</Description>
       <MedalShopItemId>34</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.5</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.6</Description>
       <MedalShopItemId>35</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.6</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.7</Description>
       <MedalShopItemId>36</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.7</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.8</Description>
       <MedalShopItemId>37</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.8</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.9</Description>
       <MedalShopItemId>38</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.9</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>フレンド枠拡張Lv.10</Description>
       <MedalShopItemId>39</MedalShopItemId>
-      <MedalShopItemName>フレンド枠拡張Lv.10</MedalShopItemName>
+      <MedalShopItemName>フレンド枠拡張 +3</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.1</Description>
       <MedalShopItemId>40</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.1</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5 </MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.2</Description>
       <MedalShopItemId>41</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.2</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.3</Description>
       <MedalShopItemId>42</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.3</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.4</Description>
       <MedalShopItemId>43</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.4</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.5</Description>
       <MedalShopItemId>44</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.5</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.6</Description>
       <MedalShopItemId>45</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.6</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.7</Description>
       <MedalShopItemId>46</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.7</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.8</Description>
       <MedalShopItemId>47</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.8</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.9</Description>
       <MedalShopItemId>48</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.9</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
     <DocMedalShopItemText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターBOX枠拡張Lv.10</Description>
       <MedalShopItemId>49</MedalShopItemId>
-      <MedalShopItemName>モンスターBOX枠拡張Lv.10</MedalShopItemName>
+      <MedalShopItemName>モンスターBOX枠拡張 +5</MedalShopItemName>
     </DocMedalShopItemText>
   </DocMedalShopItemTextList>
   <DocMissionTextList>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数2日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が2日目になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10000</MissionId>
       <MissionName>通算ログイン2日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数5日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が5日目になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10001</MissionId>
       <MissionName>通算ログイン5日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数7日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が7日目になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10002</MissionId>
       <MissionName>通算ログイン7日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数10日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が10日目になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10003</MissionId>
       <MissionName>通算ログイン10日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数30日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が30日目になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10004</MissionId>
       <MissionName>通算ログイン30日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数50日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が50日目になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10005</MissionId>
       <MissionName>通算ログイン50日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数100日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が100日目になると\nクリスタルを10個プレゼント！</Description>
       <MissionId>10006</MissionId>
       <MissionName>通算ログイン100日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数150日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が150日目になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10007</MissionId>
       <MissionName>通算ログイン150日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数200日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が200日目になると\nクリスタルを10個プレゼント！</Description>
       <MissionId>10008</MissionId>
       <MissionName>通算ログイン200日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数250日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が250日目になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10009</MissionId>
       <MissionName>通算ログイン250日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーの通算ログイン日数300日目到達でクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が300日目になると\nクリスタルを10個プレゼント！</Description>
       <MissionId>10010</MissionId>
       <MissionName>通算ログイン300日目を達成せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ブロンズⅢ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>通算ログイン日数が350日目になると\nクリスタルを5個プレゼント！</Description>
+      <MissionId>10011</MissionId>
+      <MissionName>通算ログイン350日目を達成せよ</MissionName>
+    </DocMissionText>
+    <DocMissionText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description>通算ログイン日数が365日目になると\nクリスタルを5個プレゼント！</Description>
+      <MissionId>10012</MissionId>
+      <MissionName>通算ログイン365日目を達成せよ</MissionName>
+    </DocMissionText>
+    <DocMissionText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description>プレイヤーランクが15になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10100</MissionId>
-      <MissionName>プレイヤーランク『ブロンズⅢ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク15に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ブロンズⅡ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが14になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10101</MissionId>
-      <MissionName>プレイヤーランク『ブロンズⅡ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク14に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ブロンズⅠ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが13になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10102</MissionId>
-      <MissionName>プレイヤーランク『ブロンズⅠ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク13に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『シルバーⅢ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが12になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10103</MissionId>
-      <MissionName>プレイヤーランク『シルバーⅢ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク12に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『シルバーⅡ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが11になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10104</MissionId>
-      <MissionName>プレイヤーランク『シルバーⅡ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク11に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『シルバーⅠ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが10になると\nクリスタルを5個プレゼント！</Description>
       <MissionId>10105</MissionId>
-      <MissionName>プレイヤーランク『シルバーⅠ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク10に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ゴールドⅢ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが9になると\nクリスタルを10個プレゼント！</Description>
       <MissionId>10106</MissionId>
-      <MissionName>プレイヤーランク『ゴールドⅢ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク9に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ゴールドⅡ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが8になると\nクリスタルを10個プレゼント！</Description>
       <MissionId>10107</MissionId>
-      <MissionName>プレイヤーランク『ゴールドⅡ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク8に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ゴールドⅠ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが7になると\nクリスタルを10個プレゼント！</Description>
       <MissionId>10108</MissionId>
-      <MissionName>プレイヤーランク『ゴールドⅠ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク7に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『プラチナⅢ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが6になると\nクリスタルを10個プレゼント！</Description>
       <MissionId>10109</MissionId>
-      <MissionName>プレイヤーランク『プラチナⅢ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク6に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『プラチナⅡ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが5になると\nクリスタルを10個プレゼント！</Description>
       <MissionId>10110</MissionId>
-      <MissionName>プレイヤーランク『プラチナⅡ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク5に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『プラチナⅠ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが4になると\nクリスタルを10個プレゼント！</Description>
       <MissionId>10111</MissionId>
-      <MissionName>プレイヤーランク『プラチナⅠ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク4に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ダイアモンドⅢ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが3になると\nクリスタルを20個プレゼント！</Description>
       <MissionId>10112</MissionId>
-      <MissionName>プレイヤーランク『ダイアモンドⅢ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク3に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ダイアモンドⅡ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが2になると\nクリスタルを20個プレゼント！</Description>
       <MissionId>10113</MissionId>
-      <MissionName>プレイヤーランク『ダイアモンドⅡ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク2に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『ダイアモンドⅠ』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが1になると\nクリスタルを20個プレゼント！</Description>
       <MissionId>10114</MissionId>
-      <MissionName>プレイヤーランク『ダイアモンドⅠ』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク1に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのランクが初めて『レジェンド』に達するとクリスタルを1つプレゼント！</Description>
+      <Description>プレイヤーランクが“ダッシュ”になると\nクリスタルを30個プレゼント！</Description>
       <MissionId>10115</MissionId>
-      <MissionName>プレイヤーランク『レジェンド』に到達せよ</MissionName>
+      <MissionName>プレイヤーランク“ダッシュ”に到達せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが5レベルに達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10200</MissionId>
-      <MissionName>プレイヤーレベル5に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが10レベルに達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10201</MissionId>
-      <MissionName>プレイヤーレベル10に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが20レベルに達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10202</MissionId>
-      <MissionName>プレイヤーレベル20に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが30レベルに達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10203</MissionId>
-      <MissionName>プレイヤーレベル30に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが50レベルに達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10204</MissionId>
-      <MissionName>プレイヤーレベル50に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが70レベルに達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10205</MissionId>
-      <MissionName>プレイヤーレベル70に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが100レベルに達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10206</MissionId>
-      <MissionName>プレイヤーレベル100に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが150レベルに達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10207</MissionId>
-      <MissionName>プレイヤーレベル150に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが200レベルに達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10208</MissionId>
-      <MissionName>プレイヤーレベル200に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが250レベルに達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10209</MissionId>
-      <MissionName>プレイヤーレベル250に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>プレイヤーのレベルが300レベルに達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10210</MissionId>
-      <MissionName>プレイヤーレベル300に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイに初参加でクリスタルを1つプレゼント！</Description>
-      <MissionId>10300</MissionId>
-      <MissionName>マルチプレイ参加数1回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が10回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10301</MissionId>
-      <MissionName>マルチプレイ参加数10回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が50回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10302</MissionId>
-      <MissionName>マルチプレイ参加数50回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が100回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10303</MissionId>
-      <MissionName>マルチプレイ参加数100回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が300回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10304</MissionId>
-      <MissionName>マルチプレイ参加数300回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が500回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10305</MissionId>
-      <MissionName>マルチプレイ参加数500回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が1000回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10306</MissionId>
-      <MissionName>マルチプレイ参加数1000回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイの参加数が2000回目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10307</MissionId>
-      <MissionName>マルチプレイ参加数2000回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が1勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで10勝したら\nクリスタルを1個プレゼント！</Description>
       <MissionId>10400</MissionId>
-      <MissionName>マルチプレイ勝利数1回達成せよ</MissionName>
+      <MissionName>マルチプレイで10回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が5勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで30勝したら\nクリスタルを3個プレゼント！</Description>
       <MissionId>10401</MissionId>
-      <MissionName>マルチプレイ勝利数5回達成せよ</MissionName>
+      <MissionName>マルチプレイで30回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が10勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで50勝したら\nクリスタルを5個プレゼント！</Description>
       <MissionId>10402</MissionId>
-      <MissionName>マルチプレイ勝利数10回達成せよ</MissionName>
+      <MissionName>マルチプレイで50回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が30勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで100勝したら\nクリスタルを5個プレゼント！</Description>
       <MissionId>10403</MissionId>
-      <MissionName>マルチプレイ勝利数30回達成せよ</MissionName>
+      <MissionName>マルチプレイで100回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が50勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで200勝したら\nクリスタルを5個プレゼント！</Description>
       <MissionId>10404</MissionId>
-      <MissionName>マルチプレイ勝利数50回達成せよ</MissionName>
+      <MissionName>マルチプレイで200回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が100勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで300勝したら\nクリスタルを5個プレゼント！</Description>
       <MissionId>10405</MissionId>
-      <MissionName>マルチプレイ勝利数100回達成せよ</MissionName>
+      <MissionName>マルチプレイで300回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が200勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで500勝したら\nクリスタルを5個プレゼント！</Description>
       <MissionId>10406</MissionId>
-      <MissionName>マルチプレイ勝利数200回達成せよ</MissionName>
+      <MissionName>マルチプレイで500回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が300勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで700勝したら\nクリスタルを5個プレゼント！</Description>
       <MissionId>10407</MissionId>
-      <MissionName>マルチプレイ勝利数300回達成せよ</MissionName>
+      <MissionName>マルチプレイで700回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が500勝目に達したらクリスタルを1つプレゼント！</Description>
+      <Description>マルチプレイで1000勝したら\nクリスタルを10個プレゼント！</Description>
       <MissionId>10408</MissionId>
-      <MissionName>マルチプレイ勝利数500回達成せよ</MissionName>
+      <MissionName>マルチプレイで1000回勝利せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの勝利数が1000勝目に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10409</MissionId>
-      <MissionName>マルチプレイ勝利数1000回達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が3連勝に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10500</MissionId>
-      <MissionName>マルチプレイ連勝数3連勝達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が5連勝に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10501</MissionId>
-      <MissionName>マルチプレイ連勝数5連勝達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が7連勝に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10502</MissionId>
-      <MissionName>マルチプレイ連勝数7連勝達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が10連勝に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10503</MissionId>
-      <MissionName>マルチプレイ連勝数10連勝達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が15連勝に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10504</MissionId>
-      <MissionName>マルチプレイ連勝数15連勝達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が20連勝に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10505</MissionId>
-      <MissionName>マルチプレイ連勝数20連勝達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>マルチプレイでの連勝数が30連勝に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10506</MissionId>
-      <MissionName>マルチプレイ連勝数30連勝達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が10体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に10体登録で\nクリスタルを1個プレゼント！</Description>
       <MissionId>10600</MissionId>
-      <MissionName>図鑑モンスター数10体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に10体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が30体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に30体登録で\nクリスタルを3個プレゼント！</Description>
       <MissionId>10601</MissionId>
-      <MissionName>図鑑モンスター数30体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に30体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が50体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に50体登録で\nクリスタルを5個プレゼント！</Description>
       <MissionId>10602</MissionId>
-      <MissionName>図鑑モンスター数50体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に50体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が100体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に100体登録で\nクリスタルを5個プレゼント！</Description>
       <MissionId>10603</MissionId>
-      <MissionName>図鑑モンスター数100体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に100体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が150体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に150体登録で\nクリスタルを5個プレゼント！</Description>
       <MissionId>10604</MissionId>
-      <MissionName>図鑑モンスター数150体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に150体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が200体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に200体登録で\nクリスタルを5個プレゼント！</Description>
       <MissionId>10605</MissionId>
-      <MissionName>図鑑モンスター数200体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に200体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が250体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に250体登録で\nクリスタルを5個プレゼント！</Description>
       <MissionId>10606</MissionId>
-      <MissionName>図鑑モンスター数250体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に250体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が300体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に300体登録で\nクリスタルを5個プレゼント！</Description>
       <MissionId>10607</MissionId>
-      <MissionName>図鑑モンスター数300体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に300体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が350体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に350体登録で\nクリスタルを5個プレゼント！</Description>
       <MissionId>10608</MissionId>
-      <MissionName>図鑑モンスター数350体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に350体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が400体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に400体登録で\nクリスタルを5個プレゼント！</Description>
       <MissionId>10609</MissionId>
-      <MissionName>図鑑モンスター数400体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に400体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が450体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に450体登録で\nクリスタルを5個プレゼント！</Description>
       <MissionId>10610</MissionId>
-      <MissionName>図鑑モンスター数450体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に450体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>モンスター図鑑の登録数が500体に達したらクリスタルを1つプレゼント！</Description>
+      <Description>モンスター図鑑に500体登録で\nクリスタルを5個プレゼント！</Description>
       <MissionId>10611</MissionId>
-      <MissionName>図鑑モンスター数500体を達成せよ</MissionName>
+      <MissionName>モンスター図鑑に500体登録せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが5体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10700</MissionId>
-      <MissionName>アイテム進化合成回数5体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが10体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10701</MissionId>
-      <MissionName>アイテム進化合成回数10体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが20体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10702</MissionId>
-      <MissionName>アイテム進化合成回数20体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが30体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10703</MissionId>
-      <MissionName>アイテム進化合成回数30体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが50体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10704</MissionId>
-      <MissionName>アイテム進化合成回数50体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが70体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10705</MissionId>
-      <MissionName>アイテム進化合成回数70体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが100体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10706</MissionId>
-      <MissionName>アイテム進化合成回数100体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが150体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10707</MissionId>
-      <MissionName>アイテム進化合成回数150体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>アイテム進化させたモンスターが200体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10708</MissionId>
-      <MissionName>アイテム進化合成回数200体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが5体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10800</MissionId>
-      <MissionName>モンスター進化合成回数5体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが10体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10801</MissionId>
-      <MissionName>モンスター進化合成回数10体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが20体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10802</MissionId>
-      <MissionName>モンスター進化合成回数20体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが30体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10803</MissionId>
-      <MissionName>モンスター進化合成回数30体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが50体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10804</MissionId>
-      <MissionName>モンスター進化合成回数50体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが70体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10805</MissionId>
-      <MissionName>モンスター進化合成回数70体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが100体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10806</MissionId>
-      <MissionName>モンスター進化合成回数100体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが150体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10807</MissionId>
-      <MissionName>モンスター進化合成回数150体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>モンスター進化させたモンスターが200体に到達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10808</MissionId>
-      <MissionName>モンスター進化合成回数200体達成せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>初めてフレンドができたらクリアすたるを1つプレゼント！</Description>
-      <MissionId>10900</MissionId>
-      <MissionName>フレンド人数1人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>フレンドの人数が5人に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10901</MissionId>
-      <MissionName>フレンド人数5人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>フレンドの人数が10人に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10902</MissionId>
-      <MissionName>フレンド人数10人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>フレンドの人数が20人に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10903</MissionId>
-      <MissionName>フレンド人数20人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>フレンドの人数が50人に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10904</MissionId>
-      <MissionName>フレンド人数50人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>フレンドの人数が100人に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>10905</MissionId>
-      <MissionName>フレンド人数100人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを1個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー10個獲得で\nクリスタルを1個プレゼント！\n(ソロプレイのみ対象)</Description>
       <MissionId>11000</MissionId>
-      <MissionName>ゴールドトロフィー獲得数1個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを10個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを3個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー30個獲得で\nクリスタルを3個プレゼント！\n(ソロプレイのみ対象)</Description>
       <MissionId>11001</MissionId>
-      <MissionName>ゴールドトロフィー獲得数3個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを30個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを5個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー50個獲得で\nクリスタルを5個プレゼント！\n(ソロプレイのみ対象)</Description>
       <MissionId>11002</MissionId>
-      <MissionName>ゴールドトロフィー獲得数5個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを50個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを10個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー100個獲得で\nクリスタルを5個プレゼント！\n(ソロプレイのみ対象)</Description>
       <MissionId>11003</MissionId>
-      <MissionName>ゴールドトロフィー獲得数10個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを100個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを20個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー150個獲得で\nクリスタルを5個プレゼント！\n(ソロプレイのみ対象)</Description>
       <MissionId>11004</MissionId>
-      <MissionName>ゴールドトロフィー獲得数20個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを150個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを30個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー200個獲得で\nクリスタルを5個プレゼント！\n(ソロプレイのみ対象)</Description>
       <MissionId>11005</MissionId>
-      <MissionName>ゴールドトロフィー獲得数30個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを200個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを50個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー250個獲得で\nクリスタルを5個プレゼント！\n(ソロプレイのみ対象)</Description>
       <MissionId>11006</MissionId>
-      <MissionName>ゴールドトロフィー獲得数50個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを250個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを70個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー300個獲得で\nクリスタルを5個プレゼント！\n(ソロプレイのみ対象)</Description>
       <MissionId>11007</MissionId>
-      <MissionName>ゴールドトロフィー獲得数70個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを300個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ゴールドトロフィーを100個獲得したらクリスタルを1つプレゼント！</Description>
+      <Description>ゴールドトロフィー350個獲得で\nクリスタルを5個プレゼント！\n(ソロプレイのみ対象)</Description>
       <MissionId>11008</MissionId>
-      <MissionName>ゴールドトロフィー獲得数100個を達成せよ</MissionName>
+      <MissionName>ゴールドトロフィーを350個獲得せよ</MissionName>
     </DocMissionText>
     <DocMissionText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>初めて友達を招待したらクリスタルを1つプレゼント！</Description>
-      <MissionId>11100</MissionId>
-      <MissionName>友達招待人数1人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>友達招待数が5人に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>11101</MissionId>
-      <MissionName>友達招待人数5人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>友達招待数が10人に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>11102</MissionId>
-      <MissionName>友達招待人数10人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>友達招待数が20人に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>11103</MissionId>
-      <MissionName>友達招待人数20人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>友達招待数が50人に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>11104</MissionId>
-      <MissionName>友達招待人数50人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>友達招待数が100人に達したらクリスタルを1つプレゼント！</Description>
-      <MissionId>11105</MissionId>
-      <MissionName>友達招待人数100人に到達せよ</MissionName>
-    </DocMissionText>
-    <DocMissionText>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>チュートリアルクリアでクリスタルを5つプレゼント！</Description>
+      <Description>チュートリアルクリアで\nクリスタルを5個プレゼント！</Description>
       <MissionId>11400</MissionId>
       <MissionName>チュートリアルをクリアせよ</MissionName>
     </DocMissionText>
@@ -12084,63 +11687,63 @@
       <LanguageCode>JA</LanguageCode>
       <Description>控え時のモンスターのスタミナ回復力を少し向上させる</Description>
       <PassiveSkillId>10000</PassiveSkillId>
-      <PassiveSkillName>スタミナ回復力Lv.1</PassiveSkillName>
+      <PassiveSkillName>スタミナ回復力[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>控え時のモンスターのスタミナ回復力をある程度向上させる</Description>
       <PassiveSkillId>10001</PassiveSkillId>
-      <PassiveSkillName>スタミナ回復力Lv.2</PassiveSkillName>
+      <PassiveSkillName>スタミナ回復力[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>控え時のモンスターのスタミナ回復力をかなり向上させる</Description>
       <PassiveSkillId>10002</PassiveSkillId>
-      <PassiveSkillName>スタミナ回復力Lv.3</PassiveSkillName>
+      <PassiveSkillName>スタミナ回復力[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>レース中の加速度を少し向上させる</Description>
       <PassiveSkillId>10200</PassiveSkillId>
-      <PassiveSkillName>ダッシュLv.1</PassiveSkillName>
+      <PassiveSkillName>ダッシュ[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>レース中の加速度をある程度向上させる</Description>
       <PassiveSkillId>10201</PassiveSkillId>
-      <PassiveSkillName>ダッシュLv.2</PassiveSkillName>
+      <PassiveSkillName>ダッシュ[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>レース中の加速度をかなり向上させる</Description>
       <PassiveSkillId>10202</PassiveSkillId>
-      <PassiveSkillName>ダッシュLv.3</PassiveSkillName>
+      <PassiveSkillName>ダッシュ[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>下位にいる時ににスピードが少し上昇する</Description>
       <PassiveSkillId>10300</PassiveSkillId>
-      <PassiveSkillName>ガッツLv.1</PassiveSkillName>
+      <PassiveSkillName>ガッツ[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>下位にいる時にスピードがある程度上昇する</Description>
       <PassiveSkillId>10301</PassiveSkillId>
-      <PassiveSkillName>ガッツLv.2</PassiveSkillName>
+      <PassiveSkillName>ガッツ[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>下位にいる時にスピードがかなり上昇する</Description>
       <PassiveSkillId>10302</PassiveSkillId>
-      <PassiveSkillName>ガッツLv.3</PassiveSkillName>
+      <PassiveSkillName>ガッツ[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -12154,42 +11757,42 @@
       <LanguageCode>JA</LanguageCode>
       <Description>交代時、もの凄く早く止まって次の選手と交代できる</Description>
       <PassiveSkillId>10400</PassiveSkillId>
-      <PassiveSkillName>急ブレーキLv.1</PassiveSkillName>
+      <PassiveSkillName>急ブレーキ[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>交代時、もの凄く早く止まって次の選手と交代できる</Description>
       <PassiveSkillId>10401</PassiveSkillId>
-      <PassiveSkillName>急ブレーキLv.2</PassiveSkillName>
+      <PassiveSkillName>急ブレーキ[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>交代時、もの凄く早く止まって次の選手と交代できる</Description>
       <PassiveSkillId>10402</PassiveSkillId>
-      <PassiveSkillName>急ブレーキLv.3</PassiveSkillName>
+      <PassiveSkillName>急ブレーキ[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターのスキル回復力が少し向上する</Description>
       <PassiveSkillId>10500</PassiveSkillId>
-      <PassiveSkillName>スキル回復力Lv.1</PassiveSkillName>
+      <PassiveSkillName>スキル回復力[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターのスキル回復力がある程度向上する</Description>
       <PassiveSkillId>10501</PassiveSkillId>
-      <PassiveSkillName>スキル回復力Lv.2</PassiveSkillName>
+      <PassiveSkillName>スキル回復力[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>モンスターのスキル回復力がかなり向上する</Description>
       <PassiveSkillId>10502</PassiveSkillId>
-      <PassiveSkillName>スキル回復力Lv.3</PassiveSkillName>
+      <PassiveSkillName>スキル回復力[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -12364,231 +11967,231 @@
       <LanguageCode>JA</LanguageCode>
       <Description>スタミナ低下時の減速効果を少し抑える</Description>
       <PassiveSkillId>11710</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志Lv.1</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>スタミナ低下時の減速効果をある程度抑える</Description>
       <PassiveSkillId>11711</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志Lv.2</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>スタミナ低下時の減速効果をかなり抑える</Description>
       <PassiveSkillId>11712</PassiveSkillId>
-      <PassiveSkillName>不屈の闘志Lv.3</PassiveSkillName>
+      <PassiveSkillName>不屈の闘志[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得経験値が少し増える</Description>
       <PassiveSkillId>11800</PassiveSkillId>
-      <PassiveSkillName>経験値UP Lv.1</PassiveSkillName>
+      <PassiveSkillName>経験値UP[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得経験値がある程度増える</Description>
       <PassiveSkillId>11801</PassiveSkillId>
-      <PassiveSkillName>経験値UP Lv.2</PassiveSkillName>
+      <PassiveSkillName>経験値UP[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得経験値がかなり増える</Description>
       <PassiveSkillId>11802</PassiveSkillId>
-      <PassiveSkillName>経験値UP Lv.3</PassiveSkillName>
+      <PassiveSkillName>経験値UP[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得ゴールドが少し増える</Description>
       <PassiveSkillId>11900</PassiveSkillId>
-      <PassiveSkillName>ゴールドUP Lv.1</PassiveSkillName>
+      <PassiveSkillName>ゴールドUP[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得ゴールドがある程度増える</Description>
       <PassiveSkillId>11901</PassiveSkillId>
-      <PassiveSkillName>ゴールドUP Lv.2</PassiveSkillName>
+      <PassiveSkillName>ゴールドUP[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得ゴールドがかなり増える</Description>
       <PassiveSkillId>11902</PassiveSkillId>
-      <PassiveSkillName>ゴールドUP Lv.3</PassiveSkillName>
+      <PassiveSkillName>ゴールドUP[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得名声ポイントが少し増える</Description>
       <PassiveSkillId>12000</PassiveSkillId>
-      <PassiveSkillName>名声値UP Lv.1</PassiveSkillName>
+      <PassiveSkillName>名声値UP[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得名声ポイントがある程度増える</Description>
       <PassiveSkillId>12001</PassiveSkillId>
-      <PassiveSkillName>名声値UP Lv.2</PassiveSkillName>
+      <PassiveSkillName>名声値UP[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>大会クリア時の獲得名声ポイントがかなり増える</Description>
       <PassiveSkillId>12002</PassiveSkillId>
-      <PassiveSkillName>名声値UP Lv.3</PassiveSkillName>
+      <PassiveSkillName>名声値UP[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チェックポイントでレアなアイテムが少し出やすくなる</Description>
       <PassiveSkillId>12100</PassiveSkillId>
-      <PassiveSkillName>ラックUP Lv.1</PassiveSkillName>
+      <PassiveSkillName>ラックUP[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チェックポイントでレアなアイテムがある程度出やすくなる</Description>
       <PassiveSkillId>12101</PassiveSkillId>
-      <PassiveSkillName>ラックUP Lv.2</PassiveSkillName>
+      <PassiveSkillName>ラックUP[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>チェックポイントでレアなアイテムがかなり出やすくなる</Description>
       <PassiveSkillId>12102</PassiveSkillId>
-      <PassiveSkillName>ラックUP Lv.3</PassiveSkillName>
+      <PassiveSkillName>ラックUP[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>スタートダッシュ効果UP(成功タイミング拡大＆速度効果UP)</Description>
       <PassiveSkillId>12200</PassiveSkillId>
-      <PassiveSkillName>スタートダッシュ Lv.1</PassiveSkillName>
+      <PassiveSkillName>スタートダッシュ[小]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>スタートダッシュ効果UP(成功タイミング拡大＆速度効果UP)</Description>
       <PassiveSkillId>12201</PassiveSkillId>
-      <PassiveSkillName>スタートダッシュ Lv.2</PassiveSkillName>
+      <PassiveSkillName>スタートダッシュ[中]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>スタートダッシュ効果UP(成功タイミング拡大＆速度効果UP)</Description>
       <PassiveSkillId>12202</PassiveSkillId>
-      <PassiveSkillName>スタートダッシュ Lv.3</PassiveSkillName>
+      <PassiveSkillName>スタートダッシュ[大]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[交代不可]スキルを無効化する</Description>
+      <Description>相手の[00ffff]交代不可[-]スキルを無効化する</Description>
       <PassiveSkillId>20600</PassiveSkillId>
-      <PassiveSkillName>[交代不可]スキルガード</PassiveSkillName>
+      <PassiveSkillName>[00ffff]交代不可[-]スキルガード</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[スキル使用不可]スキルを無効化</Description>
+      <Description>相手の[00ffff]スキル使用不可[-]スキルを無効化</Description>
       <PassiveSkillId>20700</PassiveSkillId>
-      <PassiveSkillName>[スキル使用不可]スキルガード</PassiveSkillName>
+      <PassiveSkillName>[00ffff]スキル使用不可[-]スキルガード</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[スピードダウン]スキルの効果を半減</Description>
+      <Description>相手の[00ffff]スピードダウン[-]スキルの効果を半減</Description>
       <PassiveSkillId>20800</PassiveSkillId>
-      <PassiveSkillName>[スピードダウン]スキルガードLv.1</PassiveSkillName>
+      <PassiveSkillName>[00ffff]スピードダウン[-]スキルガード[半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[スピードダウン]スキルを無効化</Description>
+      <Description>相手の[00ffff]スピードダウン[-]スキルを無効化</Description>
       <PassiveSkillId>20801</PassiveSkillId>
-      <PassiveSkillName>[スピードダウン]スキルガードLv.2</PassiveSkillName>
+      <PassiveSkillName>[00ffff]スピードダウン[-]スキルガード[全]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[地形適正ダウン(反転含む)]スキルを無効化</Description>
+      <Description>相手の[00ffff]地形適正ダウン(反転含む)[-]スキルを無効化</Description>
       <PassiveSkillId>20900</PassiveSkillId>
-      <PassiveSkillName>[地形適正ダウン]スキルガード</PassiveSkillName>
+      <PassiveSkillName>[00ffff]地形適正ダウン[-]スキルガード</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[スタミナダウン]スキルの効果を半減</Description>
+      <Description>相手の[00ffff]スタミナダウン[-]スキルの効果を半減</Description>
       <PassiveSkillId>21000</PassiveSkillId>
-      <PassiveSkillName>[スタミナダウン]スキルガードLv.1</PassiveSkillName>
+      <PassiveSkillName>[00ffff]スタミナダウン[-]スキルガード[半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>相手の[スタミナダウン]スキルを無効化</Description>
+      <Description>相手の[00ffff]スタミナダウン[-]スキルを無効化</Description>
       <PassiveSkillId>21001</PassiveSkillId>
-      <PassiveSkillName>[スタミナダウン]スキルガードLv.2</PassiveSkillName>
+      <PassiveSkillName>[00ffff]スタミナダウン[-]スキルガード[全]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>パワーが必要な地形での減速を半減</Description>
       <PassiveSkillId>30100</PassiveSkillId>
-      <PassiveSkillName>パワーLv.1</PassiveSkillName>
+      <PassiveSkillName>パワー[半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>パワーが必要な地形で減速しなくなる</Description>
       <PassiveSkillId>30101</PassiveSkillId>
-      <PassiveSkillName>パワーLv.2</PassiveSkillName>
+      <PassiveSkillName>パワー[全]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スタミナダウン]地形走行時のスタミナ減少効果を半減</Description>
+      <Description>[00ffff]スタミナダウン[-]地形走行時のスタミナ減少効果を半減</Description>
       <PassiveSkillId>31100</PassiveSkillId>
-      <PassiveSkillName>アンチ[スタミナダウン]Lv.1</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スタミナダウン[-][半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スタミナダウン]地形走行時もスタミナが減少しなくなる</Description>
+      <Description>[00ffff]スタミナダウン[-]地形走行時もスタミナが減少しなくなる</Description>
       <PassiveSkillId>31101</PassiveSkillId>
-      <PassiveSkillName>アンチ[スタミナダウン]Lv.2</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スタミナダウン[-][全]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スリップ]地形走行時のスリップ効果を半減</Description>
+      <Description>[00ffff]スリップ[-]地形走行時のスリップ効果を半減</Description>
       <PassiveSkillId>31300</PassiveSkillId>
-      <PassiveSkillName>アンチ[スリップ]Lv.1</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スリップ[-][半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スリップ]地形走行時もスリップしなくなる</Description>
+      <Description>[00ffff]スリップ[-]地形走行時にスリップしなくなる</Description>
       <PassiveSkillId>31301</PassiveSkillId>
-      <PassiveSkillName>アンチ[スリップ]Lv.2</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スリップ[-][全]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スピードダウン]地形走行時のスピードダウン効果を半減</Description>
+      <Description>[00ffff]スピードダウン[-]地形走行時のスピードダウン効果を半減</Description>
       <PassiveSkillId>31400</PassiveSkillId>
-      <PassiveSkillName>アンチ[スピードダウン]Lv.1</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スピードダウン[-][半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[スピードダウン]地形走行時もスピードダウンしなくなる</Description>
+      <Description>[00ffff]スピードダウン[-]地形走行時もスピードダウンしなくなる</Description>
       <PassiveSkillId>31401</PassiveSkillId>
-      <PassiveSkillName>アンチ[スピードダウン]Lv.2</PassiveSkillName>
+      <PassiveSkillName>アンチ[00ffff]スピードダウン[-][全]</PassiveSkillName>
     </DocPassiveSkillText>
   </DocPassiveSkillTextList>
   <DocRaceTextList>
@@ -20499,7 +20102,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>0</RewardId>
-      <RewardName>クリスタル×1</RewardName>
+      <RewardName>クリスタル</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -20563,6 +20166,146 @@
       <Description />
       <RewardId>9</RewardId>
       <RewardName>クリスタル×10</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>10</RewardId>
+      <RewardName>クリスタル×11</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>11</RewardId>
+      <RewardName>クリスタル×12</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>12</RewardId>
+      <RewardName>クリスタル×13</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>13</RewardId>
+      <RewardName>クリスタル×14</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>14</RewardId>
+      <RewardName>クリスタル×15</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>15</RewardId>
+      <RewardName>クリスタル×16</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>16</RewardId>
+      <RewardName>クリスタル×17</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>17</RewardId>
+      <RewardName>クリスタル×18</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>18</RewardId>
+      <RewardName>クリスタル×19</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>19</RewardId>
+      <RewardName>クリスタル×20</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>20</RewardId>
+      <RewardName>クリスタル×21</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>21</RewardId>
+      <RewardName>クリスタル×22</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>22</RewardId>
+      <RewardName>クリスタル×23</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>23</RewardId>
+      <RewardName>クリスタル×24</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>24</RewardId>
+      <RewardName>クリスタル×25</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>25</RewardId>
+      <RewardName>クリスタル×26</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>26</RewardId>
+      <RewardName>クリスタル×27</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>27</RewardId>
+      <RewardName>クリスタル×28</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>28</RewardId>
+      <RewardName>クリスタル×29</RewardName>
+    </DocRewardText>
+    <DocRewardText>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <RewardId>29</RewardId>
+      <RewardName>クリスタル×30</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21346,14 +21089,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50036</RewardId>
-      <RewardName>アリエ</RewardName>
+      <RewardName>カヴァロ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50037</RewardId>
-      <RewardName>アリエース</RewardName>
+      <RewardName>カヴァロス</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21388,14 +21131,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50042</RewardId>
-      <RewardName>エラフ</RewardName>
+      <RewardName>スノダル</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50043</RewardId>
-      <RewardName>ナイトエラフ</RewardName>
+      <RewardName>スノダルマン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21416,14 +21159,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50046</RewardId>
-      <RewardName>カヴァロ</RewardName>
+      <RewardName>アリエ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50047</RewardId>
-      <RewardName>カヴァロス</RewardName>
+      <RewardName>アリエース</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21507,21 +21250,21 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50059</RewardId>
-      <RewardName>少女エルザ</RewardName>
+      <RewardName>少女エリー</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50060</RewardId>
-      <RewardName>エルザ姫</RewardName>
+      <RewardName>エリー姫</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50061</RewardId>
-      <RewardName>女王エルザ</RewardName>
+      <RewardName>女王エリー</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21549,21 +21292,21 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50065</RewardId>
-      <RewardName>ベビースー</RewardName>
+      <RewardName>ベビーミート</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50066</RewardId>
-      <RewardName>スース</RewardName>
+      <RewardName>ミートン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50067</RewardId>
-      <RewardName>ビッグスース</RewardName>
+      <RewardName>ビッグミートン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -21815,14 +21558,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50103</RewardId>
-      <RewardName>Dr.マサルト</RewardName>
+      <RewardName>マッドライダー</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50104</RewardId>
-      <RewardName>Dr.マサルト改</RewardName>
+      <RewardName>スカルライダー</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -22081,14 +21824,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50141</RewardId>
-      <RewardName>鋼人38号</RewardName>
+      <RewardName>アイアンポーン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50142</RewardId>
-      <RewardName>鋼人38号改</RewardName>
+      <RewardName>アイアンナイト</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -22431,14 +22174,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50191</RewardId>
-      <RewardName>ロック</RewardName>
+      <RewardName>シーロック</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50192</RewardId>
-      <RewardName>キャプテンロック</RewardName>
+      <RewardName>キャプテンシーロック</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -22725,14 +22468,14 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50233</RewardId>
-      <RewardName>伊達正宗</RewardName>
+      <RewardName>伊達政宗</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50234</RewardId>
-      <RewardName>独眼竜 伊達正宗</RewardName>
+      <RewardName>独眼竜 伊達政宗</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -22809,196 +22552,196 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50245</RewardId>
-      <RewardName>レッドラパン ショート</RewardName>
+      <RewardName>レッドラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50246</RewardId>
-      <RewardName>レッドラパン トール</RewardName>
+      <RewardName>レッドラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50247</RewardId>
-      <RewardName>レッドラパン グランデ</RewardName>
+      <RewardName>レッドラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50248</RewardId>
-      <RewardName>レッドラパン ベンティ</RewardName>
+      <RewardName>レッドラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50249</RewardId>
-      <RewardName>ブルーラパン ショート</RewardName>
+      <RewardName>ブルーラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50250</RewardId>
-      <RewardName>ブルーラパン トール</RewardName>
+      <RewardName>ブルーラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50251</RewardId>
-      <RewardName>ブルーラパン グランデ</RewardName>
+      <RewardName>ブルーラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50252</RewardId>
-      <RewardName>ブルーラパン ベンティ</RewardName>
+      <RewardName>ブルーラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50253</RewardId>
-      <RewardName>グリーンラパン ショート</RewardName>
+      <RewardName>グリーンラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50254</RewardId>
-      <RewardName>グリーンラパン トール</RewardName>
+      <RewardName>グリーンラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50255</RewardId>
-      <RewardName>グリーンラパン グランデ</RewardName>
+      <RewardName>グリーンラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50256</RewardId>
-      <RewardName>グリーンラパン ベンティ</RewardName>
+      <RewardName>グリーンラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50257</RewardId>
-      <RewardName>ブラウンラパン ショート</RewardName>
+      <RewardName>ブラウンラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50258</RewardId>
-      <RewardName>ブラウンラパン トール</RewardName>
+      <RewardName>ブラウンラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50259</RewardId>
-      <RewardName>ブラウンラパン グランデ</RewardName>
+      <RewardName>ブラウンラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50260</RewardId>
-      <RewardName>ブラウンラパン ベンティ</RewardName>
+      <RewardName>ブラウンラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50261</RewardId>
-      <RewardName>スチールラパン ショート</RewardName>
+      <RewardName>スチールラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50262</RewardId>
-      <RewardName>スチールラパン トール</RewardName>
+      <RewardName>スチールラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50263</RewardId>
-      <RewardName>スチールラパン グランデ</RewardName>
+      <RewardName>スチールラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50264</RewardId>
-      <RewardName>スチールラパン ベンティ</RewardName>
+      <RewardName>スチールラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50265</RewardId>
-      <RewardName>ライトラパン ショート</RewardName>
+      <RewardName>ライトラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50266</RewardId>
-      <RewardName>ライトラパン トール</RewardName>
+      <RewardName>ライトラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50267</RewardId>
-      <RewardName>ライトラパン グランデ</RewardName>
+      <RewardName>ライトラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50268</RewardId>
-      <RewardName>ライトラパン ベンティ</RewardName>
+      <RewardName>ライトラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50269</RewardId>
-      <RewardName>ダークラパン ショート</RewardName>
+      <RewardName>ダークラパン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50270</RewardId>
-      <RewardName>ダークラパン トール</RewardName>
+      <RewardName>ダークラパンX</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50271</RewardId>
-      <RewardName>ダークラパン グランデ</RewardName>
+      <RewardName>ダークラパンY</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50272</RewardId>
-      <RewardName>ダークラパン ベンティ</RewardName>
+      <RewardName>ダークラパンZ</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -23089,602 +22832,602 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50285</RewardId>
-      <RewardName>スキプルベビー</RewardName>
+      <RewardName>ジタン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>50286</RewardId>
-      <RewardName>スキプル</RewardName>
+      <RewardName>クロノジタン</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50287</RewardId>
-      <RewardName>レッドラパン ショート ×2</RewardName>
+      <RewardId>55000</RewardId>
+      <RewardName>レッドラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50288</RewardId>
-      <RewardName>レッドラパン トール ×2</RewardName>
+      <RewardId>55001</RewardId>
+      <RewardName>レッドラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50289</RewardId>
-      <RewardName>レッドラパン グランデ ×2</RewardName>
+      <RewardId>55002</RewardId>
+      <RewardName>レッドラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50290</RewardId>
-      <RewardName>レッドラパン ベンティ ×2</RewardName>
+      <RewardId>55003</RewardId>
+      <RewardName>レッドラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50291</RewardId>
-      <RewardName>ブルーラパン ショート ×2</RewardName>
+      <RewardId>55004</RewardId>
+      <RewardName>ブルーラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50292</RewardId>
-      <RewardName>ブルーラパン トール ×2</RewardName>
+      <RewardId>55005</RewardId>
+      <RewardName>ブルーラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50293</RewardId>
-      <RewardName>ブルーラパン グランデ ×2</RewardName>
+      <RewardId>55006</RewardId>
+      <RewardName>ブルーラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50294</RewardId>
-      <RewardName>ブルーラパン ベンティ ×2</RewardName>
+      <RewardId>55007</RewardId>
+      <RewardName>ブルーラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50295</RewardId>
-      <RewardName>グリーンラパン ショート ×2</RewardName>
+      <RewardId>55008</RewardId>
+      <RewardName>グリーンラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50296</RewardId>
-      <RewardName>グリーンラパン トール ×2</RewardName>
+      <RewardId>55009</RewardId>
+      <RewardName>グリーンラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50297</RewardId>
-      <RewardName>グリーンラパン グランデ ×2</RewardName>
+      <RewardId>55010</RewardId>
+      <RewardName>グリーンラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50298</RewardId>
-      <RewardName>グリーンラパン ベンティ ×2</RewardName>
+      <RewardId>55011</RewardId>
+      <RewardName>グリーンラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50299</RewardId>
-      <RewardName>ブラウンラパン ショート ×2</RewardName>
+      <RewardId>55012</RewardId>
+      <RewardName>ブラウンラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50300</RewardId>
-      <RewardName>ブラウンラパン トール ×2</RewardName>
+      <RewardId>55013</RewardId>
+      <RewardName>ブラウンラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50301</RewardId>
-      <RewardName>ブラウンラパン グランデ ×2</RewardName>
+      <RewardId>55014</RewardId>
+      <RewardName>ブラウンラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50302</RewardId>
-      <RewardName>ブラウンラパン ベンティ ×2</RewardName>
+      <RewardId>55015</RewardId>
+      <RewardName>ブラウンラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50303</RewardId>
-      <RewardName>スチールラパン ショート ×2</RewardName>
+      <RewardId>55016</RewardId>
+      <RewardName>スチールラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50304</RewardId>
-      <RewardName>スチールラパン トール ×2</RewardName>
+      <RewardId>55017</RewardId>
+      <RewardName>スチールラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50305</RewardId>
-      <RewardName>スチールラパン グランデ ×2</RewardName>
+      <RewardId>55018</RewardId>
+      <RewardName>スチールラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50306</RewardId>
-      <RewardName>スチールラパン ベンティ ×2</RewardName>
+      <RewardId>55019</RewardId>
+      <RewardName>スチールラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50307</RewardId>
-      <RewardName>ライトラパン ショート ×2</RewardName>
+      <RewardId>55020</RewardId>
+      <RewardName>ライトラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50308</RewardId>
-      <RewardName>ライトラパン トール ×2</RewardName>
+      <RewardId>55021</RewardId>
+      <RewardName>ライトラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50309</RewardId>
-      <RewardName>ライトラパン グランデ ×2</RewardName>
+      <RewardId>55022</RewardId>
+      <RewardName>ライトラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50310</RewardId>
-      <RewardName>ライトラパン ベンティ ×2</RewardName>
+      <RewardId>55023</RewardId>
+      <RewardName>ライトラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50311</RewardId>
-      <RewardName>ダークラパン ショート ×2</RewardName>
+      <RewardId>55024</RewardId>
+      <RewardName>ダークラパン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50312</RewardId>
-      <RewardName>ダークラパン トール ×2</RewardName>
+      <RewardId>55025</RewardId>
+      <RewardName>ダークラパンX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50313</RewardId>
-      <RewardName>ダークラパン グランデ ×2</RewardName>
+      <RewardId>55026</RewardId>
+      <RewardName>ダークラパンY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50314</RewardId>
-      <RewardName>ダークラパン ベンティ ×2</RewardName>
+      <RewardId>55027</RewardId>
+      <RewardName>ダークラパンZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50315</RewardId>
-      <RewardName>ゴールドキャット ×2</RewardName>
+      <RewardId>55028</RewardId>
+      <RewardName>ゴールドキャット x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50316</RewardId>
-      <RewardName>ゴールドジャック ×2</RewardName>
+      <RewardId>55029</RewardId>
+      <RewardName>ゴールドジャック x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50317</RewardId>
-      <RewardName>ゴールドクイーン ×2</RewardName>
+      <RewardId>55030</RewardId>
+      <RewardName>ゴールドクイーン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50318</RewardId>
-      <RewardName>ゴールドキング ×2</RewardName>
+      <RewardId>55031</RewardId>
+      <RewardName>ゴールドキング x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50319</RewardId>
-      <RewardName>ハヤイサー ×2</RewardName>
+      <RewardId>55032</RewardId>
+      <RewardName>ハヤイサー x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50320</RewardId>
-      <RewardName>ハヤイサーX ×2</RewardName>
+      <RewardId>55033</RewardId>
+      <RewardName>ハヤイサーX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50321</RewardId>
-      <RewardName>ハヤイサーY ×2</RewardName>
+      <RewardId>55034</RewardId>
+      <RewardName>ハヤイサーY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50322</RewardId>
-      <RewardName>ハヤイサーZ ×2</RewardName>
+      <RewardId>55035</RewardId>
+      <RewardName>ハヤイサーZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50323</RewardId>
-      <RewardName>スタミーナ ×2</RewardName>
+      <RewardId>55036</RewardId>
+      <RewardName>スタミーナ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50324</RewardId>
-      <RewardName>スタミーナX ×2</RewardName>
+      <RewardId>55037</RewardId>
+      <RewardName>スタミーナX x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50325</RewardId>
-      <RewardName>スタミーナY ×2</RewardName>
+      <RewardId>55038</RewardId>
+      <RewardName>スタミーナY x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50326</RewardId>
-      <RewardName>スタミーナZ ×2</RewardName>
+      <RewardId>55039</RewardId>
+      <RewardName>スタミーナZ x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50327</RewardId>
-      <RewardName>スキプルベビー ×2</RewardName>
+      <RewardId>55040</RewardId>
+      <RewardName>ジタン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50328</RewardId>
-      <RewardName>スキプル ×2</RewardName>
+      <RewardId>55041</RewardId>
+      <RewardName>クロノジタン x2</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50329</RewardId>
-      <RewardName>レッドラパン ショート ×3</RewardName>
+      <RewardId>56000</RewardId>
+      <RewardName>レッドラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50330</RewardId>
-      <RewardName>レッドラパン トール ×3</RewardName>
+      <RewardId>56001</RewardId>
+      <RewardName>レッドラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50331</RewardId>
-      <RewardName>レッドラパン グランデ ×3</RewardName>
+      <RewardId>56002</RewardId>
+      <RewardName>レッドラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50332</RewardId>
-      <RewardName>レッドラパン ベンティ ×3</RewardName>
+      <RewardId>56003</RewardId>
+      <RewardName>レッドラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50333</RewardId>
-      <RewardName>ブルーラパン ショート ×3</RewardName>
+      <RewardId>56004</RewardId>
+      <RewardName>ブルーラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50334</RewardId>
-      <RewardName>ブルーラパン トール ×3</RewardName>
+      <RewardId>56005</RewardId>
+      <RewardName>ブルーラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50335</RewardId>
-      <RewardName>ブルーラパン グランデ ×3</RewardName>
+      <RewardId>56006</RewardId>
+      <RewardName>ブルーラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50336</RewardId>
-      <RewardName>ブルーラパン ベンティ ×3</RewardName>
+      <RewardId>56007</RewardId>
+      <RewardName>ブルーラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50337</RewardId>
-      <RewardName>グリーンラパン ショート ×3</RewardName>
+      <RewardId>56008</RewardId>
+      <RewardName>グリーンラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50338</RewardId>
-      <RewardName>グリーンラパン トール ×3</RewardName>
+      <RewardId>56009</RewardId>
+      <RewardName>グリーンラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50339</RewardId>
-      <RewardName>グリーンラパン グランデ ×3</RewardName>
+      <RewardId>56010</RewardId>
+      <RewardName>グリーンラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50340</RewardId>
-      <RewardName>グリーンラパン ベンティ ×3</RewardName>
+      <RewardId>56011</RewardId>
+      <RewardName>グリーンラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50341</RewardId>
-      <RewardName>ブラウンラパン ショート ×3</RewardName>
+      <RewardId>56012</RewardId>
+      <RewardName>ブラウンラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50342</RewardId>
-      <RewardName>ブラウンラパン トール ×3</RewardName>
+      <RewardId>56013</RewardId>
+      <RewardName>ブラウンラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50343</RewardId>
-      <RewardName>ブラウンラパン グランデ ×3</RewardName>
+      <RewardId>56014</RewardId>
+      <RewardName>ブラウンラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50344</RewardId>
-      <RewardName>ブラウンラパン ベンティ ×3</RewardName>
+      <RewardId>56015</RewardId>
+      <RewardName>ブラウンラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50345</RewardId>
-      <RewardName>スチールラパン ショート ×3</RewardName>
+      <RewardId>56016</RewardId>
+      <RewardName>スチールラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50346</RewardId>
-      <RewardName>スチールラパン トール ×3</RewardName>
+      <RewardId>56017</RewardId>
+      <RewardName>スチールラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50347</RewardId>
-      <RewardName>スチールラパン グランデ ×3</RewardName>
+      <RewardId>56018</RewardId>
+      <RewardName>スチールラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50348</RewardId>
-      <RewardName>スチールラパン ベンティ ×3</RewardName>
+      <RewardId>56019</RewardId>
+      <RewardName>スチールラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50349</RewardId>
-      <RewardName>ライトラパン ショート ×3</RewardName>
+      <RewardId>56020</RewardId>
+      <RewardName>ライトラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50350</RewardId>
-      <RewardName>ライトラパン トール ×3</RewardName>
+      <RewardId>56021</RewardId>
+      <RewardName>ライトラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50351</RewardId>
-      <RewardName>ライトラパン グランデ ×3</RewardName>
+      <RewardId>56022</RewardId>
+      <RewardName>ライトラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50352</RewardId>
-      <RewardName>ライトラパン ベンティ ×3</RewardName>
+      <RewardId>56023</RewardId>
+      <RewardName>ライトラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50353</RewardId>
-      <RewardName>ダークラパン ショート ×3</RewardName>
+      <RewardId>56024</RewardId>
+      <RewardName>ダークラパン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50354</RewardId>
-      <RewardName>ダークラパン トール ×3</RewardName>
+      <RewardId>56025</RewardId>
+      <RewardName>ダークラパンX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50355</RewardId>
-      <RewardName>ダークラパン グランデ ×3</RewardName>
+      <RewardId>56026</RewardId>
+      <RewardName>ダークラパンY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50356</RewardId>
-      <RewardName>ダークラパン ベンティ ×3</RewardName>
+      <RewardId>56027</RewardId>
+      <RewardName>ダークラパンZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50357</RewardId>
-      <RewardName>ゴールドキャット ×3</RewardName>
+      <RewardId>56028</RewardId>
+      <RewardName>ゴールドキャット x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50358</RewardId>
-      <RewardName>ゴールドジャック ×3</RewardName>
+      <RewardId>56029</RewardId>
+      <RewardName>ゴールドジャック x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50359</RewardId>
-      <RewardName>ゴールドクイーン ×3</RewardName>
+      <RewardId>56030</RewardId>
+      <RewardName>ゴールドクイーン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50360</RewardId>
-      <RewardName>ゴールドキング ×3</RewardName>
+      <RewardId>56031</RewardId>
+      <RewardName>ゴールドキング x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50361</RewardId>
-      <RewardName>ハヤイサー ×3</RewardName>
+      <RewardId>56032</RewardId>
+      <RewardName>ハヤイサー x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50362</RewardId>
-      <RewardName>ハヤイサーX ×3</RewardName>
+      <RewardId>56033</RewardId>
+      <RewardName>ハヤイサーX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50363</RewardId>
-      <RewardName>ハヤイサーY ×3</RewardName>
+      <RewardId>56034</RewardId>
+      <RewardName>ハヤイサーY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50364</RewardId>
-      <RewardName>ハヤイサーZ ×3</RewardName>
+      <RewardId>56035</RewardId>
+      <RewardName>ハヤイサーZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50365</RewardId>
-      <RewardName>スタミーナ ×3</RewardName>
+      <RewardId>56036</RewardId>
+      <RewardName>スタミーナ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50366</RewardId>
-      <RewardName>スタミーナX ×3</RewardName>
+      <RewardId>56037</RewardId>
+      <RewardName>スタミーナX x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50367</RewardId>
-      <RewardName>スタミーナY ×3</RewardName>
+      <RewardId>56038</RewardId>
+      <RewardName>スタミーナY x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50368</RewardId>
-      <RewardName>スタミーナZ ×3</RewardName>
+      <RewardId>56039</RewardId>
+      <RewardName>スタミーナZ x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50369</RewardId>
-      <RewardName>スキプルベビー ×3</RewardName>
+      <RewardId>56040</RewardId>
+      <RewardName>ジタン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
-      <RewardId>50370</RewardId>
-      <RewardName>スキプル ×3</RewardName>
+      <RewardId>56041</RewardId>
+      <RewardName>クロノジタン x3</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -63413,16 +63156,9 @@
     <DocSerialCodeText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>ダミーシリアルコード</Description>
+      <Description>事前登録報酬のラビィです。</Description>
       <SerialCodeId>0</SerialCodeId>
-      <SerialCodeName>ダミーシリアルコード</SerialCodeName>
-    </DocSerialCodeText>
-    <DocSerialCodeText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <SerialCodeId>1</SerialCodeId>
-      <SerialCodeName>事前登録テスト</SerialCodeName>
+      <SerialCodeName>事前登録報酬</SerialCodeName>
     </DocSerialCodeText>
   </DocSerialCodeTextList>
   <DocStageTextList>
