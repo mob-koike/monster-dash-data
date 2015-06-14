@@ -273,7 +273,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>20</ScheduleId>
       <ScheduleLayerId>100012</ScheduleLayerId>
-      <ScheduleName>光の育成素材</ScheduleName>
+      <ScheduleName>光の育成素材[8-9]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>2016</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -284,7 +284,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T08:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T09:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -293,7 +298,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>21</ScheduleId>
       <ScheduleLayerId>100013</ScheduleLayerId>
-      <ScheduleName>闇の育成素材</ScheduleName>
+      <ScheduleName>闇の育成素材[8-9]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>2010</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -304,7 +309,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>MONDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T08:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T09:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -313,7 +323,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>22</ScheduleId>
       <ScheduleLayerId>100014</ScheduleLayerId>
-      <ScheduleName>火の育成素材</ScheduleName>
+      <ScheduleName>火の育成素材[8-9]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>2011</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -324,7 +334,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>TUESDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T08:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T09:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -333,7 +348,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>23</ScheduleId>
       <ScheduleLayerId>100015</ScheduleLayerId>
-      <ScheduleName>水の育成素材</ScheduleName>
+      <ScheduleName>水の育成素材[8-9]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>2012</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -344,7 +359,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T08:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T09:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -353,7 +373,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>24</ScheduleId>
       <ScheduleLayerId>100016</ScheduleLayerId>
-      <ScheduleName>木の育成素材</ScheduleName>
+      <ScheduleName>木の育成素材[8-9]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>2013</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -364,7 +384,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>THURSDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T08:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T09:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -373,7 +398,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>25</ScheduleId>
       <ScheduleLayerId>100017</ScheduleLayerId>
-      <ScheduleName>鋼の育成素材</ScheduleName>
+      <ScheduleName>鋼の育成素材[8-9]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>2014</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -384,7 +409,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>FRIDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T08:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T09:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -393,7 +423,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>26</ScheduleId>
       <ScheduleLayerId>100018</ScheduleLayerId>
-      <ScheduleName>土の育成素材</ScheduleName>
+      <ScheduleName>土の育成素材[8-9]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>2015</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -404,7 +434,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>SATURDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T08:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T09:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -491,7 +526,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>30</ScheduleId>
       <ScheduleLayerId>100022</ScheduleLayerId>
-      <ScheduleName>光の育成素材争奪レース</ScheduleName>
+      <ScheduleName>光の育成素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3006</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -502,7 +537,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -511,7 +551,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>31</ScheduleId>
       <ScheduleLayerId>100023</ScheduleLayerId>
-      <ScheduleName>闇の育成素材争奪レース</ScheduleName>
+      <ScheduleName>闇の育成素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3000</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -522,7 +562,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>MONDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -531,7 +576,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>32</ScheduleId>
       <ScheduleLayerId>100024</ScheduleLayerId>
-      <ScheduleName>火の育成素材争奪レース</ScheduleName>
+      <ScheduleName>火の育成素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3001</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -542,7 +587,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>TUESDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -551,7 +601,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>33</ScheduleId>
       <ScheduleLayerId>100025</ScheduleLayerId>
-      <ScheduleName>水の育成素材争奪レース</ScheduleName>
+      <ScheduleName>水の育成素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3002</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -562,7 +612,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -571,7 +626,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>34</ScheduleId>
       <ScheduleLayerId>100026</ScheduleLayerId>
-      <ScheduleName>木の育成素材争奪レース</ScheduleName>
+      <ScheduleName>木の育成素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3003</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -582,7 +637,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>THURSDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -591,7 +651,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>35</ScheduleId>
       <ScheduleLayerId>100027</ScheduleLayerId>
-      <ScheduleName>鋼の育成素材争奪レース</ScheduleName>
+      <ScheduleName>鋼の育成素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3004</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -602,7 +662,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>FRIDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -611,7 +676,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>36</ScheduleId>
       <ScheduleLayerId>100028</ScheduleLayerId>
-      <ScheduleName>土の育成素材争奪レース</ScheduleName>
+      <ScheduleName>土の育成素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3005</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -622,7 +687,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>SATURDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -657,7 +727,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>38</ScheduleId>
       <ScheduleLayerId>100030</ScheduleLayerId>
-      <ScheduleName>光の進化素材争奪レース</ScheduleName>
+      <ScheduleName>光の進化素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3014</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -668,7 +738,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -677,7 +752,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>39</ScheduleId>
       <ScheduleLayerId>100031</ScheduleLayerId>
-      <ScheduleName>闇の進化素材争奪レース</ScheduleName>
+      <ScheduleName>闇の進化素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3008</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -688,7 +763,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>MONDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -697,7 +777,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>40</ScheduleId>
       <ScheduleLayerId>100032</ScheduleLayerId>
-      <ScheduleName>火の進化素材争奪レース</ScheduleName>
+      <ScheduleName>火の進化素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3009</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -708,7 +788,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>TUESDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -717,7 +802,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>41</ScheduleId>
       <ScheduleLayerId>100033</ScheduleLayerId>
-      <ScheduleName>水の進化素材争奪レース</ScheduleName>
+      <ScheduleName>水の進化素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3010</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -728,7 +813,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -737,7 +827,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>42</ScheduleId>
       <ScheduleLayerId>100034</ScheduleLayerId>
-      <ScheduleName>木の進化素材争奪レース</ScheduleName>
+      <ScheduleName>木の進化素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3011</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -748,7 +838,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>THURSDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -757,7 +852,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>43</ScheduleId>
       <ScheduleLayerId>100035</ScheduleLayerId>
-      <ScheduleName>鋼の進化素材争奪レース</ScheduleName>
+      <ScheduleName>鋼の進化素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3012</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -768,7 +863,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>FRIDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -777,7 +877,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>44</ScheduleId>
       <ScheduleLayerId>100036</ScheduleLayerId>
-      <ScheduleName>土の進化素材争奪レース</ScheduleName>
+      <ScheduleName>土の進化素材争奪レース[12-15]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3013</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -788,7 +888,12 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>SATURDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
-      <ScheduleDateTimeList />
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T12:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -919,13 +1024,13 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>51</ScheduleId>
       <ScheduleLayerId>200</ScheduleLayerId>
-      <ScheduleName>社内マルチプレイテスト（6/4）</ScheduleName>
+      <ScheduleName>今日の占い（6/14）</ScheduleName>
       <ScheduleKindCode>MARQUEE</ScheduleKindCode>
       <DataId>0</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+        <StartDateTime>2015-06-14T00:00:00</StartDateTime>
+        <EndDateTime>2015-06-14T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
@@ -1066,6 +1171,816 @@
       <DayOfWeekCodeList>
         <DayOfWeekCode>MONDAY</DayOfWeekCode>
       </DayOfWeekCodeList>
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleId>15</ScheduleId>
+      <ScheduleLayerId>100007</ScheduleLayerId>
+      <ScheduleName>dummy</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2010</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>SUNDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleId>16</ScheduleId>
+      <ScheduleLayerId>100066</ScheduleLayerId>
+      <ScheduleName>dummy</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2000</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleId>17</ScheduleId>
+      <ScheduleLayerId>100067</ScheduleLayerId>
+      <ScheduleName>dummy</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2000</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleId>18</ScheduleId>
+      <ScheduleLayerId>100008</ScheduleLayerId>
+      <ScheduleName>dummy</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2000</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>50</ScheduleId>
+      <ScheduleLayerId>100009</ScheduleLayerId>
+      <ScheduleName>光の育成素材[15-16]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2016</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>SUNDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T15:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T16:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>53</ScheduleId>
+      <ScheduleLayerId>100010</ScheduleLayerId>
+      <ScheduleName>闇の育成素材[15-16]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2010</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>MONDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T15:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T16:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>54</ScheduleId>
+      <ScheduleLayerId>100011</ScheduleLayerId>
+      <ScheduleName>火の育成素材[15-16]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2011</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>TUESDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T15:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T16:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>55</ScheduleId>
+      <ScheduleLayerId>100041</ScheduleLayerId>
+      <ScheduleName>水の育成素材[15-16]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2012</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T15:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T16:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>56</ScheduleId>
+      <ScheduleLayerId>100042</ScheduleLayerId>
+      <ScheduleName>木の育成素材[15-16]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2013</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>THURSDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T15:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T16:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>57</ScheduleId>
+      <ScheduleLayerId>100043</ScheduleLayerId>
+      <ScheduleName>鋼の育成素材[15-16]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2014</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>FRIDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T15:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T16:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>58</ScheduleId>
+      <ScheduleLayerId>100044</ScheduleLayerId>
+      <ScheduleName>土の育成素材[15-16]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2015</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>SATURDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T15:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T16:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>59</ScheduleId>
+      <ScheduleLayerId>100045</ScheduleLayerId>
+      <ScheduleName>光の育成素材[22-23]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2016</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>SUNDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T22:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T23:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>60</ScheduleId>
+      <ScheduleLayerId>100046</ScheduleLayerId>
+      <ScheduleName>闇の育成素材[22-23]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2010</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>MONDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T22:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T23:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>65</ScheduleId>
+      <ScheduleLayerId>100047</ScheduleLayerId>
+      <ScheduleName>火の育成素材[22-23]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2011</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>TUESDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T22:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T23:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>66</ScheduleId>
+      <ScheduleLayerId>100048</ScheduleLayerId>
+      <ScheduleName>水の育成素材[22-23]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2012</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T22:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T23:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>67</ScheduleId>
+      <ScheduleLayerId>100049</ScheduleLayerId>
+      <ScheduleName>木の育成素材[22-23]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2013</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>THURSDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T22:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T23:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>68</ScheduleId>
+      <ScheduleLayerId>100050</ScheduleLayerId>
+      <ScheduleName>鋼の育成素材[22-23]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2014</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>FRIDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T22:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T23:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>69</ScheduleId>
+      <ScheduleLayerId>100051</ScheduleLayerId>
+      <ScheduleName>土の育成素材[22-23]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>2015</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>SATURDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T22:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T23:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>70</ScheduleId>
+      <ScheduleLayerId>100052</ScheduleLayerId>
+      <ScheduleName>光の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3006</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>SUNDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>71</ScheduleId>
+      <ScheduleLayerId>100053</ScheduleLayerId>
+      <ScheduleName>闇の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3000</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>MONDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>72</ScheduleId>
+      <ScheduleLayerId>100054</ScheduleLayerId>
+      <ScheduleName>火の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3001</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>TUESDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>73</ScheduleId>
+      <ScheduleLayerId>100055</ScheduleLayerId>
+      <ScheduleName>水の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3002</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>74</ScheduleId>
+      <ScheduleLayerId>100056</ScheduleLayerId>
+      <ScheduleName>木の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3003</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>THURSDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>75</ScheduleId>
+      <ScheduleLayerId>100057</ScheduleLayerId>
+      <ScheduleName>鋼の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3004</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>FRIDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>76</ScheduleId>
+      <ScheduleLayerId>100058</ScheduleLayerId>
+      <ScheduleName>土の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3005</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>SATURDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>77</ScheduleId>
+      <ScheduleLayerId>100059</ScheduleLayerId>
+      <ScheduleName>光の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3014</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>SUNDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>78</ScheduleId>
+      <ScheduleLayerId>100060</ScheduleLayerId>
+      <ScheduleName>闇の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3008</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>MONDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>79</ScheduleId>
+      <ScheduleLayerId>100061</ScheduleLayerId>
+      <ScheduleName>火の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3009</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>TUESDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>80</ScheduleId>
+      <ScheduleLayerId>100062</ScheduleLayerId>
+      <ScheduleName>水の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3010</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>WEDNESDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>81</ScheduleId>
+      <ScheduleLayerId>100063</ScheduleLayerId>
+      <ScheduleName>木の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3011</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>THURSDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>82</ScheduleId>
+      <ScheduleLayerId>100064</ScheduleLayerId>
+      <ScheduleName>鋼の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3012</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>FRIDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>83</ScheduleId>
+      <ScheduleLayerId>100065</ScheduleLayerId>
+      <ScheduleName>土の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3013</DataId>
+      <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2020-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList>
+        <DayOfWeekCode>SATURDAY</DayOfWeekCode>
+      </DayOfWeekCodeList>
+      <ScheduleDateTimeList>
+        <ScheduleDateTime>
+          <StartDateTime>2015-01-01T19:00:00</StartDateTime>
+          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+        </ScheduleDateTime>
+      </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>84</ScheduleId>
+      <ScheduleLayerId>200</ScheduleLayerId>
+      <ScheduleName>今日の占い（6/15）</ScheduleName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
+      <DataId>1</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-06-15T00:00:00</StartDateTime>
+        <EndDateTime>2015-06-15T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>85</ScheduleId>
+      <ScheduleLayerId>101</ScheduleLayerId>
+      <ScheduleName>降臨テスト</ScheduleName>
+      <ScheduleKindCode>BANNER</ScheduleKindCode>
+      <DataId>1</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
       <ScheduleDateTimeList />
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
@@ -1788,6 +2703,276 @@
       <ScheduleLayerId>500005</ScheduleLayerId>
       <ScheduleLayerName>キャンペーン 500005</ScheduleLayerName>
       <ScheduleKindCode>CAMPAIGN</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100041</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100041</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100042</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100042</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100043</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100043</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100044</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100044</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100045</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100045</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100046</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100046</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100047</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100047</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100048</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100048</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100049</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100049</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100050</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100050</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100051</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100051</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100052</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100052</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100053</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100053</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100054</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100054</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100055</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100055</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100056</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100056</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100057</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100057</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100058</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100058</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100059</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100059</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100060</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100060</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100061</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100061</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100062</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100062</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100063</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100063</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100064</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100064</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100065</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100065</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100066</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100066</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>100067</ScheduleLayerId>
+      <ScheduleLayerName>ステージ 100067</ScheduleLayerName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
       <GachaTypeCode>INVALID</GachaTypeCode>
       <DisplayLocationCode>INVALID</DisplayLocationCode>
       <Memo />
