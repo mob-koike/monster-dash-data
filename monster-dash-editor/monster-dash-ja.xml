@@ -614,21 +614,21 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを30％減少させ、自身に還元する</Description>
+      <Description>敵のスタミナを20％減少させ、自身に還元する</Description>
       <ActionSkillId>2007000</ActionSkillId>
       <ActionSkillName>大地の怒り</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを40％減少させ、自身に還元する</Description>
+      <Description>敵のスタミナを30％減少させ、自身に還元する</Description>
       <ActionSkillId>2007001</ActionSkillId>
       <ActionSkillName>ヘルズブレス</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを50％減少させ、自身に還元する</Description>
+      <Description>敵のスタミナを40％減少させ、自身に還元する</Description>
       <ActionSkillId>2007002</ActionSkillId>
       <ActionSkillName>ブラッドドレイン</ActionSkillName>
     </DocActionSkillText>
@@ -663,49 +663,49 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを20％減少させる</Description>
+      <Description>敵のスタミナを10％減少させる</Description>
       <ActionSkillId>2016000</ActionSkillId>
       <ActionSkillName>スタミナダウン</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを20％減少させる</Description>
+      <Description>敵のスタミナを10％減少させる</Description>
       <ActionSkillId>2016001</ActionSkillId>
       <ActionSkillName>どくばり</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを25％減少させる</Description>
+      <Description>敵のスタミナを20％減少させる</Description>
       <ActionSkillId>2016002</ActionSkillId>
       <ActionSkillName>空腹の調べ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを30％減少させる</Description>
+      <Description>敵のスタミナを25％減少させる</Description>
       <ActionSkillId>2016003</ActionSkillId>
       <ActionSkillName>バッドバイタル</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを40％減少させる</Description>
+      <Description>敵のスタミナを30％減少させる</Description>
       <ActionSkillId>2016004</ActionSkillId>
       <ActionSkillName>パワーストンプ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを40％減少させる</Description>
+      <Description>敵のスタミナを30％減少させる</Description>
       <ActionSkillId>2016005</ActionSkillId>
       <ActionSkillName>レックスクラッシュ</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>敵のスタミナを40％減少させる</Description>
+      <Description>敵のスタミナを30％減少させる</Description>
       <ActionSkillId>2016006</ActionSkillId>
       <ActionSkillName>ノーズニードル</ActionSkillName>
     </DocActionSkillText>
@@ -733,7 +733,7 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>7秒間、敵のスピードを70％低下させ、さらに交代不可にする</Description>
+      <Description>5秒間、敵のスピードを70％低下させ、さらに交代不可にする</Description>
       <ActionSkillId>2028000</ActionSkillId>
       <ActionSkillName>偽りの黙示録</ActionSkillName>
     </DocActionSkillText>
@@ -747,42 +747,42 @@
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスタミナを70％回復する</Description>
+      <Description>控えモンスターのスタミナを50％回復する</Description>
       <ActionSkillId>3017001</ActionSkillId>
       <ActionSkillName>森羅万象</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを20％回復する</Description>
+      <Description>控えモンスターのスキルゲージを10％回復する</Description>
       <ActionSkillId>3018000</ActionSkillId>
       <ActionSkillName>スキルジタン</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを30％回復する</Description>
+      <Description>控えモンスターのスキルゲージを20％回復する</Description>
       <ActionSkillId>3018001</ActionSkillId>
       <ActionSkillName>秘密の魔法</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを50％回復する</Description>
+      <Description>控えモンスターのスキルゲージを30％回復する</Description>
       <ActionSkillId>3018002</ActionSkillId>
       <ActionSkillName>禁断の魔術</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを50％回復する</Description>
+      <Description>控えモンスターのスキルゲージを30％回復する</Description>
       <ActionSkillId>3018003</ActionSkillId>
       <ActionSkillName>セイントフォース</ActionSkillName>
     </DocActionSkillText>
     <DocActionSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>控えモンスターのスキルゲージを70％回復する</Description>
+      <Description>控えモンスターのスキルゲージを50％回復する</Description>
       <ActionSkillId>3018004</ActionSkillId>
       <ActionSkillName>大地の祈り</ActionSkillName>
     </DocActionSkillText>
@@ -1071,6 +1071,13 @@
       <Description />
       <CampaignId>6</CampaignId>
       <CampaignName>行動力消費半分（闇の国）</CampaignName>
+    </DocCampaignText>
+    <DocCampaignText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <CampaignId>7</CampaignId>
+      <CampaignName>大成功確率アップ</CampaignName>
     </DocCampaignText>
   </DocCampaignTextList>
   <DocCheckPointItemTextList>
@@ -8224,29 +8231,22 @@
       <LanguageCode>JA</LanguageCode>
       <Description>通常ノーマルガチャ</Description>
       <GachaId>0</GachaId>
-      <GachaName>ノーマルガチャ（基本）</GachaName>
+      <GachaName>ノーマルガチャ</GachaName>
     </DocGachaText>
     <DocGachaText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>通常プレミアガチャ
-ダッシュ値は1-5でランダム</Description>
+ダッシュ値は1-4でランダム</Description>
       <GachaId>1</GachaId>
-      <GachaName>プレミアムガチャ（基本）</GachaName>
+      <GachaName>プレミアムガチャ</GachaName>
     </DocGachaText>
     <DocGachaText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description>メダル専用ガチャで育成・強化素材確定</Description>
       <GachaId>2</GachaId>
-      <GachaName>メダルガチャ（強化/育成）</GachaName>
-    </DocGachaText>
-    <DocGachaText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>★３以上のすべてのモンスター獲得可能</Description>
-      <GachaId>3</GachaId>
-      <GachaName>プレミアムガチャ（テスト用）</GachaName>
+      <GachaName>メダルガチャ</GachaName>
     </DocGachaText>
   </DocGachaTextList>
   <DocGameBalanceTextList>
@@ -8895,9 +8895,33 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MailId>4</MailId>
-      <MailName>事前登録報酬（シリアルコード用）</MailName>
+      <MailName>事前登録報酬（ラビィ用）</MailName>
       <Title>事前登録報酬</Title>
       <Message>【仮】事前登録報酬のラビィです。</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>5</MailId>
+      <MailName>世界3000万人突破記念！</MailName>
+      <Title>プレゼント</Title>
+      <Message>世界3000万人突破記念！
+
+ダッシュは皆様に支えられて、
+世界累計でのご利用者数
+3000万人を突破しました！
+
+皆様への感謝の気持ちとして、
+運営Tより、クリスタル1個を
+お送り致します。
+
+今後もモンスターダッシュを
+よろしくお願い致します。
+
+ダッシュ運営一同
+
+by mobcast</Message>
     </DocMailText>
   </DocMailTextList>
   <DocMarqueeTextList>
@@ -16555,357 +16579,357 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>50000100</RaceId>
-      <RaceName>全7属性 超・長距離レース-R1</RaceName>
+      <RaceName>基本5属性 長距離レース-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>50000200</RaceId>
-      <RaceName>基本地形（水）-R1</RaceName>
+      <RaceName>全7属性 超・長距離レース-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19000000</RaceId>
-      <RaceName>基本地形（土）-R1</RaceName>
+      <RaceName>基本地形（木）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19000100</RaceId>
-      <RaceName>基本地形（鋼）-R1</RaceName>
+      <RaceName>基本地形（水）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19000200</RaceId>
-      <RaceName>基本地形（光）-R1</RaceName>
+      <RaceName>基本地形（火）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19000300</RaceId>
-      <RaceName>基本地形（闇）-R1</RaceName>
+      <RaceName>基本地形（土）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19000400</RaceId>
-      <RaceName>テスト用（木）-R1</RaceName>
+      <RaceName>基本地形（鋼）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19000500</RaceId>
-      <RaceName>テスト用（水）-R1</RaceName>
+      <RaceName>基本地形（光）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19000600</RaceId>
-      <RaceName>テスト用（火）-R1</RaceName>
+      <RaceName>基本地形（闇）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19010000</RaceId>
-      <RaceName>テスト用（土）-R1</RaceName>
+      <RaceName>テスト用（木）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19010100</RaceId>
-      <RaceName>テスト用（鋼）-R1</RaceName>
+      <RaceName>テスト用（水）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19010200</RaceId>
-      <RaceName>テスト用（光）-R1</RaceName>
+      <RaceName>テスト用（火）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19010300</RaceId>
-      <RaceName>テスト用（闇）-R1</RaceName>
+      <RaceName>テスト用（土）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19010400</RaceId>
-      <RaceName>パワー（木）-R1</RaceName>
+      <RaceName>テスト用（鋼）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19010500</RaceId>
-      <RaceName>パワー（水）-R1</RaceName>
+      <RaceName>テスト用（光）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>19010600</RaceId>
-      <RaceName>パワー（火）-R1</RaceName>
+      <RaceName>テスト用（闇）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29010000</RaceId>
-      <RaceName>パワー（土）-R1</RaceName>
+      <RaceName>パワー（木）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29010100</RaceId>
-      <RaceName>パワー（鋼）-R1</RaceName>
+      <RaceName>パワー（水）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29010200</RaceId>
-      <RaceName>パワー（光）-R1</RaceName>
+      <RaceName>パワー（火）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29010300</RaceId>
-      <RaceName>パワー（闇）-R1</RaceName>
+      <RaceName>パワー（土）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29010400</RaceId>
-      <RaceName>スリップ（木）-R1</RaceName>
+      <RaceName>パワー（鋼）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29010500</RaceId>
-      <RaceName>スリップ（水）-R1</RaceName>
+      <RaceName>パワー（光）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29010600</RaceId>
-      <RaceName>スリップ（火）-R1</RaceName>
+      <RaceName>パワー（闇）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29020000</RaceId>
-      <RaceName>スリップ（土）-R1</RaceName>
+      <RaceName>スリップ（木）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29020100</RaceId>
-      <RaceName>スリップ（鋼）-R1</RaceName>
+      <RaceName>スリップ（水）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29020200</RaceId>
-      <RaceName>スリップ（光）-R1</RaceName>
+      <RaceName>スリップ（火）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29020300</RaceId>
-      <RaceName>スリップ（闇）-R1</RaceName>
+      <RaceName>スリップ（土）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29020400</RaceId>
-      <RaceName>スタミナダウン（木）-R1</RaceName>
+      <RaceName>スリップ（鋼）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29020500</RaceId>
-      <RaceName>スタミナダウン（水）-R1</RaceName>
+      <RaceName>スリップ（光）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29020600</RaceId>
-      <RaceName>スタミナダウン（火）-R1</RaceName>
+      <RaceName>スリップ（闇）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29030000</RaceId>
-      <RaceName>スタミナダウン（土）-R1</RaceName>
+      <RaceName>スタミナダウン（木）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29030100</RaceId>
-      <RaceName>スタミナダウン（鋼）-R1</RaceName>
+      <RaceName>スタミナダウン（水）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29030200</RaceId>
-      <RaceName>スタミナダウン（光）-R1</RaceName>
+      <RaceName>スタミナダウン（火）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29030300</RaceId>
-      <RaceName>スタミナダウン（闇）-R1</RaceName>
+      <RaceName>スタミナダウン（土）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29030400</RaceId>
-      <RaceName>スピードダウン（木）-R1</RaceName>
+      <RaceName>スタミナダウン（鋼）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29030500</RaceId>
-      <RaceName>スピードダウン（水）-R1</RaceName>
+      <RaceName>スタミナダウン（光）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29030600</RaceId>
-      <RaceName>スピードダウン（火）-R1</RaceName>
+      <RaceName>スタミナダウン（闇）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29040000</RaceId>
-      <RaceName>スピードダウン（土）-R1</RaceName>
+      <RaceName>スピードダウン（木）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29040100</RaceId>
-      <RaceName>スピードダウン（鋼）-R1</RaceName>
+      <RaceName>スピードダウン（水）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29040200</RaceId>
-      <RaceName>スピードダウン（光）-R1</RaceName>
+      <RaceName>スピードダウン（火）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29040300</RaceId>
-      <RaceName>スピードダウン（闇）-R1</RaceName>
+      <RaceName>スピードダウン（土）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29040400</RaceId>
-      <RaceName>スキルゲージ回復-R1</RaceName>
+      <RaceName>スピードダウン（鋼）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29040500</RaceId>
-      <RaceName>スタミナ回復-R1</RaceName>
+      <RaceName>スピードダウン（光）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29040600</RaceId>
-      <RaceName>スター-R1</RaceName>
+      <RaceName>スピードダウン（闇）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29050000</RaceId>
-      <RaceName>爆弾A-R1</RaceName>
+      <RaceName>スキルゲージ回復-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29050100</RaceId>
-      <RaceName>爆弾B-R1</RaceName>
+      <RaceName>スタミナ回復-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29050200</RaceId>
-      <RaceName>報酬箱-R1</RaceName>
+      <RaceName>スター-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29050300</RaceId>
-      <RaceName>強制交代-R1</RaceName>
+      <RaceName>爆弾A-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29050400</RaceId>
-      <RaceName>上級-R1</RaceName>
+      <RaceName>爆弾B-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29050500</RaceId>
-      <RaceName>中級-R1</RaceName>
+      <RaceName>報酬箱-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29050600</RaceId>
-      <RaceName>初級-R1</RaceName>
+      <RaceName>強制交代-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -16954,21 +16978,21 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29120000</RaceId>
-      <RaceName>究極-R1</RaceName>
+      <RaceName>上級-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29120100</RaceId>
-      <RaceName>究極-R1</RaceName>
+      <RaceName>中級-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29120200</RaceId>
-      <RaceName>究極-R1</RaceName>
+      <RaceName>初級-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -16982,301 +17006,301 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29140000</RaceId>
-      <RaceName>基本地形（木）-R1</RaceName>
+      <RaceName>究極-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29150000</RaceId>
-      <RaceName>基本地形（水）-R1</RaceName>
+      <RaceName>究極-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>29160000</RaceId>
-      <RaceName>基本地形（火）-R1</RaceName>
+      <RaceName>究極-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39000000</RaceId>
-      <RaceName>基本地形（土）-R1</RaceName>
+      <RaceName>基本地形（木）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39000100</RaceId>
-      <RaceName>基本地形（鋼）-R1</RaceName>
+      <RaceName>基本地形（水）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39000200</RaceId>
-      <RaceName>基本地形（光）-R1</RaceName>
+      <RaceName>基本地形（火）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39000300</RaceId>
-      <RaceName>基本地形（闇）-R1</RaceName>
+      <RaceName>基本地形（土）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39000400</RaceId>
-      <RaceName>初級-R1</RaceName>
+      <RaceName>基本地形（鋼）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39000500</RaceId>
-      <RaceName>初級-R1</RaceName>
+      <RaceName>基本地形（光）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39000600</RaceId>
-      <RaceName>1R-R1</RaceName>
+      <RaceName>基本地形（闇）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39010000</RaceId>
-      <RaceName>2R-R1</RaceName>
+      <RaceName>初級-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39010001</RaceId>
-      <RaceName>2R-R2</RaceName>
+      <RaceName>初級-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39020000</RaceId>
-      <RaceName>3R-R1</RaceName>
+      <RaceName>1R-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39020100</RaceId>
-      <RaceName>3R-R1</RaceName>
+      <RaceName>2R-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39020101</RaceId>
-      <RaceName>3R-R2</RaceName>
+      <RaceName>2R-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39020200</RaceId>
-      <RaceName>パワー（木）-R1</RaceName>
+      <RaceName>3R-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39020201</RaceId>
-      <RaceName>パワー（水）-R2</RaceName>
+      <RaceName>3R-R2</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>39020202</RaceId>
-      <RaceName>パワー（火）-R3</RaceName>
+      <RaceName>3R-R3</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49010000</RaceId>
-      <RaceName>パワー（土）-R1</RaceName>
+      <RaceName>パワー（木）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49010100</RaceId>
-      <RaceName>パワー（鋼）-R1</RaceName>
+      <RaceName>パワー（水）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49010200</RaceId>
-      <RaceName>パワー（光）-R1</RaceName>
+      <RaceName>パワー（火）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49010300</RaceId>
-      <RaceName>パワー（闇）-R1</RaceName>
+      <RaceName>パワー（土）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49010400</RaceId>
-      <RaceName>スリップ（木）-R1</RaceName>
+      <RaceName>パワー（鋼）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49010500</RaceId>
-      <RaceName>スリップ（水）-R1</RaceName>
+      <RaceName>パワー（光）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49010600</RaceId>
-      <RaceName>スリップ（火）-R1</RaceName>
+      <RaceName>パワー（闇）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49020000</RaceId>
-      <RaceName>スリップ（土）-R1</RaceName>
+      <RaceName>スリップ（木）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49020100</RaceId>
-      <RaceName>スリップ（鋼）-R1</RaceName>
+      <RaceName>スリップ（水）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49020200</RaceId>
-      <RaceName>スリップ（光）-R1</RaceName>
+      <RaceName>スリップ（火）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49020300</RaceId>
-      <RaceName>スリップ（闇）-R1</RaceName>
+      <RaceName>スリップ（土）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49020400</RaceId>
-      <RaceName>スタミナダウン（木）-R1</RaceName>
+      <RaceName>スリップ（鋼）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49020500</RaceId>
-      <RaceName>スタミナダウン（水）-R1</RaceName>
+      <RaceName>スリップ（光）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49020600</RaceId>
-      <RaceName>スタミナダウン（火）-R1</RaceName>
+      <RaceName>スリップ（闇）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49030000</RaceId>
-      <RaceName>スタミナダウン（土）-R1</RaceName>
+      <RaceName>スタミナダウン（木）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49030100</RaceId>
-      <RaceName>スタミナダウン（鋼）-R1</RaceName>
+      <RaceName>スタミナダウン（水）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49030200</RaceId>
-      <RaceName>スタミナダウン（光）-R1</RaceName>
+      <RaceName>スタミナダウン（火）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49030300</RaceId>
-      <RaceName>スタミナダウン（闇）-R1</RaceName>
+      <RaceName>スタミナダウン（土）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49030400</RaceId>
-      <RaceName>スピードダウン（木）-R1</RaceName>
+      <RaceName>スタミナダウン（鋼）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49030500</RaceId>
-      <RaceName>スピードダウン（水）-R1</RaceName>
+      <RaceName>スタミナダウン（光）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49030600</RaceId>
-      <RaceName>スピードダウン（火）-R1</RaceName>
+      <RaceName>スタミナダウン（闇）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49040000</RaceId>
-      <RaceName>スピードダウン（土）-R1</RaceName>
+      <RaceName>スピードダウン（木）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49040100</RaceId>
-      <RaceName>スピードダウン（鋼）-R1</RaceName>
+      <RaceName>スピードダウン（水）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49040200</RaceId>
-      <RaceName>スピードダウン（光）-R1</RaceName>
+      <RaceName>スピードダウン（火）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceId>49040300</RaceId>
-      <RaceName>スピードダウン（闇）-R1</RaceName>
+      <RaceName>スピードダウン（土）-R1</RaceName>
     </DocRaceText>
     <DocRaceText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -17315,21 +17339,21 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>100000</RaceSeriesId>
-      <RaceSeriesName>【火】</RaceSeriesName>
+      <RaceSeriesName>初めてのレース</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>100100</RaceSeriesId>
-      <RaceSeriesName>【水】</RaceSeriesName>
+      <RaceSeriesName>初めてのレース</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>100200</RaceSeriesId>
-      <RaceSeriesName>【木】</RaceSeriesName>
+      <RaceSeriesName>初めてのレース</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -19170,357 +19194,357 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>500001</RaceSeriesId>
-      <RaceSeriesName>全7属性 超・長距離レース</RaceSeriesName>
+      <RaceSeriesName>基本5属性 長距離レース</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>500002</RaceSeriesId>
-      <RaceSeriesName>基本地形（水）</RaceSeriesName>
+      <RaceSeriesName>全7属性 超・長距離レース</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190000</RaceSeriesId>
-      <RaceSeriesName>基本地形（土）</RaceSeriesName>
+      <RaceSeriesName>基本地形（木）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190001</RaceSeriesId>
-      <RaceSeriesName>基本地形（鋼）</RaceSeriesName>
+      <RaceSeriesName>基本地形（水）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190002</RaceSeriesId>
-      <RaceSeriesName>基本地形（光）</RaceSeriesName>
+      <RaceSeriesName>基本地形（火）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190003</RaceSeriesId>
-      <RaceSeriesName>基本地形（闇）</RaceSeriesName>
+      <RaceSeriesName>基本地形（土）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190004</RaceSeriesId>
-      <RaceSeriesName>テスト用（木）</RaceSeriesName>
+      <RaceSeriesName>基本地形（鋼）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190005</RaceSeriesId>
-      <RaceSeriesName>テスト用（水）</RaceSeriesName>
+      <RaceSeriesName>基本地形（光）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190006</RaceSeriesId>
-      <RaceSeriesName>テスト用（火）</RaceSeriesName>
+      <RaceSeriesName>基本地形（闇）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190100</RaceSeriesId>
-      <RaceSeriesName>テスト用（土）</RaceSeriesName>
+      <RaceSeriesName>テスト用（木）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190101</RaceSeriesId>
-      <RaceSeriesName>テスト用（鋼）</RaceSeriesName>
+      <RaceSeriesName>テスト用（水）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190102</RaceSeriesId>
-      <RaceSeriesName>テスト用（光）</RaceSeriesName>
+      <RaceSeriesName>テスト用（火）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190103</RaceSeriesId>
-      <RaceSeriesName>テスト用（闇）</RaceSeriesName>
+      <RaceSeriesName>テスト用（土）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190104</RaceSeriesId>
-      <RaceSeriesName>パワー（木）</RaceSeriesName>
+      <RaceSeriesName>テスト用（鋼）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190105</RaceSeriesId>
-      <RaceSeriesName>パワー（水）</RaceSeriesName>
+      <RaceSeriesName>テスト用（光）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>190106</RaceSeriesId>
-      <RaceSeriesName>パワー（火）</RaceSeriesName>
+      <RaceSeriesName>テスト用（闇）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290100</RaceSeriesId>
-      <RaceSeriesName>パワー（土）</RaceSeriesName>
+      <RaceSeriesName>パワー（木）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290101</RaceSeriesId>
-      <RaceSeriesName>パワー（鋼）</RaceSeriesName>
+      <RaceSeriesName>パワー（水）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290102</RaceSeriesId>
-      <RaceSeriesName>パワー（光）</RaceSeriesName>
+      <RaceSeriesName>パワー（火）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290103</RaceSeriesId>
-      <RaceSeriesName>パワー（闇）</RaceSeriesName>
+      <RaceSeriesName>パワー（土）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290104</RaceSeriesId>
-      <RaceSeriesName>スリップ（木）</RaceSeriesName>
+      <RaceSeriesName>パワー（鋼）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290105</RaceSeriesId>
-      <RaceSeriesName>スリップ（水）</RaceSeriesName>
+      <RaceSeriesName>パワー（光）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290106</RaceSeriesId>
-      <RaceSeriesName>スリップ（火）</RaceSeriesName>
+      <RaceSeriesName>パワー（闇）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290200</RaceSeriesId>
-      <RaceSeriesName>スリップ（土）</RaceSeriesName>
+      <RaceSeriesName>スリップ（木）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290201</RaceSeriesId>
-      <RaceSeriesName>スリップ（鋼）</RaceSeriesName>
+      <RaceSeriesName>スリップ（水）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290202</RaceSeriesId>
-      <RaceSeriesName>スリップ（光）</RaceSeriesName>
+      <RaceSeriesName>スリップ（火）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290203</RaceSeriesId>
-      <RaceSeriesName>スリップ（闇）</RaceSeriesName>
+      <RaceSeriesName>スリップ（土）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290204</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（木）</RaceSeriesName>
+      <RaceSeriesName>スリップ（鋼）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290205</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（水）</RaceSeriesName>
+      <RaceSeriesName>スリップ（光）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290206</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（火）</RaceSeriesName>
+      <RaceSeriesName>スリップ（闇）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290300</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（土）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（木）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290301</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（鋼）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（水）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290302</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（光）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（火）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290303</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（闇）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（土）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290304</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（木）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（鋼）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290305</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（水）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（光）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290306</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（火）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（闇）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290400</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（土）</RaceSeriesName>
+      <RaceSeriesName>スピードダウン（木）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290401</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（鋼）</RaceSeriesName>
+      <RaceSeriesName>スピードダウン（水）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290402</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（光）</RaceSeriesName>
+      <RaceSeriesName>スピードダウン（火）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290403</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（闇）</RaceSeriesName>
+      <RaceSeriesName>スピードダウン（土）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290404</RaceSeriesId>
-      <RaceSeriesName>スキルゲージ回復</RaceSeriesName>
+      <RaceSeriesName>スピードダウン（鋼）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290405</RaceSeriesId>
-      <RaceSeriesName>スタミナ回復</RaceSeriesName>
+      <RaceSeriesName>スピードダウン（光）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290406</RaceSeriesId>
-      <RaceSeriesName>スター</RaceSeriesName>
+      <RaceSeriesName>スピードダウン（闇）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290500</RaceSeriesId>
-      <RaceSeriesName>爆弾A</RaceSeriesName>
+      <RaceSeriesName>スキルゲージ回復</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290501</RaceSeriesId>
-      <RaceSeriesName>爆弾B</RaceSeriesName>
+      <RaceSeriesName>スタミナ回復</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290502</RaceSeriesId>
-      <RaceSeriesName>報酬箱</RaceSeriesName>
+      <RaceSeriesName>スター</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290503</RaceSeriesId>
-      <RaceSeriesName>強制交代</RaceSeriesName>
+      <RaceSeriesName>爆弾A</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290504</RaceSeriesId>
-      <RaceSeriesName>上級</RaceSeriesName>
+      <RaceSeriesName>爆弾B</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290505</RaceSeriesId>
-      <RaceSeriesName>中級</RaceSeriesName>
+      <RaceSeriesName>報酬箱</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>290506</RaceSeriesId>
-      <RaceSeriesName>初級</RaceSeriesName>
+      <RaceSeriesName>強制交代</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -19569,21 +19593,21 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>291200</RaceSeriesId>
-      <RaceSeriesName>究極</RaceSeriesName>
+      <RaceSeriesName>上級</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>291201</RaceSeriesId>
-      <RaceSeriesName>究極</RaceSeriesName>
+      <RaceSeriesName>中級</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>291202</RaceSeriesId>
-      <RaceSeriesName>究極</RaceSeriesName>
+      <RaceSeriesName>初級</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -19597,273 +19621,273 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>291400</RaceSeriesId>
-      <RaceSeriesName>基本地形（木）</RaceSeriesName>
+      <RaceSeriesName>究極</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>291500</RaceSeriesId>
-      <RaceSeriesName>基本地形（水）</RaceSeriesName>
+      <RaceSeriesName>究極</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>291600</RaceSeriesId>
-      <RaceSeriesName>基本地形（火）</RaceSeriesName>
+      <RaceSeriesName>究極</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>390000</RaceSeriesId>
-      <RaceSeriesName>基本地形（土）</RaceSeriesName>
+      <RaceSeriesName>基本地形（木）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>390001</RaceSeriesId>
-      <RaceSeriesName>基本地形（鋼）</RaceSeriesName>
+      <RaceSeriesName>基本地形（水）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>390002</RaceSeriesId>
-      <RaceSeriesName>基本地形（光）</RaceSeriesName>
+      <RaceSeriesName>基本地形（火）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>390003</RaceSeriesId>
-      <RaceSeriesName>基本地形（闇）</RaceSeriesName>
+      <RaceSeriesName>基本地形（土）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>390004</RaceSeriesId>
-      <RaceSeriesName>初級</RaceSeriesName>
+      <RaceSeriesName>基本地形（鋼）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>390005</RaceSeriesId>
-      <RaceSeriesName>初級</RaceSeriesName>
+      <RaceSeriesName>基本地形（光）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>390006</RaceSeriesId>
-      <RaceSeriesName>1R</RaceSeriesName>
+      <RaceSeriesName>基本地形（闇）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>390100</RaceSeriesId>
-      <RaceSeriesName>2R</RaceSeriesName>
+      <RaceSeriesName>初級</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>390200</RaceSeriesId>
-      <RaceSeriesName>3R</RaceSeriesName>
+      <RaceSeriesName>1R</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>390201</RaceSeriesId>
-      <RaceSeriesName>3R</RaceSeriesName>
+      <RaceSeriesName>2R</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>390202</RaceSeriesId>
-      <RaceSeriesName>パワー（木）</RaceSeriesName>
+      <RaceSeriesName>3R</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490100</RaceSeriesId>
-      <RaceSeriesName>パワー（土）</RaceSeriesName>
+      <RaceSeriesName>パワー（木）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490101</RaceSeriesId>
-      <RaceSeriesName>パワー（鋼）</RaceSeriesName>
+      <RaceSeriesName>パワー（水）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490102</RaceSeriesId>
-      <RaceSeriesName>パワー（光）</RaceSeriesName>
+      <RaceSeriesName>パワー（火）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490103</RaceSeriesId>
-      <RaceSeriesName>パワー（闇）</RaceSeriesName>
+      <RaceSeriesName>パワー（土）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490104</RaceSeriesId>
-      <RaceSeriesName>スリップ（木）</RaceSeriesName>
+      <RaceSeriesName>パワー（鋼）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490105</RaceSeriesId>
-      <RaceSeriesName>スリップ（水）</RaceSeriesName>
+      <RaceSeriesName>パワー（光）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490106</RaceSeriesId>
-      <RaceSeriesName>スリップ（火）</RaceSeriesName>
+      <RaceSeriesName>パワー（闇）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490200</RaceSeriesId>
-      <RaceSeriesName>スリップ（土）</RaceSeriesName>
+      <RaceSeriesName>スリップ（木）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490201</RaceSeriesId>
-      <RaceSeriesName>スリップ（鋼）</RaceSeriesName>
+      <RaceSeriesName>スリップ（水）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490202</RaceSeriesId>
-      <RaceSeriesName>スリップ（光）</RaceSeriesName>
+      <RaceSeriesName>スリップ（火）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490203</RaceSeriesId>
-      <RaceSeriesName>スリップ（闇）</RaceSeriesName>
+      <RaceSeriesName>スリップ（土）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490204</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（木）</RaceSeriesName>
+      <RaceSeriesName>スリップ（鋼）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490205</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（水）</RaceSeriesName>
+      <RaceSeriesName>スリップ（光）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490206</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（火）</RaceSeriesName>
+      <RaceSeriesName>スリップ（闇）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490300</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（土）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（木）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490301</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（鋼）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（水）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490302</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（光）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（火）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490303</RaceSeriesId>
-      <RaceSeriesName>スタミナダウン（闇）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（土）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490304</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（木）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（鋼）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490305</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（水）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（光）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490306</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（火）</RaceSeriesName>
+      <RaceSeriesName>スタミナダウン（闇）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490400</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（土）</RaceSeriesName>
+      <RaceSeriesName>スピードダウン（木）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490401</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（鋼）</RaceSeriesName>
+      <RaceSeriesName>スピードダウン（水）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490402</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（光）</RaceSeriesName>
+      <RaceSeriesName>スピードダウン（火）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RaceSeriesId>490403</RaceSeriesId>
-      <RaceSeriesName>スピードダウン（闇）</RaceSeriesName>
+      <RaceSeriesName>スピードダウン（土）</RaceSeriesName>
     </DocRaceSeriesText>
     <DocRaceSeriesText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -19893,7 +19917,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RewardId>0</RewardId>
-      <RewardName>クリスタル</RewardName>
+      <RewardName>クリスタル×1</RewardName>
     </DocRewardText>
     <DocRewardText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -63595,49 +63619,49 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2910</StageId>
-      <StageName>ゴールドを求めて</StageName>
+      <StageName>強化素材を求めて</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2911</StageId>
-      <StageName>経験値を求めて</StageName>
+      <StageName>ゴールドを求めて</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2912</StageId>
-      <StageName>クリアしたら終了</StageName>
+      <StageName>経験値を求めて</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2913</StageId>
-      <StageName>経験値争奪大会</StageName>
+      <StageName>クリアしたら終了</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2914</StageId>
-      <StageName>基本地形</StageName>
+      <StageName>強化素材争奪大会</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2915</StageId>
-      <StageName>基本地形</StageName>
+      <StageName>ゴールド争奪大会</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>DISABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>2916</StageId>
-      <StageName>基本地形</StageName>
+      <StageName>経験値争奪大会</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -63651,7 +63675,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <StageId>3901</StageId>
-      <StageName>テスト用</StageName>
+      <StageName>基本地形（2R）</StageName>
     </DocStageText>
     <DocStageText>
       <DataStatusCode>DISABLE</DataStatusCode>

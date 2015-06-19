@@ -28,8 +28,8 @@
       <DataId>1</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+        <StartDateTime>2015-06-18T10:00:00</StartDateTime>
+        <EndDateTime>2015-06-18T11:00:00</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
@@ -1022,24 +1022,6 @@
     </DocSchedule>
     <DocSchedule>
       <DataStatusCode>ENABLE</DataStatusCode>
-      <ScheduleId>51</ScheduleId>
-      <ScheduleLayerId>200</ScheduleLayerId>
-      <ScheduleName>今日の占い（6/14）</ScheduleName>
-      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
-      <DataId>0</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-06-14T00:00:00</StartDateTime>
-        <EndDateTime>2015-06-14T23:59:59</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>-1</UserSegmentId>
-      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>52</ScheduleId>
       <ScheduleLayerId>7</ScheduleLayerId>
       <ScheduleName>通常版友達招待</ScheduleName>
@@ -1946,42 +1928,6 @@
           <EndDateTime>2015-01-01T22:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
-      <UserSegmentId>-1</UserSegmentId>
-      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <ScheduleId>84</ScheduleId>
-      <ScheduleLayerId>200</ScheduleLayerId>
-      <ScheduleName>今日の占い（6/15）</ScheduleName>
-      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
-      <DataId>1</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-06-15T00:00:00</StartDateTime>
-        <EndDateTime>2015-06-15T23:59:59</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
-      <UserSegmentId>-1</UserSegmentId>
-      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
-    </DocSchedule>
-    <DocSchedule>
-      <DataStatusCode>ENABLE</DataStatusCode>
-      <ScheduleId>85</ScheduleId>
-      <ScheduleLayerId>101</ScheduleLayerId>
-      <ScheduleName>降臨テスト</ScheduleName>
-      <ScheduleKindCode>BANNER</ScheduleKindCode>
-      <DataId>1</DataId>
-      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
-      <ScheduleDateTime>
-        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
-        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
-      </ScheduleDateTime>
-      <DayOfWeekCodeList />
-      <ScheduleDateTimeList />
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
@@ -2973,6 +2919,16 @@
       <ScheduleLayerId>100067</ScheduleLayerId>
       <ScheduleLayerName>ステージ 100067</ScheduleLayerName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>500006</ScheduleLayerId>
+      <ScheduleLayerName>キャンペーン 500006</ScheduleLayerName>
+      <ScheduleKindCode>CAMPAIGN</ScheduleKindCode>
       <GachaTypeCode>INVALID</GachaTypeCode>
       <DisplayLocationCode>INVALID</DisplayLocationCode>
       <Memo />
