@@ -1014,13 +1014,6 @@
       <BannerId>0</BannerId>
       <BannerName>通常版友達招待</BannerName>
     </DocBannerText>
-    <DocBannerText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description>降臨レース用のテストです。</Description>
-      <BannerId>1</BannerId>
-      <BannerName>降臨（テスト）</BannerName>
-    </DocBannerText>
   </DocBannerTextList>
   <DocCampaignTextList>
     <DocCampaignText>
@@ -8859,7 +8852,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MailId>2</MailId>
-      <MailName>友達招待報酬</MailName>
+      <MailName>友達招待報酬（招待者用）</MailName>
       <Title>友達招待報酬</Title>
       <Message>友達招待成功でクリスタル5個プレゼント！</Message>
     </DocMailText>
@@ -8870,7 +8863,9 @@
       <MailId>0</MailId>
       <MailName>初ステージクリア報酬</MailName>
       <Title>初ステージクリア報酬</Title>
-      <Message>初ステージクリア報酬がレース後に付与できなかったためメールにてお送りします。</Message>
+      <Message>初ステージクリア報酬がレース後に付与できなかったためメールにてお送りします。
+
+報酬：クリスタル1個</Message>
     </DocMailText>
     <DocMailText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -8879,7 +8874,9 @@
       <MailId>1</MailId>
       <MailName>初ゴールドトロフィ獲得報酬</MailName>
       <Title>初ゴールドトロフィ獲得報酬</Title>
-      <Message>初ゴールドトロフィ獲得報酬がレース後に付与できなかったためメールにてお送りします。</Message>
+      <Message>初ゴールドトロフィ獲得報酬がレース後に付与できなかったためメールにてお送りします。
+
+報酬：クリスタル1個</Message>
     </DocMailText>
     <DocMailText>
       <DataStatusCode>DISABLE</DataStatusCode>
@@ -8899,30 +8896,6 @@
       <Title>事前登録報酬</Title>
       <Message>【仮】事前登録報酬のラビィです。</Message>
     </DocMailText>
-    <DocMailText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <MailId>5</MailId>
-      <MailName>世界3000万人突破記念！</MailName>
-      <Title>プレゼント</Title>
-      <Message>世界3000万人突破記念！
-
-ダッシュは皆様に支えられて、
-世界累計でのご利用者数
-3000万人を突破しました！
-
-皆様への感謝の気持ちとして、
-運営Tより、クリスタル1個を
-お送り致します。
-
-今後もモンスターダッシュを
-よろしくお願い致します。
-
-ダッシュ運営一同
-
-by mobcast</Message>
-    </DocMailText>
   </DocMailTextList>
   <DocMarqueeTextList>
     <DocMarqueeText>
@@ -8930,16 +8903,8 @@ by mobcast</Message>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MarqueeId>0</MarqueeId>
-      <MarqueeName>今日の占い（6/14）</MarqueeName>
-      <Message>[今日の占い 6/14]　１位 おうし座　ヤル気に満ちあふれて絶好調な週末　具体的な行動を起こすと良い結果が　　　　　２位 おとめ座　外出するとパワーＵＰ！　朝から活発に動いてＯＫ　　　　　３位 やぎ座　隠れていた才能が開花　感謝の言葉を忘れずに</Message>
-    </DocMarqueeText>
-    <DocMarqueeText>
-      <DataStatusCode>DISABLE</DataStatusCode>
-      <LanguageCode>JA</LanguageCode>
-      <Description />
-      <MarqueeId>1</MarqueeId>
-      <MarqueeName>今日の占い（6/15）</MarqueeName>
-      <Message>[今日の占い 6/15]　１位 いて座　課題が全て片付きＨＡＰＰＹな１日。大事な目標はランチタイムにＴＲＹ。　　　　　２位 ふたご座　再チャレンジで大成功。仲間の助言がポイント。　　　　　３位 おひつじ座　日が落ちてから絶好調！気になるスポットへＧＯ。</Message>
+      <MarqueeName>モンスターダッシュの世界へようこそ</MarqueeName>
+      <Message>『爆走！モンスターダッシュ』の世界へようこそ！</Message>
     </DocMarqueeText>
   </DocMarqueeTextList>
   <DocMedalShopItemTextList>
@@ -11969,14 +11934,14 @@ by mobcast</Message>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[00ffff]スタミナダウン[-]地形走行時のスタミナ減少効果を半減</Description>
+      <Description>[00ffff]スタミナダウン[-]地形によるスタミナ減少効果を半減</Description>
       <PassiveSkillId>31100</PassiveSkillId>
       <PassiveSkillName>アンチ[00ffff]スタミナダウン[-][半]</PassiveSkillName>
     </DocPassiveSkillText>
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>[00ffff]スタミナダウン[-]地形走行時もスタミナが減少しなくなる</Description>
+      <Description>[00ffff]スタミナダウン[-]地形によるスタミナ減少効果を無効化</Description>
       <PassiveSkillId>31101</PassiveSkillId>
       <PassiveSkillName>アンチ[00ffff]スタミナダウン[-][全]</PassiveSkillName>
     </DocPassiveSkillText>

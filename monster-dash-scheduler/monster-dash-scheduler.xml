@@ -28,8 +28,8 @@
       <DataId>1</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-06-18T10:00:00</StartDateTime>
-        <EndDateTime>2015-06-18T11:00:00</EndDateTime>
+        <StartDateTime>2015-01-01T10:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
@@ -74,7 +74,7 @@
       <Memo />
     </DocSchedule>
     <DocSchedule>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <ScheduleId>4</ScheduleId>
       <ScheduleLayerId>4</ScheduleLayerId>
       <ScheduleName>イベント</ScheduleName>
@@ -92,7 +92,7 @@
       <Memo />
     </DocSchedule>
     <DocSchedule>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <ScheduleId>5</ScheduleId>
       <ScheduleLayerId>5</ScheduleLayerId>
       <ScheduleName>大会チケット</ScheduleName>
@@ -1003,7 +1003,7 @@
       <Memo />
     </DocSchedule>
     <DocSchedule>
-      <DataStatusCode>ENABLE</DataStatusCode>
+      <DataStatusCode>DISABLE</DataStatusCode>
       <ScheduleId>49</ScheduleId>
       <ScheduleLayerId>105</ScheduleLayerId>
       <ScheduleName>通常版友達招待</ScheduleName>
@@ -1018,7 +1018,7 @@
       <ScheduleDateTimeList />
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
-      <Memo />
+      <Memo>注）申請中は非表示にするために無効にしている</Memo>
     </DocSchedule>
     <DocSchedule>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -1928,6 +1928,24 @@
           <EndDateTime>2015-01-01T22:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>51</ScheduleId>
+      <ScheduleLayerId>200</ScheduleLayerId>
+      <ScheduleName>Welcome to MonterDash World!</ScheduleName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
+      <DataId>0</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2015-12-31T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
       <UserSegmentId>-1</UserSegmentId>
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
