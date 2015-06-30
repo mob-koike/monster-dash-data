@@ -74,7 +74,7 @@
       <Memo />
     </DocSchedule>
     <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
+      <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>4</ScheduleId>
       <ScheduleLayerId>4</ScheduleLayerId>
       <ScheduleName>イベント</ScheduleName>
@@ -526,7 +526,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>30</ScheduleId>
       <ScheduleLayerId>100022</ScheduleLayerId>
-      <ScheduleName>光の育成素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>光の育成素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3006</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -540,7 +540,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -551,7 +551,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>31</ScheduleId>
       <ScheduleLayerId>100023</ScheduleLayerId>
-      <ScheduleName>闇の育成素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>闇の育成素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3000</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -565,7 +565,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -576,7 +576,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>32</ScheduleId>
       <ScheduleLayerId>100024</ScheduleLayerId>
-      <ScheduleName>火の育成素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>火の育成素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3001</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -590,7 +590,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -601,7 +601,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>33</ScheduleId>
       <ScheduleLayerId>100025</ScheduleLayerId>
-      <ScheduleName>水の育成素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>水の育成素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3002</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -615,7 +615,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -626,7 +626,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>34</ScheduleId>
       <ScheduleLayerId>100026</ScheduleLayerId>
-      <ScheduleName>木の育成素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>木の育成素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3003</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -640,7 +640,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -651,7 +651,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>35</ScheduleId>
       <ScheduleLayerId>100027</ScheduleLayerId>
-      <ScheduleName>鋼の育成素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>鋼の育成素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3004</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -665,7 +665,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -676,7 +676,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>36</ScheduleId>
       <ScheduleLayerId>100028</ScheduleLayerId>
-      <ScheduleName>土の育成素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>土の育成素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3005</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -690,7 +690,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -727,7 +727,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>38</ScheduleId>
       <ScheduleLayerId>100030</ScheduleLayerId>
-      <ScheduleName>光の進化素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>光の進化素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3014</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -741,7 +741,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -752,7 +752,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>39</ScheduleId>
       <ScheduleLayerId>100031</ScheduleLayerId>
-      <ScheduleName>闇の進化素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>闇の進化素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3008</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -766,7 +766,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -777,7 +777,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>40</ScheduleId>
       <ScheduleLayerId>100032</ScheduleLayerId>
-      <ScheduleName>火の進化素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>火の進化素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3009</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -791,7 +791,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -802,7 +802,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>41</ScheduleId>
       <ScheduleLayerId>100033</ScheduleLayerId>
-      <ScheduleName>水の進化素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>水の進化素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3010</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -816,7 +816,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -827,7 +827,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>42</ScheduleId>
       <ScheduleLayerId>100034</ScheduleLayerId>
-      <ScheduleName>木の進化素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>木の進化素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3011</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -841,7 +841,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -852,7 +852,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>43</ScheduleId>
       <ScheduleLayerId>100035</ScheduleLayerId>
-      <ScheduleName>鋼の進化素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>鋼の進化素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3012</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -866,7 +866,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -877,7 +877,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>44</ScheduleId>
       <ScheduleLayerId>100036</ScheduleLayerId>
-      <ScheduleName>土の進化素材争奪レース[12-15]</ScheduleName>
+      <ScheduleName>土の進化素材争奪レース[12-14]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3013</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -891,7 +891,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T12:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T15:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T14:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1003,7 +1003,7 @@
       <Memo />
     </DocSchedule>
     <DocSchedule>
-      <DataStatusCode>DISABLE</DataStatusCode>
+      <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>49</ScheduleId>
       <ScheduleLayerId>105</ScheduleLayerId>
       <ScheduleName>通常版友達招待</ScheduleName>
@@ -1586,7 +1586,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>70</ScheduleId>
       <ScheduleLayerId>100052</ScheduleLayerId>
-      <ScheduleName>光の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>光の育成素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3006</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1600,7 +1600,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1611,7 +1611,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>71</ScheduleId>
       <ScheduleLayerId>100053</ScheduleLayerId>
-      <ScheduleName>闇の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>闇の育成素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3000</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1625,7 +1625,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1636,7 +1636,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>72</ScheduleId>
       <ScheduleLayerId>100054</ScheduleLayerId>
-      <ScheduleName>火の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>火の育成素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3001</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1650,7 +1650,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1661,7 +1661,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>73</ScheduleId>
       <ScheduleLayerId>100055</ScheduleLayerId>
-      <ScheduleName>水の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>水の育成素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3002</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1675,7 +1675,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1686,7 +1686,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>74</ScheduleId>
       <ScheduleLayerId>100056</ScheduleLayerId>
-      <ScheduleName>木の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>木の育成素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3003</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1700,7 +1700,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1711,7 +1711,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>75</ScheduleId>
       <ScheduleLayerId>100057</ScheduleLayerId>
-      <ScheduleName>鋼の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>鋼の育成素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3004</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1725,7 +1725,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1736,7 +1736,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>76</ScheduleId>
       <ScheduleLayerId>100058</ScheduleLayerId>
-      <ScheduleName>土の育成素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>土の育成素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3005</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1750,7 +1750,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1761,7 +1761,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>77</ScheduleId>
       <ScheduleLayerId>100059</ScheduleLayerId>
-      <ScheduleName>光の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>光の進化素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3014</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1775,7 +1775,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1786,7 +1786,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>78</ScheduleId>
       <ScheduleLayerId>100060</ScheduleLayerId>
-      <ScheduleName>闇の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>闇の進化素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3008</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1800,7 +1800,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1811,7 +1811,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>79</ScheduleId>
       <ScheduleLayerId>100061</ScheduleLayerId>
-      <ScheduleName>火の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>火の進化素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3009</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1825,7 +1825,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1836,7 +1836,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>80</ScheduleId>
       <ScheduleLayerId>100062</ScheduleLayerId>
-      <ScheduleName>水の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>水の進化素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3010</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1850,7 +1850,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1861,7 +1861,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>81</ScheduleId>
       <ScheduleLayerId>100063</ScheduleLayerId>
-      <ScheduleName>木の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>木の進化素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3011</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1875,7 +1875,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1886,7 +1886,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>82</ScheduleId>
       <ScheduleLayerId>100064</ScheduleLayerId>
-      <ScheduleName>鋼の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>鋼の進化素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3012</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1900,7 +1900,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1911,7 +1911,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>83</ScheduleId>
       <ScheduleLayerId>100065</ScheduleLayerId>
-      <ScheduleName>土の進化素材争奪レース[19-22]</ScheduleName>
+      <ScheduleName>土の進化素材争奪レース[19-21]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3013</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
@@ -1925,7 +1925,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-01-01T19:00:00</StartDateTime>
-          <EndDateTime>2015-01-01T22:00:00</EndDateTime>
+          <EndDateTime>2015-01-01T21:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1936,7 +1936,7 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>51</ScheduleId>
       <ScheduleLayerId>200</ScheduleLayerId>
-      <ScheduleName>Welcome to MonterDash World!</ScheduleName>
+      <ScheduleName>Welcome to MD World!</ScheduleName>
       <ScheduleKindCode>MARQUEE</ScheduleKindCode>
       <DataId>0</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
