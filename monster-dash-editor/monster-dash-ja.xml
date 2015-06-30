@@ -8265,6 +8265,18 @@
 ブラウンラパンX
 スチールラパンX</Message>
     </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>52</MailId>
+      <MailName>リリース記念ログインボーナス</MailName>
+      <Title>リリース記念ログインボーナス</Title>
+      <Message>配布期間：7/4～7/8
+
+期間中にログインすると毎日
+クリスタル1個をお送りいたします。</Message>
+    </DocMailText>
   </DocMailTextList>
   <DocMarqueeTextList>
     <DocMarqueeText>
