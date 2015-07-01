@@ -8270,12 +8270,28 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MailId>52</MailId>
-      <MailName>リリース記念ログインボーナス</MailName>
-      <Title>リリース記念ログインボーナス</Title>
+      <MailName>事前登録10万人突破記念</MailName>
+      <Title>事前登録10万人突破記念</Title>
+      <Message>事前登録者数10万人突破記念として
+クリスタル5個をプレゼント！
+
+白熱のダッシュバトルに
+スタートダッシュをかけましょう！！</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>53</MailId>
+      <MailName>スタートダッシュキャンペーン</MailName>
+      <Title>スタートダッシュキャンペーン</Title>
       <Message>配布期間：7/4～7/8
 
 期間中にログインすると毎日
-クリスタル1個をお送りいたします。</Message>
+クリスタル1個をお送りいたします。
+
+白熱のダッシュバトルに
+スタートダッシュをかけましょう！！</Message>
     </DocMailText>
   </DocMailTextList>
   <DocMarqueeTextList>
