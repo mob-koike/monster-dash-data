@@ -1950,6 +1950,42 @@
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
     </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>84</ScheduleId>
+      <ScheduleLayerId>300000</ScheduleLayerId>
+      <ScheduleName>事前登録10万人突破記念</ScheduleName>
+      <ScheduleKindCode>MAIL</ScheduleKindCode>
+      <DataId>52</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-01-01T00:00:00</StartDateTime>
+        <EndDateTime>2015-07-09T23:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>ONCE</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>85</ScheduleId>
+      <ScheduleLayerId>300001</ScheduleLayerId>
+      <ScheduleName>スタートダッシュキャンペーン</ScheduleName>
+      <ScheduleKindCode>MAIL</ScheduleKindCode>
+      <DataId>53</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-07-04T04:00:00</StartDateTime>
+        <EndDateTime>2015-07-09T03:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>DAILY</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
   </DocScheduleList>
   <DocScheduleLayerList>
     <DocScheduleLayer>
