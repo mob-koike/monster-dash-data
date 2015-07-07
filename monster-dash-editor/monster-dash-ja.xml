@@ -11177,7 +11177,7 @@
     <DocPassiveSkillText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
-      <Description>下位にいる時ににスピードが少し上昇する</Description>
+      <Description>下位にいる時にスピードが少し上昇する</Description>
       <PassiveSkillId>10300</PassiveSkillId>
       <PassiveSkillName>ガッツ[小]</PassiveSkillName>
     </DocPassiveSkillText>
