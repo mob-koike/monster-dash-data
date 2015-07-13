@@ -1969,8 +1969,8 @@
       <DataId>3016</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-07-12T00:00:00</StartDateTime>
-        <EndDateTime>2015-07-14T00:00:00</EndDateTime>
+        <StartDateTime>2015-07-11T00:00:00</StartDateTime>
+        <EndDateTime>2015-07-13T00:00:00</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
@@ -1979,7 +1979,7 @@
       <ScheduleDateTimeList>
         <ScheduleDateTime>
           <StartDateTime>2015-07-12T14:00:00</StartDateTime>
-          <EndDateTime>2015-07-12T15:00:00</EndDateTime>
+          <EndDateTime>2015-07-12T16:00:00</EndDateTime>
         </ScheduleDateTime>
       </ScheduleDateTimeList>
       <UserSegmentId>-1</UserSegmentId>
@@ -1995,8 +1995,8 @@
       <DataId>3016</DataId>
       <ScheduleTypeCode>REPEAT</ScheduleTypeCode>
       <ScheduleDateTime>
-        <StartDateTime>2015-07-12T00:00:00</StartDateTime>
-        <EndDateTime>2015-07-14T00:00:00</EndDateTime>
+        <StartDateTime>2015-07-11T00:00:00</StartDateTime>
+        <EndDateTime>2015-07-13T00:00:00</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList>
         <DayOfWeekCode>SUNDAY</DayOfWeekCode>
