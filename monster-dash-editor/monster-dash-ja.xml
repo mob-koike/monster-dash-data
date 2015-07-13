@@ -8555,6 +8555,19 @@
 クリスタル1個をお送りいたします。
 </Message>
     </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>55</MailId>
+      <MailName>松竹杯開催チラシ特典</MailName>
+      <Title>松竹杯 開催チラシ特典</Title>
+      <Message>松竹杯の開催チラシで獲得した特典です。
+
+特典
+クリスタル1個
+ラビィ</Message>
+    </DocMailText>
   </DocMailTextList>
   <DocMarqueeTextList>
     <DocMarqueeText>
@@ -59856,21 +59869,21 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RivalId>204000000</RivalId>
-      <RivalName>アーローズ</RivalName>
+      <RivalName>チュアラン</RivalName>
     </DocRivalText>
     <DocRivalText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RivalId>204000001</RivalId>
-      <RivalName>アーローズ</RivalName>
+      <RivalName>ドナルース</RivalName>
     </DocRivalText>
     <DocRivalText>
       <DataStatusCode>ENABLE</DataStatusCode>
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RivalId>204000002</RivalId>
-      <RivalName>アーローズ</RivalName>
+      <RivalName>ニーニョロ</RivalName>
     </DocRivalText>
     <DocRivalText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -59947,7 +59960,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RivalId>250001011</RivalId>
-      <RivalName>クシミアン</RivalName>
+      <RivalName>光木のベルノルト</RivalName>
     </DocRivalText>
     <DocRivalText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -60031,7 +60044,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RivalId>250101011</RivalId>
-      <RivalName>クシミアン</RivalName>
+      <RivalName>鋼腕騎士リートルト</RivalName>
     </DocRivalText>
     <DocRivalText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -60115,7 +60128,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RivalId>250201011</RivalId>
-      <RivalName>クシミアン</RivalName>
+      <RivalName>巨岩のアストロ</RivalName>
     </DocRivalText>
     <DocRivalText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -60283,7 +60296,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <RivalId>250401011</RivalId>
-      <RivalName>クシミアン</RivalName>
+      <RivalName>爆炎のジャッカル</RivalName>
     </DocRivalText>
     <DocRivalText>
       <DataStatusCode>ENABLE</DataStatusCode>
@@ -60773,6 +60786,17 @@
 スチールラパンX</Description>
       <SerialCodeId>47</SerialCodeId>
       <SerialCodeName>デンゲキバズーカ!! 特別特典</SerialCodeName>
+    </DocSerialCodeText>
+    <DocSerialCodeText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description>松竹杯の開催チラシで獲得した特典です。
+
+特典
+クリスタル1個
+ラビィ</Description>
+      <SerialCodeId>48</SerialCodeId>
+      <SerialCodeName>松竹：開催チラシ用</SerialCodeName>
     </DocSerialCodeText>
   </DocSerialCodeTextList>
   <DocStageTextList>
