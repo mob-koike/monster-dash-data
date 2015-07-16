@@ -2354,6 +2354,24 @@
       <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
       <Memo />
     </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>107</ScheduleId>
+      <ScheduleLayerId>600000</ScheduleLayerId>
+      <ScheduleName>ダッシュフェス【7月】</ScheduleName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
+      <DataId>6</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-07-16T12:00:00</StartDateTime>
+        <EndDateTime>2015-07-23T11:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
   </DocScheduleList>
   <DocScheduleLayerList>
     <DocScheduleLayer>
@@ -3471,6 +3489,16 @@
       <ScheduleLayerId>100079</ScheduleLayerId>
       <ScheduleLayerName>ステージ 100079</ScheduleLayerName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <GachaTypeCode>INVALID</GachaTypeCode>
+      <DisplayLocationCode>INVALID</DisplayLocationCode>
+      <Memo />
+      <LayerColorAsString>Control</LayerColorAsString>
+    </DocScheduleLayer>
+    <DocScheduleLayer>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <ScheduleLayerId>600000</ScheduleLayerId>
+      <ScheduleLayerName>ゲーム内告知 600000</ScheduleLayerName>
+      <ScheduleKindCode>MARQUEE</ScheduleKindCode>
       <GachaTypeCode>INVALID</GachaTypeCode>
       <DisplayLocationCode>INVALID</DisplayLocationCode>
       <Memo />

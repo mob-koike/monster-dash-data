@@ -8708,6 +8708,159 @@
 クリスタル1個
 ラビィ</Message>
     </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>56</MailId>
+      <MailName>ランク[0]報酬</MailName>
+      <Title>ランク[0]報酬</Title>
+      <Message>ランク[0]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>57</MailId>
+      <MailName>ランク[1]報酬</MailName>
+      <Title>ランク[1]報酬</Title>
+      <Message>ランク[1]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>58</MailId>
+      <MailName>ランク[2]報酬</MailName>
+      <Title>ランク[2]報酬</Title>
+      <Message>ランク[2]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>59</MailId>
+      <MailName>ランク[3]報酬</MailName>
+      <Title>ランク[3]報酬</Title>
+      <Message>ランク[3]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>60</MailId>
+      <MailName>ランク[4]報酬</MailName>
+      <Title>ランク[4]報酬</Title>
+      <Message>ランク[4]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>61</MailId>
+      <MailName>ランク[5]報酬</MailName>
+      <Title>ランク[5]報酬</Title>
+      <Message>ランク[5]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>62</MailId>
+      <MailName>ランク[6]報酬</MailName>
+      <Title>ランク[6]報酬</Title>
+      <Message>ランク[6]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>63</MailId>
+      <MailName>ランク[7]報酬</MailName>
+      <Title>ランク[7]報酬</Title>
+      <Message>ランク[7]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>64</MailId>
+      <MailName>ランク[8]報酬</MailName>
+      <Title>ランク[8]報酬</Title>
+      <Message>ランク[8]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>65</MailId>
+      <MailName>ランク[9]報酬</MailName>
+      <Title>ランク[9]報酬</Title>
+      <Message>ランク[9]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>66</MailId>
+      <MailName>ランク[10]報酬</MailName>
+      <Title>ランク[10]報酬</Title>
+      <Message>ランク[10]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>67</MailId>
+      <MailName>ランク[11]報酬</MailName>
+      <Title>ランク[11]報酬</Title>
+      <Message>ランク[11]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>68</MailId>
+      <MailName>ランク[12]報酬</MailName>
+      <Title>ランク[12]報酬</Title>
+      <Message>ランク[12]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>69</MailId>
+      <MailName>ランク[13]報酬</MailName>
+      <Title>ランク[13]報酬</Title>
+      <Message>ランク[13]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>70</MailId>
+      <MailName>ランク[14]報酬</MailName>
+      <Title>ランク[14]報酬</Title>
+      <Message>ランク[14]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>71</MailId>
+      <MailName>ランク[15]報酬</MailName>
+      <Title>ランク[15]報酬</Title>
+      <Message>ランク[15]報酬</Message>
+    </DocMailText>
+    <DocMailText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MailId>72</MailId>
+      <MailName>ランク[16]報酬</MailName>
+      <Title>ランク[16]報酬</Title>
+      <Message>ランク[16]報酬</Message>
+    </DocMailText>
   </DocMailTextList>
   <DocMarqueeTextList>
     <DocMarqueeText>
@@ -8757,6 +8910,38 @@
       <MarqueeId>5</MarqueeId>
       <MarqueeName>『赤魔道士レイラ』杯</MarqueeName>
       <Message>『赤魔道士レイラ』杯　開催中！7/24 11:59まで　</Message>
+    </DocMarqueeText>
+    <DocMarqueeText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MarqueeId>6</MarqueeId>
+      <MarqueeName>ダッシュフェス【7月】</MarqueeName>
+      <Message>【ダッシュフェス】新キャラ★5伊達政宗、真田幸村登場、さらにダッシュ値5確定のスペシャルなガチャ！</Message>
+    </DocMarqueeText>
+    <DocMarqueeText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MarqueeId>7</MarqueeId>
+      <MarqueeName>光と闇のフェスティバル[7月]</MarqueeName>
+      <Message>【光と闇のフェスティバル】新キャラ★5ヴァルキリー限定登場、さらに光属性と闇属性キャラクターの排出率が超UP！</Message>
+    </DocMarqueeText>
+    <DocMarqueeText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MarqueeId>8</MarqueeId>
+      <MarqueeName>『魔法少女ララ』杯</MarqueeName>
+      <Message>『魔法少女ララ』杯　開催中！7/27 11:59まで　</Message>
+    </DocMarqueeText>
+    <DocMarqueeText>
+      <DataStatusCode>DISABLE</DataStatusCode>
+      <LanguageCode>JA</LanguageCode>
+      <Description />
+      <MarqueeId>9</MarqueeId>
+      <MarqueeName>『魔法少女ココ』杯</MarqueeName>
+      <Message>『魔法少女ココ』杯　開催中！7/29 11:59まで　</Message>
     </DocMarqueeText>
   </DocMarqueeTextList>
   <DocMedalShopItemTextList>
@@ -11037,7 +11222,7 @@
       <LanguageCode>JA</LanguageCode>
       <Description />
       <MonsterId>208</MonsterId>
-      <MonsterName>四聖獣シルフ</MonsterName>
+      <MonsterName>四精霊シルフ</MonsterName>
     </DocMonsterText>
     <DocMonsterText>
       <DataStatusCode>ENABLE</DataStatusCode>
