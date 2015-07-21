@@ -2022,7 +2022,7 @@
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-07-13T12:00:00</StartDateTime>
-        <EndDateTime>2020-07-20T11:59:59</EndDateTime>
+        <EndDateTime>2015-07-20T11:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
@@ -2400,7 +2400,7 @@
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-07-20T12:00:00</StartDateTime>
-        <EndDateTime>2020-07-27T11:59:59</EndDateTime>
+        <EndDateTime>2015-07-27T11:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
