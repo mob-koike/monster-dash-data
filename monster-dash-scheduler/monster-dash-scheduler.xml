@@ -2016,13 +2016,13 @@
       <DataStatusCode>ENABLE</DataStatusCode>
       <ScheduleId>90</ScheduleId>
       <ScheduleLayerId>100072</ScheduleLayerId>
-      <ScheduleName>週替わりマルチレース①</ScheduleName>
+      <ScheduleName>週替わりマルチレース[7/13]</ScheduleName>
       <ScheduleKindCode>STAGE</ScheduleKindCode>
       <DataId>3503</DataId>
       <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
       <ScheduleDateTime>
         <StartDateTime>2015-07-13T12:00:00</StartDateTime>
-        <EndDateTime>2020-07-20T11:59:59</EndDateTime>
+        <EndDateTime>2015-07-20T11:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
@@ -2365,6 +2365,42 @@
       <ScheduleDateTime>
         <StartDateTime>2015-07-16T12:00:00</StartDateTime>
         <EndDateTime>2015-07-23T11:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>INVALID</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>108</ScheduleId>
+      <ScheduleLayerId>300000</ScheduleLayerId>
+      <ScheduleName>7/16の通信障害のお詫び</ScheduleName>
+      <ScheduleKindCode>MAIL</ScheduleKindCode>
+      <DataId>73</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-07-16T00:00:00</StartDateTime>
+        <EndDateTime>2015-07-18T03:59:59</EndDateTime>
+      </ScheduleDateTime>
+      <DayOfWeekCodeList />
+      <ScheduleDateTimeList />
+      <UserSegmentId>-1</UserSegmentId>
+      <MailDeliveryTypeCode>ONCE</MailDeliveryTypeCode>
+      <Memo />
+    </DocSchedule>
+    <DocSchedule>
+      <DataStatusCode>ENABLE</DataStatusCode>
+      <ScheduleId>109</ScheduleId>
+      <ScheduleLayerId>100073</ScheduleLayerId>
+      <ScheduleName>週替わりマルチレース[7/20]</ScheduleName>
+      <ScheduleKindCode>STAGE</ScheduleKindCode>
+      <DataId>3504</DataId>
+      <ScheduleTypeCode>DIRECT</ScheduleTypeCode>
+      <ScheduleDateTime>
+        <StartDateTime>2015-07-20T12:00:00</StartDateTime>
+        <EndDateTime>2015-07-27T11:59:59</EndDateTime>
       </ScheduleDateTime>
       <DayOfWeekCodeList />
       <ScheduleDateTimeList />
